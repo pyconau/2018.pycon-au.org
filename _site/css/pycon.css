@@ -1,0 +1,71 @@
+.navbar-light {
+    background: rgb(129, 185, 124);
+}
+.site-heading { 
+  padding-top: 40px;
+} 
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.page-content {
+  padding-bottom: 40px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: rgb(254, 232, 162);
+}
+
+.footer-image { 
+  height: 55px;
+  margin-top: 5px;
+  filter: drop-shadow(0px 0px 7px #fff);
+}
+ 
+.pycon-logo {
+  padding: 40px;
+}
+
+.background-img, .intro-header {  
+  background: no-repeat center center;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.intro-header { 
+  height: 350px;
+}
+ 
+.main-content { 
+  padding-top: 20px;
+}
+
+.site-heading { 
+  color: white;
+}
+.site-heading > h1 { 
+  padding-top: 60px;
+  font-size: 6.5rem !important;
+}
+.main-info { 
+  color: #fff;
+  margin-top: 100px;
+}
+
+.info-help { 
+  background-color: rgba(255, 255, 255, 0.90);
+  color: black;
+  width: 40%;
+  padding: 20px;
+  margin-bottom: 100px;
+}

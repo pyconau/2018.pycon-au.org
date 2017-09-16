@@ -1,0 +1,12 @@
+port: 4000
+header-img: "img/hobart-poster.jpg"
+
+# Navigation
+navigationLinks:
+ - {permalink: '/about/', text: "About"}
+ - {permalink: '/news/', text: "News"}
+ - {permalink: '/speak/', text: "Speak"}
+ - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/sponsor/', text: "Sponsor"}
+# - {permalink: '/schedule/', text: "Schedule"}
+ - {permalink: '/conduct/', text: "Conduct"}
