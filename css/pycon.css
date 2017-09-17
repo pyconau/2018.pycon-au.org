@@ -1,3 +1,12 @@
+.main-content a {
+    color: #195d20 !important;
+  font-weight: bold !important;
+}
+ 
+.main-content a.hover { 
+  color: #24a732 !important;
+}
+
 .navbar-light {
     background: rgb(129, 185, 124);
 }

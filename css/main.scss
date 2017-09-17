@@ -3,7 +3,10 @@
 
 @import "variables";
 @import "bootstrap/bootstrap";
-
+@import "utility";
+@import "base";
+@import "schedule";
+@import "helper";
 
 .starter-template {
   text-align: center;

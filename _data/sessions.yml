@@ -1,0 +1,65 @@
+-
+  id: 501
+  title: "Morning Tea"
+  place: "Hall"
+  service: true
+  description: "Coffee and snacks"
+-
+  id: 502
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
+  description: "Catered food, beverages, and cute little desserts"
+-
+  id: 503
+  title: "Afternoon Tea"
+  place: "Hall"
+  service: true
+  description: "Coffee and snacks"
+
+- 
+  id: 504
+  title: "Room Changeover"
+  service: true
+
+- id: 990
+  title: "First-timers Session"
+  place: "Cockle Bay"
+  description: "New to PyCon AU? Come along and gain some tricks about how it's done"
+  service: true
+
+- id: 991
+  title: "Welcome"
+  place: "Cockle Bay"
+
+- id: 992
+  title: "Keynote One"
+  subtype: keynote
+  place: "Cockle Bay"
+
+-
+  id: 001
+  title: "Favourite Colours"
+  description: "Three questions, one bridge"
+  speakers: [1]
+  complexity: "Professional"
+-
+  id: 002
+  title: "The bouyancy of aquatic avians"
+  description: "If it floats like a duck, it must be a witch"
+  subtype: presentation
+  speakers: [2]
+  complexity: "Beginner"
+-
+  id: 3
+  title: "Swords in Ponds: Stability or Anarchy?"
+  description: "Strange women lying in ponds distributing swords is not a basis for a system of government"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate" 
+-
+  id: 004
+  title: "Rabbit Workshop"
+  description: "Pratical tutorial on Caerbannog"
+  speakers: [4]
+  complexity: "Advanced"

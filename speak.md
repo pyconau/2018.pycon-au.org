@@ -2,7 +2,7 @@
 layout: page
 title: Speak
 permalink: /speak/
-header-img: img/hobart-audrey.jpg
+header-img: img/headers/hobart-audrey.jpg
 ---
 
 We want you to speak. 

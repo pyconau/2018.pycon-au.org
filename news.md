@@ -5,4 +5,4 @@ permalink: /news/
 header-img: img/sydney-speaker.jpg
 ---
 
-Dynamic listing of posts for things go here
+{% include news.html %}

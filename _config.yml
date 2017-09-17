@@ -1,12 +1,14 @@
 port: 4000
-header-img: "img/hobart-poster.jpg"
+header-img: "img/headers/hobart-poster.jpg"
+
+permalink: /news/:title/
 
 # Navigation
 navigationLinks:
  - {permalink: '/about/', text: "About"}
  - {permalink: '/news/', text: "News"}
  - {permalink: '/speak/', text: "Speak"}
+ - {permalink: '/schedule/', text: "Schedule"}
  - {permalink: '/attend/', text: "Attend"}
  - {permalink: '/sponsor/', text: "Sponsor"}
-# - {permalink: '/schedule/', text: "Schedule"}
  - {permalink: '/conduct/', text: "Conduct"}
