@@ -78,3 +78,14 @@ body {
   padding: 20px;
   margin-bottom: 100px;
 }
+
+.sponsors > div > a > img {
+ height: 100px;
+
+}
+
+.sponsorgray { 
+ filter: grayscale(100%);
+ height: 100px;
+}
+

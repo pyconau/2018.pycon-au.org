@@ -25,3 +25,14 @@ layout: default
     </div>
 </div>
 
+<!-- Sponsor Footer -->
+{% if page.title != "Sponsor" %}
+<div class="container page-content sponsor-foot">
+    <div class="row">
+        <div class="col-lg-10  col-md-10 col-md-offset-1">
+            {% include sponsor_footer.html %}
+        </div>
+    </div>
+</div>
+{% endif %}
+

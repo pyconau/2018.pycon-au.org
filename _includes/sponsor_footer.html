@@ -1,0 +1,10 @@
+{% for level in site.data.sponsors %}
+  <div style="text-align: center">
+  <h3>{{ level.title }}</h3>
+  {% for sponsor in level.sponsors %}
+    <div class="three columns sponsorlogo sponsorfoot">
+      <a href="{{sponsor.link}}"><img src="/img/sponsors/{{sponsor.logo}}" class="sponsorgray"></a>
+    </div>
+  {% endfor %}
+  </div>
+{% endfor %}
