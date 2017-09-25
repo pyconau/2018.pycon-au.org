@@ -3,8 +3,39 @@
   font-weight: bold !important;
 }
  
+h1, h2, h3 {
+    font-family: 'Encode Sans Condensed', sans-serif;
+   font-weight: 600;
+} 
+
+body, h4, h5, h6 {
+   font-family: "Droid Sans", sans-serif;
+}
+
+.main-content a {
+    color: #195d20 !important;
+  font-weight: bold !important;
+}
+
 .main-content a.hover { 
   color: #24a732 !important;
+}
+
+.footer a, .footer a.hover, .navbar a, .navbar a.hover { 
+    font-weight: bold;
+}
+
+.footer a { 
+    color: #AC9037;
+}
+.footer a.hover {
+    color: #D6BC67;
+}
+.navbar a { 
+    color: #12550B;
+}
+.navbar a.hover { 
+    color: #589B51;
 }
 
 .navbar-light {

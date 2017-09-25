@@ -40,7 +40,22 @@
         endTime:   "12:50",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "12:50", endTime: "12:50", sessionIds: [502]} 
+    - { startTime: "12:50", endTime: "13:50", sessionIds: [502]} 
+
+    - {
+    	startTime: "13:50",
+    	endTime:   "14:20",
+        sessionIds: [002, 003, 004, 404]
+    }
+    - { startTime: "14:20", endTime: "14:30", sessionIds: [504]} 
+    - {
+        startTime: "14:30",
+        endTime:   "15:00",
+        sessionIds: [404, 002, 003, 004]
+    }
+    - { startTime: "15:00", endTime: "15:30", sessionIds: [503]} 
+
+
 - 
   date: "2018-08-25"
   dateReadable: "August 25"

@@ -21,12 +21,12 @@
   id: 504
   title: "Room Changeover"
   service: true
+  short: true
 
 - id: 990
   title: "First-timers Session"
   place: "Cockle Bay"
   description: "New to PyCon AU? Come along and gain some tricks about how it's done"
-  service: true
 
 - id: 991
   title: "Welcome"
