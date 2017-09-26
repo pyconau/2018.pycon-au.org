@@ -1,6 +1,25 @@
+
+
 - 
-  date: "2018-08-24"
-  dateReadable: "August 24"
+  date: "2018-08-25"
+  dateReadable: "Friday August 25 2018 - Specialist Track Day"
+  tracks: 
+    - {title: "Cockle Bay", color: "#90be4e"}
+    - {title: "C3.2", color: "#03a9f4"}
+    - {title: "C3.4", color: "#e91e63"}
+    - {title: "C3.5", color: "#fed34c"}
+  timeslots:
+    - { startTime: "09:00",
+        endTime: "18:00",
+        sessionIds: [1000,1000,1000,1000]
+      }
+
+
+
+
+- 
+  date: "2018-08-25"
+  dateReadable: "Saturday August 25 2018 - Main Conference Day One"
   tracks: 
     - {title: "Cockle Bay", color: "#90be4e"}
     - {title: "C3.2", color: "#03a9f4"}
@@ -53,40 +72,114 @@
         endTime:   "15:00",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "15:00", endTime: "15:30", sessionIds: [503]} 
+    - { startTime: "15:00", endTime: "15:10", sessionIds: [504]} 
+    - {
+        startTime: "15:10",
+        endTime:   "15:40",
+        sessionIds: [404, 002, 003, 004]
+    }
+    - { startTime: "15:40", endTime: "16:10", sessionIds: [503]} 
+    - {
+        startTime: "16:10",
+        endTime: "17:10",
+        sessionIds: [997]
+    }
+    - {
+        startTime: "17:10",
+        endTime: "18:00",
+        sessionIds: [994]
+    }
 
 
 - 
-  date: "2018-08-25"
-  dateReadable: "August 25"
+  date: "2018-08-26"
+  dateReadable: "Sunday August 26 2018 - Main Conference Day Two"
   tracks: 
     - {title: "Cockle Bay", color: "#90be4e"}
     - {title: "C3.2", color: "#03a9f4"}
     - {title: "C3.4", color: "#e91e63"}
     - {title: "C3.5", color: "#fed34c"}
-  timeslots: 
+  timeslots:
     - { 
-        startTime: "09:00",
-        endTime: "09:50",
-        sessionIds: [003, 404, 004, 005]
+        startTime: "09:30",
+        endTime: "09:40",
+        sessionIds: [991]
     }
     - {
-    	startTime: "10:00",
+    	startTime: "09:40",
     	endTime: "10:30",
-        sessionIds: [501]
+    	sessionIds: [993]
+    }
+    - { startTime: "10:30", endTime: "11:00", sessionIds: [501] }
+    - {
+        startTime: "11:00",
+        endTime:   "11:30",
+        sessionIds: [001, 002, 003, 004]
+    }
+    - { startTime: "11:30", endTime: "11:40", sessionIds: [504]} 
+    - {
+    	startTime: "11:40",
+    	endTime:   "12:10",
+        sessionIds: [002, 003, 004, 404]
+    }
+    - { startTime: "12:10", endTime: "12:20", sessionIds: [504]} 
+    - {
+        startTime: "12:20",
+        endTime:   "12:50",
+        sessionIds: [404, 002, 003, 004]
+    }
+    - { startTime: "12:50", endTime: "13:50", sessionIds: [502]} 
+
+    - {
+    	startTime: "13:50",
+    	endTime:   "14:20",
+        sessionIds: [002, 003, 004, 404]
+    }
+    - { startTime: "14:20", endTime: "14:30", sessionIds: [504]} 
+    - {
+        startTime: "14:30",
+        endTime:   "15:00",
+        sessionIds: [404, 002, 003, 004]
+    }
+    - { startTime: "15:00", endTime: "15:10", sessionIds: [504]} 
+    - {
+        startTime: "15:10",
+        endTime:   "15:40",
+        sessionIds: [404, 002, 003, 004]
+    }
+    - { startTime: "15:40", endTime: "16:10", sessionIds: [503]} 
+    - {
+        startTime: "16:10",
+        endTime: "17:10",
+        sessionIds: [997]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-        sessionIds: [003, 404, 004, 005]
+        startTime: "17:10",
+        endTime: "18:00",
+        sessionIds: [996]
     }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003, 404, 004, 005]
+
+
+- 
+  date: "2018-08-27"
+  dateReadable: "Monday August 27 2018 - Development Sprints Day One"
+  tracks: 
+    - {title: "C3.4", color: "#e91e63"}
+    - {title: "C3.5", color: "#fed34c"}
+  timeslots: 
+    - { startTime: "08:00",
+        endTime: "18:00",
+        sessionIds: [999]
     }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-        sessionIds: [003, 404, 004, 005]
+
+- 
+  date: "2018-08-28"
+  dateReadable: "Tuesday August 28 2018 - Development Sprints Day Two"
+  tracks: 
+    - {title: "C3.4", color: "#e91e63"}
+    - {title: "C3.5", color: "#fed34c"}
+  timeslots: 
+    - { startTime: "08:00",
+        endTime: "18:00",
+        sessionIds: [999]
     }

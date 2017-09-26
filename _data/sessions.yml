@@ -37,6 +37,36 @@
   subtype: keynote
   place: "Cockle Bay"
 
+
+- id: 993
+  title: "Keynote Two"
+  subtype: keynote
+  place: "Cockle Bay"
+
+- id: 994
+  title: "Plenary One"
+  subtype: keynote
+  place: "Cockle Bay"
+
+- id: 996
+  title: "Plenary Two"
+  subtype: keynote
+  place: "Cockle Bay"
+
+- id: 997
+  title: "Lightning Talks"
+  place: "Cockle Bay"
+
+
+- id: 999
+  title: "Development Sprints" 
+
+
+- id: 1000
+  title: "Specialist Track"
+  description: "Placeholder"
+
+
 -
   id: 001
   title: "Favourite Colours"

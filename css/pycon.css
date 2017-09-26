@@ -1,7 +1,3 @@
-.main-content a {
-    color: #195d20 !important;
-  font-weight: bold !important;
-}
  
 h1, h2, h3 {
     font-family: 'Encode Sans Condensed', sans-serif;
@@ -12,13 +8,13 @@ body, h4, h5, h6 {
    font-family: "Droid Sans", sans-serif;
 }
 
-.main-content a {
-    color: #195d20 !important;
-  font-weight: bold !important;
-}
-
 .main-content a.hover { 
   color: #24a732 !important;
+}
+
+.main-content a {
+    color: #23cc2d !important;
+  font-weight: bold !important;
 }
 
 .footer a, .footer a.hover, .navbar a, .navbar a.hover { 
