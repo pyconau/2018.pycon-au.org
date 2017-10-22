@@ -2,17 +2,7 @@
 ---
 
 @import "variables";
-@import "bootstrap/bootstrap";
 @import "utility";
 @import "base";
 @import "schedule";
 @import "helper";
-
-.starter-template {
-  text-align: center;
-  margin-top: 10rem;
-
-  .lead {
-    font-weight: 200;
-  }
-}

@@ -1,19 +1,16 @@
-<header class="navbar navbar-light navbar-collapse collpase">
-  <div class="container">
-  <ul class="nav justify-content">
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">PyCon AU 2018</a>
 
-  <li class="nav-item">
-    <a href="/" class="navbar-brand">PyCon AU 2018</a>
-  </li>
-    
-  </ul>
-
-  <ul class="nav justify-content-end">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav nav justify-content-end mr-auto">
     {% for navigationLink in site.navigationLinks %}
     <li class="nav-item">
         <a class="nav-link {% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
     </li>
     {% endfor %}
-</ul>
-</div>
-</header>
+    </ul>
+  </div>
+</nav>
