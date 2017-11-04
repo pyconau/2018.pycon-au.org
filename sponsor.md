@@ -8,10 +8,7 @@ header-img: img/headers/melbourne-sponsors.jpg
 PyCon AU can't operate without the generous
 support of our sponsors.
 
-Are you interested in sponsoring? [Take a
-look at our propspectus](/sponsorship.pdf)
-and [get in
-touch](mailto:sponsorship@pycon-au.org)
+Our sponsorship prospectus is coming soon, but if you'd like to help out, please [get in touch](mailto:contact@pycon-au.org)
 
 -----------
 
