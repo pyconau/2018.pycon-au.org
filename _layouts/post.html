@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<span class="meta"><i>Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.base_author }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</i></span>
+</div>
+
+<!-- Post Content -->
+<article style="padding-top: 10px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10  col-md-10 col-md-offset-1">
+
+				{{ content }}
+
+            </div>
+        </div>
+    </div>
+</article>
+

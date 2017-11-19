@@ -1,0 +1,11 @@
+<section id="sponsors" class="sponsors">
+  {% for level in site.data.sponsors %}
+    <h1>{{ level.title }}</h1>
+    {% for sponsor in level.sponsors %}
+      <div class="three columns sponsorlogo">
+        <a href="{{sponsor.link}}"><img src="/img/sponsors/{{sponsor.logo}}"></a>
+        <h3>{{sponsor.name}}</h3>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</section>

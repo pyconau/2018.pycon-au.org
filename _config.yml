@@ -1,0 +1,13 @@
+port: 4000
+header-img: "img/headers/DarlingHarbour_header.jpg"
+base_author: "the Organisers"
+permalink: /news/:title/
+
+# Navigation
+navigationLinks:
+ - {permalink: '/about/', text: "About"}
+ - {permalink: '/news/', text: "News"}
+ - {permalink: '/speak/', text: "Speak"}
+ - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/sponsor/', text: "Sponsor"}
+ - {permalink: '/conduct/', text: "Conduct"}
