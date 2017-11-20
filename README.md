@@ -12,6 +12,12 @@ gem install jekyll
 jekyll serve -w
 ```
 
+## New news post
+
+```shell
+./new_post Post Title Goes here
+```
+
 ## Issues
 
 If you wish to update the conference website, please submit a [pull request](https://help.github.com/articles/about-pull-requests/)
