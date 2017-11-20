@@ -3,7 +3,7 @@ layout: post
 title: Call for Volunteers
 ---
 
-PyCon AU 2018 will be the eleventh edition of the Australian national Python conference, and is -- as always -- run by a team of volunteers. 
+PyCon AU 2018 will be the ninth edition of the Australian national Python conference, and is -- as always -- run by a team of volunteers. 
 
 We are currently looking for people to help in the early organisational phase of planning.
 
