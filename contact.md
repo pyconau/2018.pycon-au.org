@@ -12,4 +12,4 @@ You can also follow us on [Twitter](https://twitter.com/pyconau).
 
 For Code of Conduct related concerns, please email
 [safety@pycon-au.org](mailto:safety@pycon-au.org). For all other inquiries,
-please email the team at [contact@pycon-au.org](contact@pycon-au.org)
+please email the team at [contact@pycon-au.org](mailto:contact@pycon-au.org)
