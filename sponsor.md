@@ -5,10 +5,10 @@ permalink: /sponsor/
 header-img: img/headers/melbourne-sponsors.jpg
 ---
 
-PyCon AU can't operate without the generous
-support of our sponsors.
+PyCon Australia gratefully acknowledges the support of our sponsors, without which the conference could not go ahead.
 
-Our sponsorship prospectus is coming soon, but if you'd like to help out, please [get in touch](mailto:contact@pycon-au.org)
+
+If you are interested in sponsoring, please [download our sponsor prospectus](/prospectus.pdf) and [get in touch!](mailto:sponsorship@pycon-au.org)
 
 -----------
 
