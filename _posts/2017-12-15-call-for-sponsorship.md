@@ -11,4 +11,4 @@ Sponsors also have additional opportunities to get their name in some very covet
 
 If you are interested in sponsoring, please [download our sponsor prospectus](/prospectus.pdf).
 
-We're also happy to consider an in-kind or custom sponsorship request. For any enquiries or questions, please contact [sponsorship@pycon-org.au](mailto://sponsorship@pycon-au.org)
+We're also happy to consider an in-kind or custom sponsorship request. For any enquiries or questions, please contact [sponsorship@pycon-au.org](mailto://sponsorship@pycon-au.org)
