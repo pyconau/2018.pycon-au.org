@@ -18,9 +18,7 @@ PyCon AU 2018 will be held in Sydney, Australia, at the [International Conventio
 The first day of PyCon AU is dedicated to specialist tracks. These tracks, also known as 'mini-confs', are curated
 by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
 
-In previous years, specialist have included [Django](https://djangocon.com.au), Science and Data, Python in Education and Internet of Things. 
-
-The set of Specialist Events is determined by a seperate Call for Specialist Tracks in late 2017, with the talks proposals for the tracks submitted in the main Call For Proposals in mid 2018.
+In 2018, these tracks will be: Django, Security and Privacy, Education, and Internet of Things. [Read more](/news/specialist-tracks) 
 
 ## Conference Main Track
 
