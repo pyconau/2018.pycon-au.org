@@ -8,13 +8,13 @@ Each year at PyCon AU, we dedicate a day to our Specialist Tracks. These are sin
 We are pleased to announce that after receiving several proposals for Specialist Tracks from across the community, we have a solid line-up of four tracks to choose from on the day.
 
 **DjangoCon Australia**
-- Returning for it’s sixth year, this track is all things django
+- Returning for its sixth year, this track is all things Django.
 
 **Security and Privacy**
 - Building security and privacy into your Python project, security 101, defensive code, software ethics, and much more.
 
 **Education**
-- Bringing together educators who are using Python in teaching or looking for new ways to use coding in education to share stories, strategies and techniques for teaching with Python
+- Bringing together educators who are using Python in teaching or looking for new ways to use coding in education. Sharing stories, strategies and techniques for teaching with Python.
 
 **Internet of Things**
 - Exploring the ways in which Python powers IoT devices, applications, and services, as well as advice on using Python to analyse data, and how to get the most out of the Python ecosystem in the IoT field.
