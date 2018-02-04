@@ -26,6 +26,7 @@
 - id: 990
   title: "First-timers Session"
   place: "Cockle Bay"
+  service: true
   description: "New to PyCon AU? Come along and gain some tricks about how it's done"
 
 - id: 991
@@ -33,23 +34,23 @@
   place: "Cockle Bay"
 
 - id: 992
-  title: "Keynote One"
+  title: "Invited Speaker 1"
   subtype: keynote
   place: "Cockle Bay"
 
 
 - id: 993
-  title: "Keynote Two"
+  title: "Invited Speaker 2"
   subtype: keynote
   place: "Cockle Bay"
 
 - id: 994
-  title: "Plenary One"
+  title: "Invited Speaker 3"
   subtype: keynote
   place: "Cockle Bay"
 
 - id: 996
-  title: "Plenary Two"
+  title: "Invited Speaker 4"
   subtype: keynote
   place: "Cockle Bay"
 
@@ -66,6 +67,21 @@
   title: "Specialist Track"
   description: "Placeholder"
 
+- id: 1001
+  title: "Security and Privacy"
+  description: "placeholder"
+
+- id: 1002
+  title: "DjangoCon AU"
+  description: "placeholder"
+
+- id: 1003
+  title: "Education"
+  description: "placeholder"
+
+- id: 1004
+  title: "Internet of Things"
+  description: "placeholder"
 
 -
   id: 001
@@ -93,3 +109,8 @@
   description: "Pratical tutorial on Caerbannog"
   speakers: [4]
   complexity: "Advanced"
+
+- id: 005
+  title: "Placeholder Specialist Track Talk"
+  description: "🗣🤔"
+  complexity: "Professional"

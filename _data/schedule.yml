@@ -10,12 +10,24 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots:
     - { startTime: "09:00",
-        endTime: "18:00",
-        sessionIds: [1000,1000,1000,1000]
+        endTime: "10:00",
+        sessionIds: [1001, 1002, 1003, 1004]
       }
-
-
-
+    - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
+    - { startTime: "10:30",
+        endTime: "12:20",
+        sessionIds: [1001, 1002, 1003, 1004]
+      }
+    - { startTime: "12:20", endTime: "13:30", sessionIds: [502]} #lunch 
+    - { startTime: "13:30",
+        endTime: "15:20",
+        sessionIds: [1001, 1002, 1003, 1004]
+      }
+    - { startTime: "15:20", endTime: "16:00", sessionIds: [503]} # afternoon Tea 
+    - { startTime: "16:00",
+        endTime: "18:00",
+        sessionIds: [1001, 1002, 1003, 1004]
+      }
 
 - 
   date: "2018-08-25"
@@ -27,67 +39,62 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots:
     - { 
-        startTime: "09:00",
-        endTime: "09:30",
+        startTime: "08:30",
+        endTime: "09:00",
         sessionIds: [990]
     }
     - { 
-        startTime: "09:30",
-        endTime: "09:40",
-        sessionIds: [991]
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [992] # Invited Speaker 1
     }
+    - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
-    	startTime: "09:40",
-    	endTime: "10:30",
-    	sessionIds: [992]
-    }
-    - { startTime: "10:30", endTime: "11:00", sessionIds: [501] }
-    - {
-        startTime: "11:00",
-        endTime:   "11:30",
+        startTime: "10:30",
+        endTime:   "11:00",
         sessionIds: [001, 002, 003, 004]
     }
-    - { startTime: "11:30", endTime: "11:40", sessionIds: [504]} 
+    - { startTime: "11:00", endTime: "11:10", sessionIds: [504]} # changeover
     - {
-    	startTime: "11:40",
-    	endTime:   "12:10",
+    	startTime: "11:10",
+    	endTime:   "11:40",
         sessionIds: [002, 003, 004, 404]
     }
-    - { startTime: "12:10", endTime: "12:20", sessionIds: [504]} 
+    - { startTime: "11:40", endTime: "11:50", sessionIds: [504]} 
     - {
-        startTime: "12:20",
-        endTime:   "12:50",
+        startTime: "11:50",
+        endTime:   "12:20",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "12:50", endTime: "13:50", sessionIds: [502]} 
+    - { startTime: "12:20", endTime: "13:30", sessionIds: [502]} 
 
     - {
-    	startTime: "13:50",
-    	endTime:   "14:20",
+    	startTime: "13:30",
+    	endTime:   "14:00",
         sessionIds: [002, 003, 004, 404]
     }
-    - { startTime: "14:20", endTime: "14:30", sessionIds: [504]} 
+    - { startTime: "14:00", endTime: "14:10", sessionIds: [504]} 
     - {
-        startTime: "14:30",
-        endTime:   "15:00",
+        startTime: "14:10",
+        endTime:   "14:40",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "15:00", endTime: "15:10", sessionIds: [504]} 
+    - { startTime: "14:40", endTime: "14:50", sessionIds: [504]} 
     - {
-        startTime: "15:10",
-        endTime:   "15:40",
+        startTime: "14:50",
+        endTime:   "15:20",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "15:40", endTime: "16:10", sessionIds: [503]} 
+    - { startTime: "15:20", endTime: "16:00", sessionIds: [503]} 
     - {
-        startTime: "16:10",
-        endTime: "17:10",
-        sessionIds: [997]
+        startTime: "16:00",
+        endTime: "16:40",
+        sessionIds: [993] 
     }
     - {
-        startTime: "17:10",
-        endTime: "18:00",
-        sessionIds: [994]
+        startTime: "16:40",
+        endTime: "17:40",
+        sessionIds: [997] 
     }
 
 
@@ -101,62 +108,57 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots:
     - { 
-        startTime: "09:30",
-        endTime: "09:40",
-        sessionIds: [991]
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [994] # Invited Speaker 3
     }
+    - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
-    	startTime: "09:40",
-    	endTime: "10:30",
-    	sessionIds: [993]
-    }
-    - { startTime: "10:30", endTime: "11:00", sessionIds: [501] }
-    - {
-        startTime: "11:00",
-        endTime:   "11:30",
+        startTime: "10:30",
+        endTime:   "11:00",
         sessionIds: [001, 002, 003, 004]
     }
-    - { startTime: "11:30", endTime: "11:40", sessionIds: [504]} 
+    - { startTime: "11:00", endTime: "11:10", sessionIds: [504]} # changeover
     - {
-    	startTime: "11:40",
-    	endTime:   "12:10",
+    	startTime: "11:10",
+    	endTime:   "11:40",
         sessionIds: [002, 003, 004, 404]
     }
-    - { startTime: "12:10", endTime: "12:20", sessionIds: [504]} 
+    - { startTime: "11:40", endTime: "11:50", sessionIds: [504]} 
     - {
-        startTime: "12:20",
-        endTime:   "12:50",
+        startTime: "11:50",
+        endTime:   "12:20",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "12:50", endTime: "13:50", sessionIds: [502]} 
+    - { startTime: "12:20", endTime: "13:30", sessionIds: [502]} 
 
     - {
-    	startTime: "13:50",
-    	endTime:   "14:20",
+    	startTime: "13:30",
+    	endTime:   "14:00",
         sessionIds: [002, 003, 004, 404]
     }
-    - { startTime: "14:20", endTime: "14:30", sessionIds: [504]} 
+    - { startTime: "14:00", endTime: "14:10", sessionIds: [504]} 
     - {
-        startTime: "14:30",
-        endTime:   "15:00",
+        startTime: "14:10",
+        endTime:   "14:40",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "15:00", endTime: "15:10", sessionIds: [504]} 
+    - { startTime: "14:40", endTime: "14:50", sessionIds: [504]} 
     - {
-        startTime: "15:10",
-        endTime:   "15:40",
+        startTime: "14:50",
+        endTime:   "15:20",
         sessionIds: [404, 002, 003, 004]
     }
-    - { startTime: "15:40", endTime: "16:10", sessionIds: [503]} 
+    - { startTime: "15:20", endTime: "16:00", sessionIds: [503]} 
     - {
-        startTime: "16:10",
-        endTime: "17:10",
-        sessionIds: [997]
+        startTime: "16:00",
+        endTime: "16:40",
+        sessionIds: [996] 
     }
     - {
-        startTime: "17:10",
-        endTime: "18:00",
-        sessionIds: [996]
+        startTime: "16:40",
+        endTime: "17:40",
+        sessionIds: [997] 
     }
 
 
