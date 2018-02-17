@@ -1,7 +1,31 @@
+# title: Platnium Sponsors
+# title: Gold Sponsors
+
+- title: Sponsors
+  sponsors:
+   - name: James Cook University
+     logo: JCU.jpg
+     link: https://online.jcu.edu.au/online-courses/master-data-science
+     blurb: | 
+        James Cook University (JCU) recognises the power of data science and is a proud
+        supporter of PyCon Australia in 2018.<br>
+        <br>
+        JCU prides itself on offering degrees that count – and today, every business
+        and industry understands the invaluable need for data scientists. JCU has
+        developed a 100% online Master of Data Science degree that integrates the
+        fundamental principles and practices of Python into its current and
+        professionally relevant coursework. Delivered by respected interdisciplinary
+        academics and industry experts, boost your career with skills that count in the
+        real world.<br>
+        <br>
+        Discover <a href="https://online.jcu.edu.au/online-courses/master-data-science">JCU's online Master of Data Science</a>
+
 - 
   title: Auspice
   sponsors: 
-    - 
-      {name: Linux Australia,
-      logo: la.png,
-      link: "https://linux.org.au"}
+    - name: Linux Australia
+      logo: LinuxAustralia.png
+      link: "https://linux.org.au"
+      blurb: | 
+        Linux Australia is the peak body for Open Source communities in
+        Australia. PyCon AU 2018 is run under the auspice of Linux Australia. 
