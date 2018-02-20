@@ -5,6 +5,9 @@
       <div class="three columns sponsorlogo">
         <a href="{{sponsor.link}}"><img src="/img/sponsors/{{sponsor.logo}}"></a>
         <h3>{{sponsor.name}}</h3>
+        {% if sponsor.blurb %}
+            <p>{{sponsor.blurb}}</p>
+        {% endif %}
       </div>
     {% endfor %}
   {% endfor %}
