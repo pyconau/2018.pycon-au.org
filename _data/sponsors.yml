@@ -5,7 +5,7 @@
   sponsors:
    - name: James Cook University
      logo: JCU.jpg
-     link: https://online.jcu.edu.au/online-courses/master-data-science
+     link: https://online.jcu.edu.au/
      blurb: | 
         James Cook University (JCU) recognises the power of data science and is a proud
         supporter of PyCon Australia in 2018.<br>
@@ -17,8 +17,6 @@
         professionally relevant coursework. Delivered by respected interdisciplinary
         academics and industry experts, boost your career with skills that count in the
         real world.<br>
-        <br>
-        Discover <a href="https://online.jcu.edu.au/online-courses/master-data-science">JCU's online Master of Data Science</a>
 
 - 
   title: Auspice
