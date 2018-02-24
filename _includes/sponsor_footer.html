@@ -1,10 +1,15 @@
 {% for level in site.data.sponsors %}
+  {% unless level.placeholder %}
   <div style="text-align: center">
   <h3>{{ level.title }}</h3>
+  <div style="text-align: center">
   {% for sponsor in level.sponsors %}
-    <div class="three columns sponsorlogo sponsorfoot">
-      <a href="{{sponsor.link}}"><img src="/img/sponsors/{{sponsor.logo}}" class="sponsorgray"></a>
-    </div>
+      {% unless sponsor.placeholder %}
+        <a href="{{sponsor.link}}">
+        <img src="/img/sponsors/{{sponsor.logo}}" {% if sponsor.width%} style="width:{{sponsor.width}}; margin: 10px;  height: auto; " {%endif%} class="sponsorgray"></a>
+      {% endunless %}
   {% endfor %}
   </div>
+  </div>
+  {% endunless %}
 {% endfor %}

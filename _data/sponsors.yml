@@ -1,5 +1,13 @@
-# title: Platnium Sponsors
-# title: Gold Sponsors
+- title: Gold Sponsors
+  placeholder: true
+  sponsors:
+    - name: Your Company Here
+      logo: gold_placeholder_logo.png
+      placeholder: true
+      blurb: |
+        PyCon AU 2018 can only operate with the generousity of our sponsors.
+        If you are interested in helping our event, please see our <a
+        href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
 
 - title: Sponsors
   sponsors:
@@ -16,7 +24,44 @@
         fundamental principles and practices of Python into its current and
         professionally relevant coursework. Delivered by respected interdisciplinary
         academics and industry experts, boost your career with skills that count in the
-        real world.<br>
+        real world.
+   - name: CyberHound
+     logo: CyberHound.png
+     link: https://cyberhound.com
+     blurb: |
+        CyberHound is a leading provider of internet management and security
+        solutions for K-12 schools.<br>
+        <br>
+        The solutions we deliver are developed in Australia and exported
+        internationally. Our team of developers are an integral part of enabling
+        students to become responsible digital citizens. We are proud of their
+        innovative work in Python and in turn we are pleased to sponsor PyCon AU 2018.<br>
+        <br>
+        Established in 1999, CyberHound is part of the Superloop Group, an independent
+        provider of connectivity services across the Asia Pacific region.
+   - name: Data61 
+     logo: Data61CSIRO.png
+     link: https://www.data61.csiro.au/
+     blurb: |
+        CSIRO's Data61 is Australia’s leading data innovation group. Data science,
+        engineering, and design are at the core of what we do. Data61 is partnering
+        with industry, government, universities, and start-ups to create Australia's
+        data-driven future. Partner with us.
+   - name: Espressif Systems
+     logo: Espressif.png 
+     width: 250px
+     link: https://www.espressif.com/
+     blurb: |
+        Espressif Systems is a world-leading Internet-of-Things company. We built the
+        widely popular ESP8266 and ESP32 chips. We are an innovative team of
+        chip-design specialists, software/firmware developers and marketers. And we are
+        committed to providing the best IoT devices and software platforms in the
+        industry.<br>
+        <br>
+        Espressif's IoT software-development platform, ESP-IDF, is open-source and many
+        third-party projects and platforms have been based on it. Espressif is also
+        involved in and supports many open-source community projects. We believe in the
+        democratization of technology that will develop tomorrow's Internet of Things.
 
 - 
   title: Auspice

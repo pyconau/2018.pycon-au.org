@@ -108,12 +108,16 @@ body {
 
 .sponsors > div > a > img {
  height: 100px;
+}
 
+.sponsorlogo { 
+    padding: 60px;
 }
 
 .sponsorgray { 
  filter: grayscale(100%);
  height: 100px;
+ margin: 20px;
 }
 
 .starter-template {
