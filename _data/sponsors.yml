@@ -1,3 +1,38 @@
+- title: Platnium Sponsors
+  sponsors:
+    - name: WSP
+      logo: wsp.png
+      link: http://www.wspdigital.com/ 
+      blurb: |  
+        WSP Digital is the software engineering division of WSP, a publicly listed
+        global consulting engineering company with over 40,000 employees in more than
+        50 countries. We work with WSP’s other engineering disciplines and directly
+        with customers to deliver custom web and mobile applications, systems
+        integration and IoT implementations.
+        <br><br>
+        Python has been our language of choice for over 6 years - in that time we've
+        deployed Python code for clients including VicRoads, Qantas, Myer, Coles,
+        Telstra, BOC, State and Federal Government departments and many others. We have
+        active projects using Django, Twisted, Celery, Channels, Pandas and many other
+        open source tools from the Python community, so we’re very happy to have this
+        opportunity to make a small contribution in return.
+        <br><br>
+        Our Melbourne office employs 35 software engineers, business analysts, test
+        engineers and project managers, including a number of interns and graduates. We
+        take great pride in providing an environment that encourages software
+        engineering excellence through collaboration, informed debate and learning - we
+        believe that our commercial success is directly related to the quality of what
+        we produce and the talent and commitment of our team.
+    - name: Your Company here
+      logo: plat_placeholder_logo.png
+      placeholder: true
+      blurb: | 
+        PyCon AU 2018 can only operate with the generousity of our sponsors.
+        If you are interested in helping our event, please see our <a
+        href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
+        <br><br>
+        Platinum is an exclusive sponsorship, limit two.
+
 - title: Gold Sponsors
   placeholder: true
   sponsors:
@@ -8,7 +43,8 @@
         PyCon AU 2018 can only operate with the generousity of our sponsors.
         If you are interested in helping our event, please see our <a
         href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
-
+        <br><br>Gold sponsorship is limited to six sponsors only
+       
 - title: Sponsors
   sponsors:
    - name: James Cook University
