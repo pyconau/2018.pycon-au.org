@@ -1,14 +1,18 @@
 <section id="sponsors" class="sponsors">
   {% for level in site.data.sponsors %}
     <h1>{{ level.title }}</h1>
+    <div class="row">
     {% for sponsor in level.sponsors %}
-      <div class="three columns sponsorlogo">
-        <a href="{{sponsor.link}}"><img src="/img/sponsors/{{sponsor.logo}}"></a>
-        <h3>{{sponsor.name}}</h3>
-        {% if sponsor.blurb %}
-            <p>{{sponsor.blurb}}</p>
-        {% endif %}
-      </div>
+        <div class="col-6">
+          <a href="{{sponsor.link}}"><img class="img-fluid sponsorlogo" src="/img/sponsors/{{sponsor.logo}}"></a>
+          {% if sponsor.link %}
+          <p align="center"><a href="{{sponsor.link}}">{{sponsor.link}}</a></p>
+          {% endif %}
+          {% if sponsor.blurb %}
+              <p>{{sponsor.blurb}}</p>
+          {% endif %}
+        </div>
     {% endfor %}
+    </div>
   {% endfor %}
 </section>
