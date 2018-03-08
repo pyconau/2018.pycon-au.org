@@ -98,6 +98,29 @@
         third-party projects and platforms have been based on it. Espressif is also
         involved in and supports many open-source community projects. We believe in the
         democratization of technology that will develop tomorrow's Internet of Things.
+   - name: Mathspace
+     logo: mathspace.png
+     link: https://mathspace.co/
+     blurb: |
+        Hold on! You’re reading our corporate sponsors blurb? Thanks!
+        <br><br>
+        We’re a passionate team of mathematicians and engineers that believes every
+        single student can excel at mathematics, with the right help at the right time. 
+        <br><br>
+        We’re using technology and the power of adaptive learning to be the right help
+        at the right time for every student.
+        <br><br>
+        Our engineering team use Python/Django along with React to provide an education
+        platform that gives step-by-step help and instantaneous feedback, just like a
+        personal tutor. 
+        <br><br>
+        Along with our Symbolic Math Engine and Adaptive Learning Algorithm to identify
+        the individual’s strengths and learning gaps, tailoring their maths program
+        accordingly
+        <br><br>
+        Our team is all here wearing Mathspace t-shirts. Come say hi!
+
+
 
 - 
   title: Auspice
