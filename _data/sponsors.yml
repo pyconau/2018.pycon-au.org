@@ -120,7 +120,14 @@
         <br><br>
         Our team is all here wearing Mathspace t-shirts. Come say hi!
 
-
+   - name: Facebook
+     logo: facebook.png
+     link: https://tinyurl.com/pyjobs-fb
+     blurb: | 
+        Our mission at Facebook is to give people the power to build community
+        and bring the world closer together.  As extensive users of Python at Facebook,
+        we are proud to support PyCon AU and the broader Python community.  <br><br>Interested
+        in Python jobs? Check out: <a href="https://tinyurl.com/pyjobs-fb">https://tinyurl.com/pyjobs-fb</a>
 
 - 
   title: Auspice
