@@ -129,6 +129,27 @@
         we are proud to support PyCon AU and the broader Python community.  <br><br>Interested
         in Python jobs? Check out: <a href="https://tinyurl.com/pyjobs-fb">https://tinyurl.com/pyjobs-fb</a>
 
+   - name: Django Software Foundation
+     logo: django.png
+     link: https://www.djangoproject.com/foundation/
+     blurb: |
+        The Django Software Foundation is a US-based non-profit organisation
+        with the mission to promote, support, and advance the Django Web framework -
+        the Web framework for perfectionists with deadlines.<br><br>
+
+        Django is a high-level Python Web framework that encourages rapid
+        development and clean, pragmatic design. Built by experienced developers, it
+        takes care of much of the hassle of Web development, so you can focus on
+        writing your apps without needing to reinvent the wheel. It’s free and open
+        source, and used by startups and Fortune 500 companies - companies like
+        Instagram, Pinterest, NASA, and the US Library of Congress.<br><br>
+
+        The Django Software Foundation sponsors sprints, meetups, gatherings
+        and community events, protects the intellectual property of the Django project,
+        and contributes to improvements in the Web industry, both technical and social.<br><br>
+
+        The Django Software Foundation is the sponsor of DjangoCon AU 2018
+
 - 
   title: Auspice
   sponsors: 
