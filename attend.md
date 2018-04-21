@@ -20,4 +20,4 @@ Development Sprint tickets will be sold separately to the main event.
 
 ### Financial assistance
 
-Thanks to the support of our sponsors, we have budget set aside for providing financial assistance for people who might otherwise find it difficult to attend PyCon AU. See the [financial assistance page](/finaid/) for more details about the selection process and the application form.
+Thanks to the support of our sponsors, we have budget set aside for providing financial assistance for people who might otherwise find it difficult to attend PyCon AU. See the [financial assistance page](/assistance/) for more details about the selection process and the application form.
