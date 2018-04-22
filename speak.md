@@ -24,3 +24,8 @@ The sort of things we're looking for:
  * ...
 
 Thinking of something else? We want to hear from you!
+
+### Financial assistance
+
+Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
+

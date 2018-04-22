@@ -8,6 +8,7 @@ navigationLinks:
  - {permalink: '/about/', text: "About"}
  - {permalink: '/news/', text: "News"}
  - {permalink: '/speak/', text: "Speak"}
+ - {permalink: '/assistance/', text: "Assistance"}
  - {permalink: '/attend/', text: "Attend"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
