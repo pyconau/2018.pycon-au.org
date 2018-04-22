@@ -3,6 +3,13 @@ layout: page
 title: Colophon
 ---
 
+### Website Copy
+
+We stand on the shoulders of giants, both previous organisers of PyCon AU, and
+other events, including but not limited to: North Bay Python (CFP wording),
+DjangoCon US (proposal mentors copy and concept).
+
+
 ### Website Design
 
 This website is based on free and open source software. 
