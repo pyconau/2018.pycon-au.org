@@ -11,7 +11,7 @@ We want you [to present at PyCon AU](https://www.papercall.io/pyconau2018)!
 
 Tell us about what you've been hacking on, what drives you, what excites you. What have you been learning? What do you want to share?
 
-The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)  to Monday, May 28 AoE.
+The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.
 
 Do you have a talk for the main conference track, or something more specialised for our Friday specialist tracks?
 
@@ -32,7 +32,17 @@ We welcome submissions from everybody, including those:
 
 Thinking of something cool? We want to hear from you!
 
-You can submit a proposal [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **<mailto:program@pycon-au.org>**.
+You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **<mailto:program@pycon-au.org>**.
+
+## Specialist Tracks
+
+The first day of PyCon AU is dedicated to specialist tracks. These tracks, also known as 'mini-confs', are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
+
+In 2018, these tracks will be: DjangoCon, Security and Privacy, Education, and Internet of Things. [Read more](http://2018.pycon-au.org/news/specialist-tracks).
+
+You can submit to any or all of these Specialist Tracks [through PaperCall](https://www.papercall.io/pyconau2018).
+
+(Applications for the Education Seminar Student Track will be taken here: https://docs.google.com/forms/d/e/1FAIpQLSeT8witEHPrvvYLr4QflguAYVr3zdvHKNdDnoFm2qR_HHDhBg/viewform).
 
 ## Mentors
 
