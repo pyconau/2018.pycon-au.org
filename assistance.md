@@ -16,7 +16,7 @@ Please ask only for what you need in order to be able to attend the conference a
 ## Application
 
 To apply for financial aid please fill out the [application form](https://goo.gl/forms/OJcmTDHGJGK4YxWB2).
-The first round of applications close at the end of the call for proposals on Monday, May 28 and you will receive a response by June 17. Applications will be approved progressively so please apply early and your application may be approved early. If the budget has not been exhausted the application process will be reopened.
+The first round of applications close at the end of the call for proposals on **Monday, May 28 2018** and you will receive a response by **June 17**. Applications will be approved progressively so please apply early and your application may be approved early. If the budget has not been exhausted the application process will be reopened.
 
 ## Selection criteria
 
