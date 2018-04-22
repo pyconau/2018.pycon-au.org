@@ -42,7 +42,7 @@ In 2018, these tracks will be: [DjangoCon, Security and Privacy, Education, and 
 
 You can submit to any or all of these Specialist Tracks [through PaperCall](https://www.papercall.io/pyconau2018).
 
-(Applications for the Education Seminar Student Track [will be taken separately](https://docs.google.com/forms/d/e/1FAIpQLSeT8witEHPrvvYLr4QflguAYVr3zdvHKNdDnoFm2qR_HHDhBg/viewform).)
+This year's Education Seminar will feature a Student Showcase in the post afternoon tea session, with presentations specifically from students in Years 7-12. Applications for that will be taken separately - we'll have more details for interested students and teachers soon!)
 
 ## Mentors
 
