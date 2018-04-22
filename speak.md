@@ -63,7 +63,7 @@ Our mentors are happy to help with any of the following:
 If you would like some help from a mentor, you can reach out to them directly:
 
 * [Katie Bell](): experienced international speaker, PyCon AU 2018 organiser, developer, and code archaeologist
-* [Lilly Ryan](<mailto:mentoring@attacus.net>): experienced international speaker, security engineer, former historian, and current Papers Chair for PyCon AU 2018
+* [Lilly Ryan](mailto:mentoring@attacus.net): experienced international speaker, security engineer, former historian, and current Papers Chair for PyCon AU 2018
 * [Richard Jones](): Python Software Foundation Fellow, former PyCon AU organiser, speaker, and engineer
 
 ## How to write your proposal
@@ -96,8 +96,8 @@ Proposals which are accepted will receive one free ticket to PyCon Australia 201
 
 PyCon Australia has a budget for providing financial assistance to those who may need it. Speakers are very welcome to apply, but please note that financial assistance for speakers is not guaranteed.
 
-You can read more about our policy and submit a financial assistance application [here](http://2018.pycon-au.org/assistance).
+Read more about our policy and [submit a financial assistance application](http://2018.pycon-au.org/assistance).
 
 ## Have a question? Unsure about anything?
 
-If you have questions about the CFP process, you can reach us any time at **<mailto:program@pycon-au.org>**.
+If you have questions about the CFP process, you can reach us any time at **[program@pycon-au.org](mailto:program@pycon-au.org]**.
