@@ -32,7 +32,7 @@ We welcome submissions from everybody, including those:
 
 Thinking of something cool? We want to hear from you!
 
-You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **<mailto:program@pycon-au.org>**.
+You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **program@pycon-au.org**.
 
 ## Specialist Tracks
 
@@ -87,6 +87,8 @@ All speakers will be expected to have read and adhere to the conference [Code of
 Our submission process is anonymous. This means our reviewers will not know anything about your identity while assessing your proposal.
 
 Please avoid including identifying information like your name or your pronouns (he/she/they) anywhere in your proposal so that our reviewers can assess your talk by itself.
+
+Emails sent to the program@ address will only be seen by people on the organising team who do not have the ability to rate and review talks. 
 
 ## Benefits
 
