@@ -101,3 +101,8 @@ Read more about our policy and [submit a financial assistance application](http:
 ## Have a question? Unsure about anything?
 
 If you have questions about the CFP process, you can reach us any time at **[program@pycon-au.org](mailto:program@pycon-au.org)**.
+
+### Financial assistance
+
+Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
+
