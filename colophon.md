@@ -6,8 +6,9 @@ title: Colophon
 ### Website Copy
 
 We stand on the shoulders of giants, both previous organisers of PyCon AU, and
-other events, including but not limited to: North Bay Python (CFP wording),
-DjangoCon US (proposal mentors copy and concept).
+other events, including but not limited to:
+ * [North Bay Python](https://2017.northbaypython.org/) (CFP wording),
+ * [DjangoCon US](https://2018.djangocon.us/) (proposal mentors copy and concept).
 
 
 ### Website Design
