@@ -38,7 +38,7 @@ You can submit a proposal for the main conference, and all of our four Specialis
 
 The first day of PyCon AU is dedicated to specialist tracks. These tracks, also known as 'mini-confs', are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
 
-In 2018, these tracks will be: DjangoCon, Security and Privacy, Education, and Internet of Things. [Read more](http://2018.pycon-au.org/news/specialist-tracks).
+In 2018, these tracks will be: [DjangoCon, Security and Privacy, Education, and Internet of Things.](http://2018.pycon-au.org/news/specialist-tracks).
 
 You can submit to any or all of these Specialist Tracks [through PaperCall](https://www.papercall.io/pyconau2018).
 
@@ -80,7 +80,7 @@ This [public speaking repository](https://github.com/vmbrasseur/Public_Speaking)
 
 ## Conduct and expectations
 
-All speakers will be expected to have read and adhere to the conference Code of Conduct, which can be found [here](http://2018.pycon-au.org/conduct/). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.
+All speakers will be expected to have read and adhere to the conference [Code of Conduct](http://2018.pycon-au.org/conduct/). In particular for speakers: slide contents and spoken material should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate, and neither are language or imagery that denigrate or demean people based on race, gender, religion, sexual orientation, physical appearance, disability, or body size.
 
 ## Anonymity
 
