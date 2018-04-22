@@ -60,7 +60,7 @@ Our mentors are happy to help with any of the following:
 
 If you would like some help from a mentor, you can reach out to them directly:
 
-* [Katie Bell](): experienced international speaker, PyCon AU 2018 organiser, developer, and code archaeologist
+* [Katie Bell](mailto:katie@katharos.id.au): experienced international speaker, PyCon AU 2018 organiser, developer, and code archaeologist
 * [Lilly Ryan](mailto:mentoring@attacus.net): experienced international speaker, security engineer, former historian, and current Papers Chair for PyCon AU 2018
 * [Richard Jones](): Python Software Foundation Fellow, former PyCon AU organiser, speaker, and engineer
 
