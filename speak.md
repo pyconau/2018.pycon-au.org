@@ -25,24 +25,24 @@ We welcome submissions from everybody, including those:
 
 * who have never given a conference talk before,
 * who are new to Python,
-* who have built interesting things in Python, 
+* who have built interesting things in Python,
 * who have broken interesting things with Python,
 * who have helped build Python, and
 * who have expertise to share with our community from fields outside of Python (and outside of technology).
 
 Thinking of something cool? We want to hear from you!
 
-You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **program@pycon-au.org**.
+You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **[program@pycon-au.org](mailto:program@pycon-au.org)**.
 
 ## Specialist Tracks
 
-The first day of PyCon AU is dedicated to specialist tracks. These tracks are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
+The first day of PyCon AU is dedicated to specialist tracks. These tracks are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject.
 
 In 2018, these tracks will be: [DjangoCon, Security and Privacy, Education, and Internet of Things.](http://2018.pycon-au.org/news/specialist-tracks).
 
 You can submit to any or all of these Specialist Tracks [through PaperCall](https://www.papercall.io/pyconau2018).
 
-This year's Education Seminar will feature a Student Showcase in the post afternoon tea session, with presentations specifically from students in Years 7-12. Applications for that will be taken separately - we'll have more details for interested students and teachers soon!)
+This year's Education Seminar will feature a Student Showcase in the post afternoon tea session, with presentations specifically from students in Years 7-12. Applications for that will be taken separately - we'll have more details for interested students and teachers soon!
 
 ## Mentors
 
@@ -88,7 +88,7 @@ Our submission process is anonymous. This means our reviewers will not know anyt
 
 Please avoid including identifying information like your name or your pronouns (he/she/they) anywhere in your proposal so that our reviewers can assess your talk by itself.
 
-Emails sent to the program@ address will only be seen by people on the organising team who do not have the ability to rate and review talks. 
+Emails sent to [program@pycon-au.org](mailto:program@pycon-au.org) will only be seen by people on the organising team who do not have the ability to rate and review talks.
 
 ## Benefits
 
@@ -96,15 +96,8 @@ Proposals which are accepted will receive one free ticket to PyCon Australia 201
 
 ## Financial support
 
-PyCon Australia has a budget for providing financial assistance to those who may need it. Speakers are very welcome to apply, but please note that financial assistance for speakers is not guaranteed.
-
-Read more about our policy and [submit a financial assistance application](http://2018.pycon-au.org/assistance).
+Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
 
 ## Have a question? Unsure about anything?
 
 If you have questions about the CFP process, you can reach us any time at **[program@pycon-au.org](mailto:program@pycon-au.org)**.
-
-### Financial assistance
-
-Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
-
