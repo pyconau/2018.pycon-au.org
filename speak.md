@@ -5,7 +5,9 @@ permalink: /speak/
 header-img: img/headers/hobart-audrey.jpg
 ---
 
-## [Click here to submit a talk proposal now!](https://www.papercall.io/pyconau2018)
+## [Submit a talk proposal now!](https://www.papercall.io/pyconau2018)
+
+<br>
 
 We want you [to present at PyCon AU](https://www.papercall.io/pyconau2018)!
 
@@ -13,9 +15,7 @@ Tell us about what you've been hacking on, what drives you, what excites you. Wh
 
 The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.
 
-Do you have a talk for the main conference track, or something more specialised for our Friday specialist tracks?
-
-[Submit now!](https://www.papercall.io/pyconau2018)
+Do you have a talk for the main conference track, or something more specialised for our Friday specialist tracks? [Submit now!](https://www.papercall.io/pyconau2018)
 
 If you've never presented at a conference before and think you might like to try it, [submit now!](https://www.papercall.io/pyconau2018)
 
@@ -36,13 +36,13 @@ You can submit a proposal for the main conference, and all of our four Specialis
 
 ## Specialist Tracks
 
-The first day of PyCon AU is dedicated to specialist tracks. These tracks, also known as 'mini-confs', are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
+The first day of PyCon AU is dedicated to specialist tracks. These tracks are curated by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
 
 In 2018, these tracks will be: [DjangoCon, Security and Privacy, Education, and Internet of Things.](http://2018.pycon-au.org/news/specialist-tracks).
 
 You can submit to any or all of these Specialist Tracks [through PaperCall](https://www.papercall.io/pyconau2018).
 
-(Applications for the Education Seminar Student Track will be taken here: https://docs.google.com/forms/d/e/1FAIpQLSeT8witEHPrvvYLr4QflguAYVr3zdvHKNdDnoFm2qR_HHDhBg/viewform).
+(Applications for the Education Seminar Student Track [will be taken separately](https://docs.google.com/forms/d/e/1FAIpQLSeT8witEHPrvvYLr4QflguAYVr3zdvHKNdDnoFm2qR_HHDhBg/viewform).)
 
 ## Mentors
 
@@ -57,8 +57,6 @@ Our mentors are happy to help with any of the following:
 * Reviewing your outline, slide deck, or presenter notes
 * Connecting you with rehearsal audiences or even just watching you present over a video conference as practice
 * Anything else that'd help you be at ease and excited about bringing your ideas to our audience!
-
-### Our mentors
 
 If you would like some help from a mentor, you can reach out to them directly:
 
@@ -100,4 +98,4 @@ Read more about our policy and [submit a financial assistance application](http:
 
 ## Have a question? Unsure about anything?
 
-If you have questions about the CFP process, you can reach us any time at **[program@pycon-au.org](mailto:program@pycon-au.org]**.
+If you have questions about the CFP process, you can reach us any time at **[program@pycon-au.org](mailto:program@pycon-au.org)**.
