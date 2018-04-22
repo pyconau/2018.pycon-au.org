@@ -19,19 +19,18 @@ Do you have a talk for the main conference track, or something more specialised 
 
 If you've never presented at a conference before and think you might like to try it, [submit now!](https://www.papercall.io/pyconau2018)
 
-We're looking for proposals for 30-minute talks on these sorts of things:
+We're looking for 30 minute talks on everything Python, open source, and tech-related.
 
- * Projects that use Python in interesting ways
- * Development of CPython
- * Testing code
- * Professional skills
- * Interesting bits of Python
- * Python on other platforms
- * Python and other programming languages
- * Lessons from non-technical fields
- * Community building
+We welcome submissions from everybody, including those:
 
-Thinking of something else? We want to hear from you!
+* who have never given a conference talk before,
+* who are new to Python,
+* who have built interesting things in Python, 
+* who have broken interesting things with Python,
+* who have helped build Python, and
+* who have expertise to share with our community from fields outside of Python (and outside of technology).
+
+Thinking of something cool? We want to hear from you!
 
 You can submit a proposal [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **<mailto:program@pycon-au.org>**.
 
@@ -55,7 +54,7 @@ If you would like some help from a mentor, you can reach out to them directly:
 
 * [Katie Bell](): experienced international speaker, PyCon AU 2018 organiser, developer, and code archaeologist
 * [Lilly Ryan](<mailto:mentoring@attacus.net>): experienced international speaker, security engineer, former historian, and current Papers Chair for PyCon AU 2018
-* [Richard Jones](): Python Software Foundation Fellow, former PyCon AU organiser, speaker, and engineed
+* [Richard Jones](): Python Software Foundation Fellow, former PyCon AU organiser, speaker, and engineer
 
 ## How to write your proposal
 
@@ -78,6 +77,10 @@ All speakers will be expected to have read and adhere to the conference Code of 
 Our submission process is anonymous. This means our reviewers will not know anything about your identity while assessing your proposal.
 
 Please avoid including identifying information like your name or your pronouns (he/she/they) anywhere in your proposal so that our reviewers can assess your talk by itself.
+
+## Benefits
+
+Proposals which are accepted will receive one free ticket to PyCon Australia 2018. You are welcome to propose a talk with more than one speaker, but please be aware that if it is accepted, only one complimentary ticket will be allocated.
 
 ## Financial support
 
