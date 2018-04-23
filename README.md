@@ -23,6 +23,11 @@ jekyll serve -w
 ./new_post Post Title Goes here
 ```
 
+## Cards and Header Images
+
+Cards and Header images need to be absolute URLs. Prefix all with `/img`
+
+
 ## Issues
 
 If you wish to update the conference website, please submit a [pull request](https://help.github.com/articles/about-pull-requests/)

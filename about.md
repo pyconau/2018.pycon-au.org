@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-header-img: img/headers/melbourne-crowd.jpg
+header-img: /img/headers/melbourne-crowd.jpg
 ---
 
 ## Important Information

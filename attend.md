@@ -2,7 +2,8 @@
 layout: page
 title: Attend
 permalink: /attend/
-header-img: img/headers/brisbane-crowd.jpg
+header-img: /img/headers/brisbane-crowd.jpg
+card: /img/cards/cfp-open.jpg
 ---
 
 Tickets for PyCon AU will open shortly after the [Call for Proposals](/speak/)
