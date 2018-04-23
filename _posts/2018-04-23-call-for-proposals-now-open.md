@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Call for Proposals Now Open
+card: /img/cards/cfp-open.jpg
 ---
 
 Ready, set, write!
