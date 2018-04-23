@@ -3,6 +3,7 @@ layout: page
 title: Speak
 permalink: /speak/
 header-img: img/headers/hobart-audrey.jpg
+card: img/cards/speak.jpg
 ---
 
 ## [Submit a talk proposal now!](https://www.papercall.io/pyconau2018)

@@ -1,5 +1,5 @@
 port: 4000
-header-img: "img/headers/DarlingHarbour_header.jpg"
+header-img: /img/headers/DarlingHarbour_header.jpg
 base_author: "the Organisers"
 permalink: /news/:title/
 
