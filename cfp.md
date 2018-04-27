@@ -27,7 +27,7 @@ PyCon AU proposal reviewers are then joined by the remaining members of the PyCo
 
 # Anonymity Guidelines
 
-PyCon Australia aims to curate a diverse and interesting lineup of talks for our 2018 conference.
+PyCon AU aims to curate a diverse and interesting lineup of talks for our 2018 conference.
 
 In order to review talk proposals with as little bias as is humanly possible, we have made our proposal review process anonymous.
 
@@ -76,7 +76,7 @@ e.g.
 
 Another example:
 
-> I started dog patting this year. I have a lot of thoughts about effective ways to teach dog patting to beginners, and I am enthusiastic about making other people's journeys into the world of patting dogs more enjoyable and accessible. 
+> "I started dog patting this year. I have a lot of thoughts about effective ways to teach dog patting to beginners, and I am enthusiastic about making other people's journeys into the world of patting dogs more enjoyable and accessible. "
 
 
 ### Can I still identify myself as a [insert gender/minority/attribute here]?
@@ -85,7 +85,7 @@ Another example:
 
 During the first phase of our review process, the PyCon AU reviewers will not know anything about your identity. Reviewers will use only the talk topic and the details provided in the abstract and notes to rate your talk.
 
-Once all proposals have been rated and reviewed, we will de-anonymise all talks. This means that the information you provided in your PaperCall bio will become visible to the PyCon organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
+Once all proposals have been rated and reviewed, we will de-anonymise all talks. This means that the information you provided in your PaperCall bio will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
 
 Additionally, we provide financial aid to ensure people from a wide variety of backgrounds are able to attend PyCon AU. The financial assistance application process is separate to the CFP review process, and you may provide information about your background and circumstances there as well. See more about financial assistance at [https://2018.pycon-au.org/assistance](/assistance).
 
@@ -95,7 +95,7 @@ Additionally, we provide financial aid to ensure people from a wide variety of b
 
 PaperCall will hide the information you provide in your "Profile Details" section from PyCon AU organisers until we choose to de-anonymise it. De-anonymisation is a one-time process that will apply to all submissions at the same time. We will trigger this once the review process has been completed.
 
-This means that the information you provided in your PaperCall Profile Details will become visible to the PyCon organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
+This means that the information you provided in your PaperCall Profile Details will become visible to the PyCon AU organisers, and we can begin the work of selecting talks, and putting together the beginnings of the conference schedule. You are welcome to provide demographic information in this section.
 
 Information in your PaperCall bio includes:
 
@@ -107,7 +107,7 @@ Information in your PaperCall bio includes:
 
 ### How will you know how to contact me about the talk if it is accepted?
 
-Once talks have been reviewed, we will de-anonymise all talks. (This is a process built into PaperCall.) This will reveal the personal information provided in the PaperCall bio section, and allow the PyCon Organising Committee to see it.
+Once talks have been reviewed, we will de-anonymise all talks. (This is a process built into PaperCall.) This will reveal the personal information provided in the PaperCall bio section, and allow the PyCon AU Organising Committee to see it.
 
 Once we have decided upon our PyCon AU 2018 talks, we will send you a message through PaperCall to let you know what the next steps are.
 
@@ -123,7 +123,7 @@ PyCon AU takes our commitment to anonymous reviews very seriously. This means th
 
 **tl;dr: Until the CFP closes, you can edit your submissions in PaperCall. You will be able to remove identifying information from your proposal until this time.**
 
-If your talk contains identifying information, it is likely you may have been contacted by a PyCon organiser already and asked to remove this from your proposal. If you have not, it is always worth a double check.
+If your talk contains identifying information, it is likely you may have been contacted by a PyCon AU organiser already and asked to remove this from your proposal. If you have not, it is always worth a double check.
 
 You are also welcome to make tweaks and changes to your proposal up until the CFP is closed. This gives you a chance to polish submissions based on feedback, and to remove identifying information if you notice it there.
 
