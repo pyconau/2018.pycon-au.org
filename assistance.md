@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Financial Assistance
-header-img: img/headers/sydney-speaker.jpg
+header-img: /img/headers/sydney-speaker.jpg
+card: /img/cards/assistance.jpg
 ---
 
 Thanks to the support of our sponsors, we have budget set aside for providing financial assistance to PyCon AU speakers and attendees who might otherwise find it difficult to attend.

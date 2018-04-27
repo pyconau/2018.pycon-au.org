@@ -2,7 +2,8 @@
 layout: page
 title: Attend
 permalink: /attend/
-header-img: img/headers/brisbane-crowd.jpg
+header-img: /img/headers/brisbane-crowd.jpg
+card: /img/cards/cfp-open.jpg
 ---
 
 Tickets for PyCon AU will open shortly after the [Call for Proposals](/speak/)
@@ -21,3 +22,7 @@ Development Sprint tickets will be sold separately to the main event.
 ### Financial assistance
 
 Thanks to the support of our sponsors, we have budget set aside for providing financial assistance for people who might otherwise find it difficult to attend PyCon AU. See the [financial assistance page](/assistance/) for more details about the selection process and the application form.
+
+### More details closer to the event
+
+We will be adding more information to this page including transport tips, links to local hotels, and other useful information closer to the event. 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
-header-img: img/headers/melbourne-speaker.jpg
+header-img: /img/headers/melbourne-speaker.jpg
 ---
 
 All attendees of PyCon Australia 2018 agree to be bound by the Linux Australia code of conduct. 
