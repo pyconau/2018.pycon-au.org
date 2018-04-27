@@ -10,6 +10,8 @@ card: /img/cards/speak.jpg
 
 <br>
 
+[Check out our guidelines for submission.](/cfp/)
+
 We want you [to present at PyCon AU](https://www.papercall.io/pyconau2018)!
 
 Tell us about what you've been hacking on, what drives you, what excites you. What have you been learning? What do you want to share?
@@ -34,6 +36,8 @@ We welcome submissions from everybody, including those:
 Thinking of something cool? We want to hear from you!
 
 You can submit a proposal for the main conference, and all of our four Specialist Tracks, [through PaperCall](https://www.papercall.io/pyconau2018) or reach us any time with questions at **[program@pycon-au.org](mailto:program@pycon-au.org)**.
+
+Have a read of our [guidelines](/cfp/) and [anonymity FAQ](/cfp/#anonymity-guidelines) before you start.
 
 ## Specialist Tracks
 
