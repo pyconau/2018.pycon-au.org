@@ -10,7 +10,9 @@ card: /img/cards/speak.jpg
 
 Please make sure to check out our [CFP review process and anonymity guidelines](/cfp-guidelines/) as well.
 
-<br>  
+**The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.**
+
+🐍✍️➡️✨  
 
 # Contents
 * [Basic information](#basic-information)
@@ -30,7 +32,7 @@ We want you [to present at PyCon AU](https://www.papercall.io/pyconau2018)!
 
 Tell us about what you've been hacking on, what drives you, what excites you. What have you been learning? What do you want to share?
 
-The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.
+**The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.**
 
 Do you have a talk for the main conference track, or something more specialised for our Friday specialist tracks? [Submit now!](https://www.papercall.io/pyconau2018)
 
