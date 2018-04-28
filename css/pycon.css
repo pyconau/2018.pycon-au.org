@@ -89,10 +89,6 @@ body {
 .site-heading { 
   color: white;
 }
-.site-heading > h1 { 
-  padding-top: 60px;
-  font-size: 6.5rem !important;
-}
 .main-info { 
   color: #fff;
   margin-top: 100px;
@@ -131,4 +127,31 @@ body {
 
 blockquote { 
     margin: 0 20px 1rem !important;
+}
+
+
+@media (max-width: 575px) {
+  .site-heading > h1 {
+    padding-top: 60px;
+    font-size: 3rem !important;
+  }
+}
+
+@media (min-width: 576px) {
+  .site-heading > h1 {
+    padding-top: 60px;
+    font-size: 4rem !important;
+  }
+}
+@media (min-width: 768px) {
+  .site-heading > h1 {
+    padding-top: 60px;
+    font-size: 5rem !important;
+  }
+}
+@media (min-width: 990px) {
+  .site-heading > h1 {
+    padding-top: 60px;
+    font-size: 6rem !important;
+  }
 }
