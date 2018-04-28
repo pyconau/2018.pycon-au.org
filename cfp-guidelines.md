@@ -57,7 +57,7 @@ This may be different to the processes you have seen at other conferences, so we
 
 **PLEASE NOTE:** If your proposal still contains identifying information by the time the CFP closes on Monday, May 28 [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth), ***it will be disqualified from consideration for PyCon AU 2018***. This is because, if this information is included, we cannot guarantee that your talk will have been reviewed without bias.
 
-## <a name="quick-answers"></a> Detailed answers
+## <a name="detailed-answers"></a> Detailed answers
 
 ### <a name="1"></a> How do I write a proposal that doesn't identify me?
 
