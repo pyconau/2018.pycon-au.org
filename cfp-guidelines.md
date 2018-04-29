@@ -22,8 +22,9 @@ This page details our CFP review and selection process, as well as guidelines ab
     6. [I didn't have to do this for {other conference}. Why do I have to do this for PyCon AU?](#6)
     7. [Oh no! I already submitted something that identifies me! What do I do?](#7)
     8. [I have removed all the identifying info, but my talk title/topic is pretty unique and could identify me. What do I do?](#8)
-    9. [I have a different question.](#99)
-    10. [I think I've done everything right. What's next?](#100)
+    9. [My submission was returned to me! What do I do?](#9)
+    10. [I have a different question.](#99)
+    11. [I think I've done everything right. What's next?](#100)
 
 # <a name="selection-process"></a> CFP Review and Selection Process
 
