@@ -73,12 +73,11 @@ For students in particular: if it wouldn't be appropriate in class, it isn't goi
 
 ## <a name="speaker-benefits"></a> Speaker benefits
 
-Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals. They will be provided with one free ticket to PyCon Australia 2018, including not only the specialist events day, but also both days of the conference main track.
+Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals. They will also be provided with free access to the PyCon Australia 2018 specialist tracks day on Friday August 24th.
 
-Arrangements will also be made to allow parents and guardians to attend the Student Showcase itself without needing to purchase a full conference
-ticket.
+Arrangements will also be made to allow parents and guardians to attend the Student Showcase itself without needing to purchase a full conference ticket.
 
-Proposals which are accepted will receive one free ticket to PyCon Australia 2018. You are welcome to propose a talk with more than one speaker, but please be aware that if it is accepted, only one complimentary ticket will be allocated.
+Proposals which are accepted will automatically receive one complimentary entry for the specialist tracks day. You are welcome to propose a talk with more than one speaker, but please be aware that if it is accepted, only one complimentary entry will be allocated.
 
 ## <a name="financial-support"></a> Financial support
 
