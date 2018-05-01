@@ -22,8 +22,9 @@ This page details our CFP review and selection process, as well as guidelines ab
     6. [I didn't have to do this for {other conference}. Why do I have to do this for PyCon AU?](#6)
     7. [Oh no! I already submitted something that identifies me! What do I do?](#7)
     8. [I have removed all the identifying info, but my talk title/topic is pretty unique and could identify me. What do I do?](#8)
-    9. [I have a different question.](#9)
-    10. [I think I've done everything right. What's next?](#10)
+    9. [My submission was returned to me! What do I do?](#9)
+    10. [I have a different question.](#99)
+    11. [I think I've done everything right. What's next?](#100)
 
 # <a name="selection-process"></a> CFP Review and Selection Process
 
@@ -56,6 +57,8 @@ This may be different to the processes you have seen at other conferences, so we
 **Put *any and all* personally-identifiable information in the "Profile Details" section of your submission. This is where we want it to be!**
 
 **PLEASE NOTE:** If your proposal still contains identifying information by the time the CFP closes on Monday, May 28 [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth), ***it will be disqualified from consideration for PyCon AU 2018***. This is because, if this information is included, we cannot guarantee that your talk will have been reviewed without bias.
+
+Organisers have no way to edit your proposal. If we identify that you have included information that idenifies you, we will contact you via the Speaker Communication function of PaperCall. Organisers will not identify themselves when they contact you, so please do not identify yourself in replies. This includes signing off your reply with your name. If you do this, we will return your proposal to you for resubmission. 
 
 ## <a name="detailed-answers"></a> Detailed answers
 
@@ -153,10 +156,26 @@ We have reviewers who are both frequent and infrequent conference reviewers and 
 
 This will give other reviewers the chance to review your proposal without prior knowledge of you or your talk.
 
-### <a name="9"></a> I have a different question.
+### <a name="9"></a> My submission was returned to me! What do I do?
+
+In some cases, there are items of a submission that cannot be edited by anyone. This includes speaker feedback. Feedback is an important mechanism for reviewers to ask for clarification or updates to your propoosal. The only way we can remove this historical information so that reviewers cannot see it is to return your submission to you and ask for a fresh submission. 
+
+**Please do not sign off your feedback to reviewers with your name.**
+
+If you have had your submission returned to you and you have been asked to resubmit: 
+ 
+ * Take note of what was required to be changed
+ * [Create a new talk entry](https://www.papercall.io/talks/new)
+ * Copy the contents of your old talk entry into the new one
+ * Re-submit the new talk
+ * Archive your old talk
+
+We will only ask for a resubmission in extreme circumstances. If you resubmit, and your new submission still contains issues regarding identifying information, your submission will be disqualified from consideration for the conference. 
+
+### <a name="99"></a> I have a different question.
 
 Great! You can email it to **[program@pycon-au.org](mailto:program@pycon-au.org)** and a non-reviewing member of our organising team will get back to you.
 
-### <a name="10"></a> I think I've done everything right. What's next?
+### <a name="100"></a> I think I've done everything right. What's next?
 
 Submit your proposal through PaperCall, and wait to hear back from us! [Make sure to read all the speaker information.](/speak/)
