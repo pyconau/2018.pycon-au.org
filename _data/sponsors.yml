@@ -23,10 +23,34 @@
         engineering excellence through collaboration, informed debate and learning - we
         believe that our commercial success is directly related to the quality of what
         we produce and the talent and commitment of our team.
-    - name: Your Company here
-      logo: plat_placeholder_logo.png
-      placeholder: true
+    - name: IRESS
+      logo: iress.png
+      link: https://www.iress.com/au 
       blurb: | 
+        We began in 1993 as a small Australian tech start-up. Now we're
+        a global team of over 1,800 people across five continents - and we're still
+        growing. We're listed on the Australian Securities Exchange, with a strong
+        financial track record and our continuous investment in product development and
+        innovation is what keeps us ahead of the game.
+        <br><br>
+        We design, develop and deliver solutions that help with life's big decisions -
+        from getting a mortgage, planning for retirement, to trading on the stock
+        exchange - things that make a real difference to people's lives and financial
+        well-being. We may be one of the largest financial software providers, but we
+        haven't forgotten our roots; we've kept the entrepreneurial spirit and agility
+        that defined our early years - it's something we continue to look for and
+        admire in our people.
+        <br><br>
+        With offices across Australia, the UK, Canada, South Africa, New Zealand and
+        Singapore, our team might span the world but we unite to deliver a shared
+        vision - to help our clients keep their promises by providing the very best
+        that fintech has to offer.
+        <br><br>
+        We are constantly looking for talented Python developers - the language is used
+        by all development teams and is the primary development language used on our
+        core product XPLAN.
+
+
         PyCon AU 2018 can only operate with the generousity of our sponsors.
         If you are interested in helping our event, please see our <a
         href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
