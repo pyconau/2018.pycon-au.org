@@ -73,15 +73,15 @@ For students in particular: if it wouldn't be appropriate in class, it isn't goi
 
 ## <a name="speaker-benefits"></a> Speaker benefits
 
-Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals. They will also be provided with free access to the PyCon Australia 2018 specialist tracks day on Friday August 24th.
+Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals. 
 
-Arrangements will also be made to allow parents and guardians to attend the Student Showcase itself without needing to purchase a full conference ticket.
+They will also be provided with two tickets to the PyCon Australia 2018 Specialist Track day on Friday August 24th, one for themselves, and one for a teacher, parent or guardian.
 
-Proposals which are accepted will automatically receive one complimentary entry for the specialist tracks day. You are welcome to propose a talk with more than one speaker, but please be aware that if it is accepted, only one complimentary entry will be allocated.
+Arrangements will also be made to allow parents and guardians to attend the Student Showcase itself without needing to purchase a full conference ticket. Please contact [events@aca.edu.au](mailto:events@aca.edu.au)
 
 ## <a name="financial-support"></a> Financial support
 
-Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
+Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets as detailed in "Speaker Benefits", and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
 
 ## <a name="questions"></a> Have a question? Unsure about anything?
 
