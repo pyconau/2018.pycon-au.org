@@ -6,6 +6,8 @@ header-img: /img/headers/brisbane-crowd.jpg
 card: /img/cards/cfp-open.jpg
 ---
 
+### Tickets
+
 Tickets for PyCon AU will open shortly after the [Call for Proposals](/speak/)
 results are announced.
 
@@ -18,6 +20,16 @@ conference attendees, full of fresh ideas, and develop on your favourite pet
 project, or discover something new to participate in.
 
 Development Sprint tickets will be sold separately to the main event.
+
+### Location
+
+All of PyCon AU will be held at the [International Convention
+Center](https://www.iccsydney.com.au/about-icc-sydney), on Sydney's Darling
+Harbour. We'll be using the Cockle Bay room for our full-conference
+presentations, and other rooms on Level 3 for our tracks. 
+
+The venue will have digital signage directing attendees to the conference. 
+
 
 ### Financial assistance
 
