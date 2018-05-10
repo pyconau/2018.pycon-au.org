@@ -1,7 +1,9 @@
  
 h1, h2, h3 {
-    font-family: 'Encode Sans Condensed', sans-serif;
+   font-family: 'Encode Sans Condensed', sans-serif;
    font-weight: 600;
+   padding-top: 20px;
+   padding-bottom: 10px;
 } 
 
 body, h4, h5, h6 {

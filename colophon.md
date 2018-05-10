@@ -16,7 +16,7 @@ other events, including but not limited to:
 This website is based on free and open source software. 
 
  * [Jekyll](https://jekyllrb.com/)
- * [Bootstrap v4.0](https://getbootstrap.com/)
+ * [Bootstrap v4.1](https://getbootstrap.com/)
  * [Project Zeppelin](https://github.com/gdg-x/zeppelin) (Jekyll configuration inspiration)
  * [NorthBay Python](https://2017.northbaypython.org/) (for this colophon)
 
