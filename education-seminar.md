@@ -11,6 +11,12 @@ The 2018 PyCon Australia Python in Education Seminar will be held on Friday
 August 24th in Sydney, Australia, at the
 [International Convention Center, Sydney](https://www.iccsydney.com.au).
 
+* We're currently accepting proposals for the Education Seminar! Submit
+  these through the [main conference CFP](/speak/) and tag them as
+  "Education".
+* We're currently accepting submissions for the Student Showcase! Refer
+  to the [Student Showcase submission guide](/speak/showcase) for details.
+
 ## Seminar Overview
 
 Python is both a simple and consistent language for beginners and a powerful
@@ -27,6 +33,21 @@ to a group of people keen and ready to help out.
 
 If you're new to Python, this is a great opportunity to see what it can do, how
 it works in an educational environment and build up your own skills and confidence.
+
+## Submitting a talk or other proposal for the Education Seminar
+
+If you are keen to speak on any topics relevant to Python educators, please
+submit a talk proposal through the [main conference CFP](/speak/) and tag it
+as "Education"!
+
+We will accept a wide range of talks, and are happy to consider
+proposals for hands-on activities, live demonstrations, or led discussions.
+
+## Submitting a project presentation for the Student Showcase
+
+If you're a student eager to submit a presentation about a project you're working
+on, or a teacher looking to encourage your students to submit their projects,
+check out the [Student Showcase submission guide](/speak/showcase)!
 
 ## Format
 
@@ -62,21 +83,6 @@ the recorded presentations from previous years:
 - [Youtube playlist from 2017](https://www.youtube.com/playlist?list=PLWUSXy9eIkWf89-Eo7SgAj0U9OXNQGsnB) (Melbourne)
 - [Youtube playlist from 2016](https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR) (Melbourne)
 - [Youtube playlist from 2015](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (Brisbane)
-
-## Submitting a talk or other proposal for the Education Seminar
-
-If you are keen to speak on any topics relevant to Python educators, please
-submit a talk proposal through the [main conference CFP](/speak/) and tag it
-as "Education"!
-
-We will accept a wide range of talks, and are happy to consider
-proposals for hands-on activities, live demonstrations, or led discussions.
-
-## Submitting a project presentation for the Student Showcase
-
-If you're a student eager to submit a presentation about a project you're working
-on, or a teacher looking to encourage your students to submit their projects,
-check out the [Student Showcase submission guide](/speak/showcase)!
 
 ## Financial Assistance
 
