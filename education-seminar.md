@@ -108,11 +108,12 @@ ACA also offer the Australian Digital Technologies Challenges for Years 5 - 8.
 
 ### Code Club Australia
 
-[Code Club Australia](https://codeclubau.org/About-Us) was founded in 2014 and
-expanded thanks to funding from the Telstra Foundation. It aims to provide free
-resources, training and events to communities all over Australia, with Code Club
-volunteers serving over 75,000 youth a week.
+[Code Club](https://codeclubau.org/About-Us) is a network of clubs led by 
+teachers and volunteers to get kids coding. 
+Code Club offers over 100+ hours of digital technologies aligned projects and 
+activities to bring coding to classrooms, libraries and community centres across 
+the country. Currently, Code Club impacts more than 165,000 children a week across 
+a network of 2,200+ clubs and schools. All for free.
 
-If you're interested in helping folks learn to code outside a formal educational
-setting, Code Club offers plenty of opportunities to
-[volunteer](https://codeclubau.org/get-involved).
+Code Club also offers Free certified training for teachers wanting to get across 
+Digital Technologies for their school. Learn more at [codeclubau.org](https://codeclubau.org).
