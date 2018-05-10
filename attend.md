@@ -24,7 +24,7 @@ Development Sprint tickets will be sold separately to the main event.
 ### Location
 
 All of PyCon AU will be held at the [International Convention
-Center](https://www.iccsydney.com.au/about-icc-sydney), on Sydney's Darling
+Center](https://www.iccsydney.com.au/about-icc-sydney), in Sydney's Darling
 Harbour. We'll be using the Cockle Bay room for our full-conference
 presentations, and other rooms on Level 3 for our tracks. 
 
