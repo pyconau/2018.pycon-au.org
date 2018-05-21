@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About 
+snake: rainbow
 permalink: /about/
-header-img: /img/headers/melbourne-crowd.jpg
 ---
 
 ## Important Information

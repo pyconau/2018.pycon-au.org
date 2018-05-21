@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Financial Assistance
-header-img: /img/headers/sydney-speaker.jpg
+snake: greengold
 card: /img/cards/assistance.jpg
 ---
 

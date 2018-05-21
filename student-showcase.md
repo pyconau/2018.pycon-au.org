@@ -2,7 +2,7 @@
 layout: page
 title: Student Showcase
 permalink: /speak/showcase
-header-img: /img/headers/icc-location.jpg
+snake: greengold
 card: /img/cards/speak.jpg
 ---
 

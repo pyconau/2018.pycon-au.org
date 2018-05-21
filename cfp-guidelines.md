@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CFP Guidelines
-header-img: /img/headers/sydney-speaker.jpg
+snake: greengold
 card: /img/cards/speak.jpg
 ---
 

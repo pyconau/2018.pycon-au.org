@@ -1,47 +1,54 @@
- 
-h1, h2, h3 {
-   font-family: 'Encode Sans Condensed', sans-serif;
+.header-serpent { 
+    display: inline-block; 
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 40px;
+    overflow: hidden;
+    height: 100%; 
+}
+.header-serpent > img { 
+    height: 100%;
+} 
+
+body { overflow-x: hidden; }
+
+h1, h2, h3, .subheading {
+   font-family: 'PT Sans', sans-serif;
    font-weight: 600;
    padding-top: 20px;
    padding-bottom: 10px;
 } 
 
-body, h4, h5, h6 {
-   font-family: "Droid Sans", sans-serif;
+h4, h5, h6 {
+   font-family: 'PT Sans', sans-serif;
 }
 
-.main-content a.hover { 
+.subheading { font-size: 24pt }
+body {
+   font-family: "Catamaran", sans-serif;
+}
+
+.main-content a.hover, .footer a.hover { 
   color: #24a732 !important;
 }
 
-.main-content a {
-    color: #23cc2d !important;
+.main-content a, .footer a {
+  color: #00B159 !important;
   font-weight: bold !important;
 }
 
-.footer a, .footer a.hover, .navbar a, .navbar a.hover { 
-    font-weight: bold;
+.navbar a, .navbar a.hover { 
+    font-size: 16pt; 
 }
 
-.footer a { 
-    color: #AC9037;
-}
-.footer a.hover {
-    color: #D6BC67;
-}
-.navbar a { 
-    color: #12550B;
-}
-.navbar a.hover { 
-    color: #589B51;
-}
+.footer { 
+    border-top: 1px #f2bf2f solid; 
+} 
 
 .navbar-light {
-    background: rgb(129, 185, 124);
+    background: #00a756;
 }
-.site-heading { 
-  padding-top: 40px;
-} 
+
 html {
   position: relative;
   min-height: 100%;
@@ -61,35 +68,23 @@ body {
   width: 100%;
   height: 60px;
   line-height: 60px;
-  background-color: rgb(254, 232, 162);
 }
 
 .footer-image { 
   height: 55px;
   margin-top: 5px;
-  filter: drop-shadow(0px 0px 7px #fff);
 }
  
 .pycon-logo {
   padding: 40px;
 }
 
-.background-img, .intro-header {  
-  background: no-repeat center center;
-  background-size: cover;
-  background-attachment: scroll;
-}
-
-.intro-header { 
-  height: 350px;
-}
- 
 .main-content { 
   padding-top: 20px;
 }
 
 .site-heading { 
-  color: white;
+  color: #fff;
 }
 .main-info { 
   color: #fff;
@@ -157,3 +152,5 @@ blockquote {
     font-size: 6rem !important;
   }
 }
+
+.nav-item { color: white !important}

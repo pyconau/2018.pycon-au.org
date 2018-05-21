@@ -1,5 +1,6 @@
 ---
 title: Contact
+snake: rainbow
 layout: page
 permalink: /contact/
 ---

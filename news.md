@@ -1,8 +1,8 @@
 ---
 layout: page
 title: News
+snake: greengold
 permalink: /news/
-header-img: /img/headers/sydney-speaker.jpg
 ---
 
 {% include news.html %}

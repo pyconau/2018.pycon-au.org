@@ -2,7 +2,7 @@
 layout: page
 title: Speak
 permalink: /speak/
-header-img: /img/headers/hobart-audrey.jpg
+snake: greengold
 card: /img/cards/speak.jpg
 ---
 

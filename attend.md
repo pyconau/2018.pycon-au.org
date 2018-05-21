@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Attend
+snake: rainbow
 permalink: /attend/
-header-img: /img/headers/brisbane-crowd.jpg
 card: /img/cards/cfp-open.jpg
 ---
 

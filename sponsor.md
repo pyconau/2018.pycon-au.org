@@ -2,7 +2,7 @@
 layout: page
 title: Sponsor
 permalink: /sponsor/
-header-img: /img/headers/melbourne-sponsors.jpg
+snake: greengold
 card: /img/cards/sponsor.jpg
 ---
 

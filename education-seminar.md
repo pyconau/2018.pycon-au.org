@@ -2,7 +2,7 @@
 layout: page
 title: Python in Education Seminar
 permalink: /about/education-seminar
-header-img: /img/headers/icc-location.jpg
+snake: rainbow
 ---
 
 ## Essential Information
