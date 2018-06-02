@@ -76,7 +76,7 @@
      link: https://online.jcu.edu.au/
      blurb: | 
         James Cook University (JCU) recognises the power of data science and is a proud
-        supporter of PyCon Australia in 2018.<br>
+        supporter of PyCon AU in 2018.<br>
         <br>
         JCU prides itself on offering degrees that count – and today, every business
         and industry understands the invaluable need for data scientists. JCU has
@@ -173,6 +173,19 @@
         and contributes to improvements in the Web industry, both technical and social.<br><br>
 
         The Django Software Foundation is the sponsor of DjangoCon AU 2018
+
+   - name: Biarri
+     logo: biarri.png
+     link: https://biarri.com/
+     blurb: |
+        Biarri is a world leader at solving business problems through intuitive
+        SaaS solutions powered mathematical engines. We work with awesome people on
+        rewarding and complex problems across Rail, Transportation, Telecommunications,
+        Resources, and Healthcare delivering systems to make businesses more efficient.
+        <br><br>
+        If you want to find out more about the work that we do at Biarri and the
+        technology that powers our optimisation solutions come and talk to us at PyCon
+        AU!
 
 - 
   title: Auspice
