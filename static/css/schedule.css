@@ -1,0 +1,21 @@
+.service { 
+    text-align: center;
+    padding: 10px;
+}
+
+.speaker { 
+
+.service.short h5 { 
+    font-size: 12pt;
+} 
+
+.speaker-picture { 
+    height: 30px;
+    display: inline-block;
+}
+
+.day-header { 
+    padding-top: 40px; 
+    padding-bottom: 20px; 
+}
+

@@ -11,3 +11,22 @@ navigationLinks:
  - {permalink: '/attend/', text: "Attend"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
+
+
+include: 
+ - _pages
+
+exclude:
+ - README.md
+ - CNAME
+ - Gemfile
+ - Gemfile.lock
+ - new_post
+ - prospectus.pdf
+
+future: true
+
+collections:
+    talks:  
+        output: true
+        permalink: /:collection/:name/

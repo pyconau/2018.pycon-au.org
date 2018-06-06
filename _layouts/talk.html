@@ -1,0 +1,53 @@
+---
+layout: page
+---
+<style> .speaker-image img { height: 100px} </style>
+<span class="meta">
+
+{% for blob in site.data.schedule %}
+  {% for timeslot in blob.timeslots %}
+      {% for session in timeslot.sessionIds %}
+        {% if session == page.talk_id %}
+            {{ blob.date }},  {{ timeslot.startTime }}
+         {% endif %}
+      {% endfor %}
+  {% endfor %}
+{% endfor %}
+
+
+{% for speaker in site.data.speakers %}
+  {% for session_speaker in page.speakers %}
+      {% if session_speaker == speaker.id %}
+        <div class="speaker-image"><img href="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }})"></div>
+        {{ speaker.name }} {{ speaker.company }}
+      {% endif %}
+  {% endfor %}
+{% endfor %}
+</span>
+</div>
+
+<article style="padding-top: 10px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10  col-md-10 col-md-offset-1">
+                {{ page.abstract }}
+
+                <hr>
+
+				{{ content }}
+
+                {% for speaker in site.data.speakers %}
+                  {% for session_speaker in page.speakers %}
+                      {% if session_speaker == speaker.id %}
+                        <hr>
+                        {{ speaker.bio }}
+                      {% endif %}
+                  {% endfor %}
+                {% endfor %}
+
+
+            </div>
+        </div>
+    </div>
+</article>
+
