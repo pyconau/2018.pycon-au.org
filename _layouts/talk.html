@@ -8,8 +8,9 @@ layout: page
   {% for timeslot in blob.timeslots %}
       {% for session in timeslot.sessionIds %}
         {% if session == page.talk_id %}
-            {{ blob.date }},  {{ timeslot.startTime }}
-         {% endif %}
+            <p>{{ blob.dateReadable }},  {{ timeslot.startTime }}</p>
+            {% break %}
+        {% endif %}
       {% endfor %}
   {% endfor %}
 {% endfor %}

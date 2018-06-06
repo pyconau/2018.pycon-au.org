@@ -1,6 +1,6 @@
 ---
 layout: talk
-talk-id: 1000
+talk_id: 1000
 abstract: Placeholder
 title: Specialist Track
 ---

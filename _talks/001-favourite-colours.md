@@ -1,6 +1,6 @@
 ---
 layout: talk
-talk-id: 001
+talk_id: 001
 abstract: Three questions, one bridge
 title: Favourite Colours
 speakers: [1]

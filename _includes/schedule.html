@@ -20,7 +20,7 @@
                 {% for slot in timeslot.sessionIds %}
                     {% if slot != 404 %}
                         {% for session in site.talks %}
-                            {% if slot == session.talk-id and session.service == null %}
+                            {% if slot == session.talk_id and session.service == null %}
                             <div class="col">
                                 <div class="">
                                     <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>

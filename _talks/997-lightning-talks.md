@@ -1,6 +1,6 @@
 ---
 layout: talk
-talk-id: 997
+talk_id: 997
 title: Lightning Talks
 place: Cockle Bay
 ---
