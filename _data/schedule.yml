@@ -44,7 +44,7 @@
     - { 
         startTime: "09:00",
         endTime: "10:00",
-        sessionIds: [992] # Invited Speaker 1
+        sessionIds: [992, 404, 404, 404] # Invited Speaker 1
     }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
@@ -87,12 +87,12 @@
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [993] 
+        sessionIds: [993, 404, 404, 404] 
     }
     - {
         startTime: "16:40",
         endTime: "17:40",
-        sessionIds: [997] 
+        sessionIds: [997, 404, 404, 404] 
     }
 
 
@@ -108,7 +108,7 @@
     - { 
         startTime: "09:00",
         endTime: "10:00",
-        sessionIds: [994] # Invited Speaker 3
+        sessionIds: [994, 404, 404, 404] # Invited Speaker 3
     }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
@@ -151,12 +151,12 @@
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [996] 
+        sessionIds: [996, 404, 404, 404] 
     }
     - {
         startTime: "16:40",
         endTime: "17:40",
-        sessionIds: [997] 
+        sessionIds: [997, 404, 404, 404] 
     }
 
 
@@ -169,7 +169,7 @@
   timeslots: 
     - { startTime: "08:00",
         endTime: "18:00",
-        sessionIds: [999]
+        sessionIds: [999, 999]
     }
 
 - 
@@ -181,5 +181,5 @@
   timeslots: 
     - { startTime: "08:00",
         endTime: "18:00",
-        sessionIds: [999]
+        sessionIds: [999, 999]
     }

@@ -1,21 +1,33 @@
 .service { 
     text-align: center;
     padding: 10px;
-}
-
-.speaker { 
-
-.service.short h5 { 
-    font-size: 12pt;
 } 
 
-.speaker-picture { 
-    height: 30px;
-    display: inline-block;
+.empty { 
+    background-color: #eee;
+} 
+
+.long { 
+    font-size: 1.25rem;
+    padding: 30px;
 }
 
+.talk {
+    min-height: 100px;
+}
+
+
+.keynote { 
+    padding-bottom: 70px;
+}
+
+.short { 
+    font-size: 12pt;
+    margin-top: -10px;
+} 
+
 .day-header { 
-    padding-top: 40px; 
+    padding-top: 60px; 
     padding-bottom: 20px; 
 }
 

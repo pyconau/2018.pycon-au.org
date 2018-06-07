@@ -4,10 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
-<ul>
 {% for talk in site.talks %}
-    <li> {{ talk.talk-id }} {{ talk.title }} {{ talk.url }}
+    {% if talk.type == "talk" %}
+* [{{ talk.title }}]({{talk.url}}) {{ talk.speaker}}
+    {% endif %}
 {% endfor %}
-
-</ul>
 

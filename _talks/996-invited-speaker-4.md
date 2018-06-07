@@ -1,8 +1,7 @@
 ---
 layout: talk
 talk_id: 996
-subtype: keynote
+type: keynote
 title: Invited Speaker 4
-place: Cockle Bay
 ---
 

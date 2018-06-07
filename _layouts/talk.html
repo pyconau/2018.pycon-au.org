@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<style> .speaker-image img { height: 100px} </style>
+<style> .speaker-image img { height: 100px; width: 100px;} </style>
 <span class="meta">
 
 {% for blob in site.data.schedule %}
@@ -19,8 +19,8 @@ layout: page
 {% for speaker in site.data.speakers %}
   {% for session_speaker in page.speakers %}
       {% if session_speaker == speaker.id %}
-        <div class="speaker-image"><img href="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }})"></div>
-        {{ speaker.name }} {{ speaker.company }}
+        <div class="speaker-image"><img src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}"></div>
+        {{ speaker.name }} {% if speaker.company %} - {{ speaker.company }}{% endif %}
       {% endif %}
   {% endfor %}
 {% endfor %}

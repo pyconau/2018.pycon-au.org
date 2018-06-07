@@ -1,8 +1,8 @@
 ---
 layout: talk
+type: talk
 talk_id: 003
 abstract: Strange women lying in ponds distributing swords is not a basis for a system of government
-subtype: presentation
 title: "Swords in Ponds: Stability or Anarchy?"
 speakers: [3]
 complexity: Intermediate

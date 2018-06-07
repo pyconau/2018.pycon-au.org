@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/schedule.css">
+<link rel="stylesheet" href="/static/css/schedule.css">
 <section id="schedule" class="">
     <div class="">
         {% for day in site.data.schedule %}
@@ -21,7 +21,7 @@
                     {% if slot != 404 %}
                         {% for session in site.talks %}
                             {% if slot == session.talk_id and session.service == null %}
-                            <div class="col">
+                            <div class="col {{ session.type }}">
                                 <div class="">
                                     <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
                                     {% for speaker in site.data.speakers %}
@@ -33,19 +33,16 @@
                                     {% endfor %}
                                 </div>
                             </div>
-                            {% elsif slot == session.id and session.service != null %}
+                            {% elsif slot == session.talk_id and session.service != null %}
                             <div class="col">
-                                <div class="service {% if session.short %}short{% endif %}">
-                                    <h5>{{ session.title }}</h5>
-                                    {% if session.description != null %}
-                                    <p>{{ session.description }}</p>
-                                    {% endif %}
+                                <div class="service {% if session.short %}short{% else %}long{% endif %}">
+                                    {{ session.title }}
                                 </div>
                             </div>
                             {% endif %}
                         {% endfor %}
                     {% else %}
-                    <div class="col"></div>
+                    <div class="col empty"></div>
                     {% endif %}
                 {% endfor %}
             </div>
