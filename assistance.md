@@ -5,6 +5,14 @@ header-img: /img/headers/sydney-speaker.jpg
 card: /img/cards/assistance.jpg
 ---
 
+<hr>
+
+**The first round of Financial Assistance applications has now closed. We expect to advise all applicants of the status of their submissions by June 17 2018. Should additional funds be made available, we may re-open the Financial Assistance applications at a later date.**
+
+Want to help get more people to PyCon AU? [Become a sponsor](/sponsor) or [buy a Contributor ✨ ticket](/attend)
+
+<hr>
+
 Thanks to the support of our sponsors, we have budget set aside for providing financial assistance to PyCon AU speakers and attendees who might otherwise find it difficult to attend.
 
 Financial assistance grants are always either a free conference ticket (at the enthusiast level) or a conference ticket plus additional reimbursed expenses. These expenses can include:

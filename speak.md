@@ -6,11 +6,12 @@ header-img: /img/headers/hobart-audrey.jpg
 card: /img/cards/speak.jpg
 ---
 
-## [Submit a talk proposal now!](https://www.papercall.io/pyconau2018)
+<hr>
 
-Please make sure to check out our [CFP review process and anonymity guidelines](/cfp-guidelines/) as well.
+**Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018**
 
-**The 2018 Call for Presentations (CFP) is open from Monday, April 23 [Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, May 28 AoE.**
+
+<hr>
 
 🐍✍️➡️✨  
 

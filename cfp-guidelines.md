@@ -5,6 +5,12 @@ header-img: /img/headers/sydney-speaker.jpg
 card: /img/cards/speak.jpg
 ---
 
+<hr>
+
+**Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018**
+
+<hr>
+
 This page details our CFP review and selection process, as well as guidelines about how to write an anonymous proposal.
 
 **If you are looking for a link to our PaperCall submissions page, mentoring, or speaker benefits, you want our [Speak page.](/speak/)**
