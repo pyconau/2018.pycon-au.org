@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
+sponsors: true
 ---
 
 {% for talk in site.talks %}

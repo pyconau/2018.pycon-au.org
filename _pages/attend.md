@@ -4,6 +4,7 @@ title: Attend
 snake: rainbow
 permalink: /attend/
 card: /img/cards/cfp-open.jpg
+sponsors: true
 ---
 
 ### Tickets

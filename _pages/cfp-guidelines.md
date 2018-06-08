@@ -3,7 +3,14 @@ layout: page
 title: CFP Guidelines
 snake: greengold
 card: /img/cards/speak.jpg
+sponsors: true
 ---
+
+<hr>
+
+**Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018**
+
+<hr>
 
 This page details our CFP review and selection process, as well as guidelines about how to write an anonymous proposal.
 

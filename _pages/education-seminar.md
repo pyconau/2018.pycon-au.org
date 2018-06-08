@@ -3,6 +3,7 @@ layout: page
 title: Python in Education Seminar
 permalink: /about/education-seminar
 snake: rainbow
+sponsors: true
 ---
 
 ## Essential Information
@@ -11,11 +12,12 @@ The 2018 PyCon Australia Python in Education Seminar will be held on Friday
 August 24th in Sydney, Australia, at the
 [International Convention Center, Sydney](https://www.iccsydney.com.au).
 
-* We're currently accepting proposals for the Education Seminar! Submit
-  these through the [main conference CFP](/speak/) and tag them as
-  "Education".
-* We're currently accepting submissions for the Student Showcase! Refer
-  to the [Student Showcase submission guide](/speak/showcase) for details.
+* The main conference CFP (including proposals for the Education Seminar)
+  has now closed. We look forward to sharing our list of selected presentations
+  with you after the review and selection process is complete!
+* Applications to be part of the Student Showcase have also closed. We have
+  received some truly excellent submissions, and reviewers are currently
+  working through those and will be notifying successful applicants soon.
 
 ## Seminar Overview
 
@@ -34,20 +36,18 @@ to a group of people keen and ready to help out.
 If you're new to Python, this is a great opportunity to see what it can do, how
 it works in an educational environment and build up your own skills and confidence.
 
-## Submitting a talk or other proposal for the Education Seminar
+## Submitting a talk or other proposal for the 2019 Education Seminar
 
-If you are keen to speak on any topics relevant to Python educators, please
-submit a talk proposal through the [main conference CFP](/speak/) and tag it
-as "Education"!
-
-We will accept a wide range of talks, and are happy to consider
-proposals for hands-on activities, live demonstrations, or led discussions.
+While applications for the 2018 Education Seminar have closed, we're planning to
+submit a specialist track proposal again for 2019, so if there's something you'd
+like to present to a mixed audience of teachers and technologists, make a note of
+it, and consider submitting a proposal next year!
 
 ## Submitting a project presentation for the Student Showcase
 
-If you're a student eager to submit a presentation about a project you're working
-on, or a teacher looking to encourage your students to submit their projects,
-check out the [Student Showcase submission guide](/speak/showcase)!
+While applications for the 2018 Student Showcase have closed, we're aiming to have
+it return in 2019, so there will hopefully be more opportunities to participate
+in the future!
 
 ## Format
 
@@ -67,8 +67,8 @@ hindered!) their efforts.
 
 ## Audience
 
-All are welcome to attend the Python in Education Seminar! If you're submitting
-a proposal, the kind of audience to expect includes:
+All are welcome to attend the Python in Education Seminar! For selected
+presenters, the kind of audience to expect includes:
 
 - Primary and secondary school teachers
 - Tertiary educators teaching beginner-level courses

@@ -4,7 +4,7 @@
     <div class="row">
     {% for sponsor in level.sponsors %}
         <div class="col-6">
-          <a href="{{sponsor.link}}"><img class="img-fluid sponsorlogo" src="/img/sponsors/{{sponsor.logo}}"></a>
+          <a href="{{sponsor.link}}"><img class="img-fluid sponsorlogo" src="/static/img/sponsors/{{sponsor.logo}}"></a>
           {% if sponsor.link %}
           <p align="center"><a href="{{sponsor.link}}">{{sponsor.link}}</a></p>
           {% endif %}

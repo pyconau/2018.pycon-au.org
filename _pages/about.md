@@ -3,6 +3,7 @@ layout: page
 title: About 
 snake: rainbow
 permalink: /about/
+sponsors: true
 ---
 
 ## Important Information

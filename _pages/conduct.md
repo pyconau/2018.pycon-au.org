@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Code of Conduct
+permalink: /conduct/
 snake: greengold
+sponsors: true
 ---
 
 All attendees of PyCon Australia 2018 agree to be bound by the Linux Australia code of conduct. 

@@ -2,8 +2,18 @@
 layout: page
 title: Financial Assistance
 snake: greengold
+permalink: /assistance/
 card: /img/cards/assistance.jpg
+sponsors: true
 ---
+
+<hr>
+
+**The first round of Financial Assistance applications has now closed. We expect to advise all applicants of the status of their submissions by June 17 2018. Should additional funds be made available, we may re-open the Financial Assistance applications at a later date.**
+
+Want to help get more people to PyCon AU? [Become a sponsor](/sponsor) or [buy a Contributor ✨ ticket](/attend)
+
+<hr>
 
 Thanks to the support of our sponsors, we have budget set aside for providing financial assistance to PyCon AU speakers and attendees who might otherwise find it difficult to attend.
 

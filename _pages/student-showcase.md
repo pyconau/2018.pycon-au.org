@@ -4,6 +4,7 @@ title: Student Showcase
 permalink: /speak/showcase
 snake: greengold
 card: /img/cards/speak.jpg
+sponsors: true
 ---
 
 ## [Submit a Student Showcase proposal now!](http://bit.ly/pyconau-2018-student-showcase)

@@ -3,6 +3,7 @@ title: Contact
 snake: rainbow
 layout: page
 permalink: /contact/
+sponsors: true
 ---
 
 If you would like to receive low-volume updates about the conference, please

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Colophon
+permalink: /colophon/
+sponsors: true
 ---
 
 ### Website Copy
