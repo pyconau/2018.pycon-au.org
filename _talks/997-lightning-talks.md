@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: talk
-talk_id: 997
+talkid: 997
 title: Lightning Talks
 speakers: 
     - name: Lightning Talk Tzar

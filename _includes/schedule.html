@@ -22,7 +22,7 @@
                     {% if slot != 404 %}
                         {% if slot != 403 %}
                           {% for session in site.talks %}
-                              {% if slot == session.talk_id and session.service == null %}
+                              {% if slot == session.talkid and session.service == null %}
                               <div class="col">
                                   <div class="session {{ session.type }}">
                                       <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
@@ -31,7 +31,7 @@
                                       {% endfor %}
                                   </div>
                               </div>
-                              {% elsif slot == session.talk_id and session.service != null %}
+                              {% elsif slot == session.talkid and session.service != null %}
                               <div class="col">
                                   <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}">
                                   {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>

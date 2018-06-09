@@ -1,7 +1,6 @@
 ---
 layout: talk
-talk_id: 991
+talkid: 990
 title: Welcome
-service: true
 ---
 

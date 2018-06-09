@@ -1,5 +1,5 @@
 ---
-talk_id: 999
+talkid: 999
 title: Development Sprints
 service: true
 type: sprints

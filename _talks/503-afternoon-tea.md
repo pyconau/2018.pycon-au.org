@@ -1,6 +1,6 @@
 ---
 layout: talk
-talk_id: 503
+talkid: 503
 description: Coffee and snacks
 title: Afternoon Tea
 service: true

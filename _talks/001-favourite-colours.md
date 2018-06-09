@@ -1,7 +1,7 @@
 ---
 layout: talk
 type: talk
-talk_id: 001
+talkid: 001
 title: Favourite Colours
 speakers: 
   - name: "Bridgekeeper"

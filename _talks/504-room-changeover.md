@@ -1,6 +1,6 @@
 ---
 layout: talk
-talk_id: 504
+talkid: 504
 title: Room Changeover
 service: true
 short: true

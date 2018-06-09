@@ -12,7 +12,7 @@ snake: rainbow
   {% for timeslot in day.timeslots %}
       {% assign timeslot_index = forloop.index %}
       {% for session in timeslot.sessionIds %}
-        {% if session == page.talk_id %}
+        {% if session == page.talkid %}
             <i><a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},  {{ timeslot.startTime }} {{ site.timezone }}</a></i><br>
             {% break %}
         {% endif %}
@@ -21,9 +21,11 @@ snake: rainbow
 {% endfor %}
 </span>
 
+{% if page.abstract %}
 <hr>
 
 <span class="abstract">{{ page.abstract }}</span>
+{% endif %}
 
 <hr>
 
