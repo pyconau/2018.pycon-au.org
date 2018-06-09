@@ -8,24 +8,64 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots:
     - { startTime: "09:00",
-        endTime: "10:00",
-        sessionIds: [43077, 1002, 1003, 1004]
+        endTime: "9:10",
+        sessionIds: [1001, 1002, 1003, 1004]
+      }
+    - { startTime: "9:15",  
+        endTime: "10:00", 
+        sessionIds: [009, 009, 009, 009]
       }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
-    - { startTime: "10:30",
-        endTime: "12:20",
-        sessionIds: [1001, 1002, 1003, 1004]
+    - { startTime: "10:30",  
+        endTime: "11:00", 
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "11:00", endTime: "11:10", sessionIds: [504]} # changeover
+    - { startTime: "11:10",  
+        endTime: "11:40", 
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "11:40", endTime: "11:50", sessionIds: [504]} # changeover
+    - { startTime: "11:50",  
+        endTime: "12:20", 
+        sessionIds: [009, 009, 009, 009]
       }
     - { startTime: "12:20", endTime: "13:30", sessionIds: [502]} #lunch 
     - { startTime: "13:30",
+        endTime: "14:00",
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "14:00", endTime: "14:10", sessionIds: [504]} # changeover
+    - { startTime: "14:10",
+        endTime: "14:40",
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "14:40", endTime: "14:50", sessionIds: [504]} # changeover
+    - { startTime: "14:50",
         endTime: "15:20",
-        sessionIds: [1001, 1002, 1003, 1004]
+        sessionIds: [009, 009, 009, 009]
       }
     - { startTime: "15:20", endTime: "16:00", sessionIds: [503]} # afternoon Tea 
     - { startTime: "16:00",
-        endTime: "18:00",
-        sessionIds: [1001, 1002, 1003, 1004]
+        endTime: "16:30",
+        sessionIds: [009, 009, 998, 009]
       }
+    - { startTime: "16:30", endTime: "16:40", sessionIds: [504,504,403,504]} # changeover
+    - { startTime: "16:40",
+        endTime: "17:10",
+        sessionIds: [009, 009, 403, 009]
+      }
+    - { startTime: "17:10", endTime: "17:20", sessionIds: [504,504,403,504]} # changeover
+    - { startTime: "17:20",
+        endTime: "17:50",
+        sessionIds: [009, 009, 403, 009]
+      }
+    - { startTime: "17:50",
+        endTime: "17:59",
+        sessionIds: [1001, 1002, 403, 1004]
+      }
+    - { startTime: "18:00", endTime: "18:01", sessionIds: [0]} # close of day
+
 
 - 
   date: "2018-08-25"
@@ -39,7 +79,7 @@
     - { 
         startTime: "08:30",
         endTime: "09:00",
-        sessionIds: [990]
+        sessionIds: [990, 404, 404, 404]
     }
     - { 
         startTime: "09:00",
@@ -168,9 +208,10 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots: 
     - { startTime: "08:00",
-        endTime: "18:00",
-        sessionIds: [999, 999]
+        endTime: "17:59",
+        sessionIds: [999]
     }
+    - { startTime: "18:00", sessionIds: [0] }
 
 - 
   date: "2018-08-28"
@@ -180,6 +221,7 @@
     - {title: "C3.5", color: "#fed34c"}
   timeslots: 
     - { startTime: "08:00",
-        endTime: "18:00",
-        sessionIds: [999, 999]
+        endTime: "17:59",
+        sessionIds: [999]
     }
+    - { startTime: "18:00", sessionIds: [0] }

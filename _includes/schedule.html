@@ -9,35 +9,40 @@
                 <div class="col-1">&nbsp;</div>
                 {% for track in day.tracks %}
                   <div class="col">
-                      <h5 class="">{{ track.title }}</h5>
+                      <h5 class="track-header">{{ track.title }}</h5>
                   </div>
                 {% endfor %}
             </div>
             {% for timeslot in day.timeslots %}
             <div class="row" id="timeslot-{{dayloop.index}}-{{forloop.index}}">
-                <div class="col-1">
+                <div class="col-1 time">
                     <span>{{ timeslot.startTime }}</span>
                 </div>
                 {% for slot in timeslot.sessionIds %}
                     {% if slot != 404 %}
-                        {% for session in site.talks %}
-                            {% if slot == session.talk_id and session.service == null %}
-                            <div class="col {{ session.type }}">
-                                <div class="">
-                                    <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
-                                    {% for speaker in session.speakers %}
-                                    <div class="speaker">{{ speaker.name }}</div>
-                                    {% endfor %}
-                                </div>
-                            </div>
-                            {% elsif slot == session.talk_id and session.service != null %}
-                            <div class="col">
-                                <div class="service {% if session.short %}short{% else %}long{% endif %}">
-                                    {{ session.title }}
-                                </div>
-                            </div>
-                            {% endif %}
-                        {% endfor %}
+                        {% if slot != 403 %}
+                          {% for session in site.talks %}
+                              {% if slot == session.talk_id and session.service == null %}
+                              <div class="col">
+                                  <div class="session {{ session.type }}">
+                                      <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
+                                      {% for speaker in session.speakers %}
+                                      <div class="speaker">{{ speaker.name }}</div>
+                                      {% endfor %}
+                                  </div>
+                              </div>
+                              {% elsif slot == session.talk_id and session.service != null %}
+                              <div class="col">
+                                  <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}">
+                                  {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>
+                                  {% else %}{{session.title}}{%endif%}
+                                  </div>
+                              </div>
+                              {% endif %}
+                          {% endfor %}
+                        {% else %}
+                          <div class="col continue"></div>
+                        {% endif %}
                     {% else %}
                     <div class="col empty"></div>
                     {% endif %}

@@ -8,11 +8,11 @@ snake: rainbow
 <div class="row"><div class="col">
 {% comment %} Search for times from schedule. Dummy data will show duplicate listings {% endcomment %}
 {% for day in site.data.schedule %}
+  {% assign dayloop_index = forloop.index %}
   {% for timeslot in day.timeslots %}
       {% assign timeslot_index = forloop.index %}
       {% for session in timeslot.sessionIds %}
         {% if session == page.talk_id %}
-            {% assign dayloop_index = forloop.index %}
             <i><a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},  {{ timeslot.startTime }} {{ site.timezone }}</a></i><br>
             {% break %}
         {% endif %}

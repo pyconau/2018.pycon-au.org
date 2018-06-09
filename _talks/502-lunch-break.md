@@ -1,7 +1,7 @@
 ---
 talk_id: 502
-description: Catered food, beverages, and cute little desserts
-title: Lunch Break
+title: Lunch
+type: lunch
 service: true
 ---
 
