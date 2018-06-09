@@ -8,7 +8,7 @@ sponsors: true
 
 <hr>
 
-**Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018**
+<span class="abstract">Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018</span>
 
 
 <hr>
