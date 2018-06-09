@@ -26,6 +26,8 @@ exclude:
 
 future: true
 
+timezone: "AEST"
+
 collections:
     talks:  
         output: true
