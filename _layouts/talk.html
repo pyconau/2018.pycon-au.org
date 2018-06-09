@@ -1,54 +1,44 @@
 ---
 layout: page
+sponsors: true
+snake: rainbow
 ---
-<style> .speaker-image img { height: 100px; width: 100px;} </style>
-<span class="meta">
-
+<a href="/schedule">← Back to Schedule</a>
+<br>
+<br>
+<div class="row"><div class="col">
+{% comment %} Search for times from schedule. Dummy data will show duplicate listings {% endcomment %}
 {% for blob in site.data.schedule %}
   {% for timeslot in blob.timeslots %}
       {% for session in timeslot.sessionIds %}
         {% if session == page.talk_id %}
-            <p>{{ blob.dateReadable }},  {{ timeslot.startTime }}</p>
+            <p><i>{{ blob.dateReadable }},  {{ timeslot.startTime }}</i></p>
             {% break %}
         {% endif %}
       {% endfor %}
   {% endfor %}
 {% endfor %}
-
-
-{% for speaker in site.data.speakers %}
-  {% for session_speaker in page.speakers %}
-      {% if session_speaker == speaker.id %}
-        <div class="speaker-image"><img src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}"></div>
-        {{ speaker.name }} {% if speaker.company %} - {{ speaker.company }}{% endif %}
-      {% endif %}
-  {% endfor %}
-{% endfor %}
 </span>
+
+<hr>
+
+<span class="abstract">{{ page.abstract }}</span>
+
+<hr>
+
+{{ content }}
+
+
 </div>
-
-<article style="padding-top: 10px">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10  col-md-10 col-md-offset-1">
-                {{ page.abstract }}
-
-                <hr>
-
-				{{ content }}
-
-                {% for speaker in site.data.speakers %}
-                  {% for session_speaker in page.speakers %}
-                      {% if session_speaker == speaker.id %}
-                        <hr>
-                        {{ speaker.bio }}
-                      {% endif %}
-                  {% endfor %}
-                {% endfor %}
-
-
-            </div>
-        </div>
-    </div>
-</article>
-
+<div class="col-3">
+{% for speaker in page.speakers %}
+    {% if speaker.thumbnailUrl %}<img class="speaker-picture rounded mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">{% endif %}
+    <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
+    {% if speaker.company %}<br>{{ speaker.company }}{% endif %}
+    {% if speaker.twitter %}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
+    {% if speaker.url %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
+    <hr>
+    <p>{{ speaker.bio }}</p>
+{% endfor %}
+</div>
+</div>

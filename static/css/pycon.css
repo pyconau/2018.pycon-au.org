@@ -162,3 +162,18 @@ hr {
     margin: 1em 0;
     padding: 0; 
 }
+
+.speaker-picture { 
+    max-height: 200px;
+    display:block;
+    margin:auto;
+    margin: 20px;
+}   
+
+.speaker_name { 
+    font-size: 120%;
+}
+
+.abstract { 
+    font-size: 120%;
+} 

@@ -4,7 +4,7 @@ title: PyCon AU 2018
 description: 24 - 28 August, 2018
 permalink: /
 snake: greengold
-card: /img/cards/home.jpg
+card: /static/img/cards/home.jpg
 ---
 
 PyCon AU, the national Python Language conference, is on again this August in Sydney, at the **International Convention Center, Sydney**, August 24 - 28 2018. 

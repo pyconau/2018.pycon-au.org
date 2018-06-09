@@ -3,7 +3,6 @@ layout: page
 title: Speak
 permalink: /speak/
 snake: greengold
-card: /img/cards/speak.jpg
 sponsors: true
 ---
 

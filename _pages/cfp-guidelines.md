@@ -2,7 +2,6 @@
 layout: page
 title: CFP Guidelines
 snake: greengold
-card: /img/cards/speak.jpg
 sponsors: true
 ---
 

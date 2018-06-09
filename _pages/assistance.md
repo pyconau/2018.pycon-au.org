@@ -3,7 +3,6 @@ layout: page
 title: Financial Assistance
 snake: greengold
 permalink: /assistance/
-card: /img/cards/assistance.jpg
 sponsors: true
 ---
 

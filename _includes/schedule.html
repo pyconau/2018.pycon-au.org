@@ -24,12 +24,8 @@
                             <div class="col {{ session.type }}">
                                 <div class="">
                                     <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
-                                    {% for speaker in site.data.speakers %}
-                                        {% for session_speaker in session.speakers %}
-                                            {% if session_speaker == speaker.id %}
-                                            <div class="speaker">{{ speaker.name }}</div>
-                                            {% endif %}
-                                        {% endfor %}    
+                                    {% for speaker in session.speakers %}
+                                    <div class="speaker">{{ speaker.name }}</div>
                                     {% endfor %}
                                 </div>
                             </div>

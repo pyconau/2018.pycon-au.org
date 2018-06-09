@@ -3,89 +3,123 @@ layout: page
 title: Student Showcase
 permalink: /speak/showcase
 snake: greengold
-card: /img/cards/speak.jpg
 sponsors: true
 ---
 
-## [Submit a Student Showcase proposal now!](http://bit.ly/pyconau-2018-student-showcase)
+## Essential Information
 
-In 2018, for the first time, the PyCon Australia Python in Education Seminar will be hosting a
-dedicated afternoon session for high school student presentations.
+The 2018 PyCon Australia Python in Education Seminar will be held on Friday
+August 24th in Sydney, Australia, at the
+[International Convention Center, Sydney](https://www.iccsydney.com.au).
 
-We are calling for proposals from Australian high school students who are using Python in a project,
-class assignment or who are hacking on something cool.
-Individual students or small groups can apply, and all levels of experience are
-welcome, from complete novices to Python pros.
+* The main conference CFP (including proposals for the Education Seminar)
+  has now closed. We look forward to sharing our list of selected presentations
+  with you after the review and selection process is complete!
+* Applications to be part of the Student Showcase have also closed. We have
+  received some truly excellent submissions, and reviewers are currently
+  working through those and will be notifying successful applicants soon.
 
-We are accepting 10-15 minute talk submissions from students from year 7 to 12.
+## Seminar Overview
 
-**Student Showcase submissions for 2018 are open from Tuesday, May 1
-[Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, June 4 AoE.**
+Python is both a simple and consistent language for beginners and a powerful
+real-world language used in industry.
+This combination is why it's a popular language in education: it's a great way
+to start for beginner programmers who are beyond graphical programming environments
+like Scratch and reaching the limitations of 'toy' languages.
 
-The Student Showcase will take place as part of the PyCon Australia Python in Education Seminar
-on the afternoon of Friday, August 24th.
+The Python in Education seminar aims to bring together Python educators to share
+ideas and resources. Come along to hear how Python is used to teach programming
+in school classrooms and extracurricular clubs and camps around Australia.
+This is a time to share resources and experiences and to bring up any setbacks
+to a group of people keen and ready to help out.
 
-The Python in Education Seminar is a dedicated specialist track at PyCon Australia that focuses on
-the use of Python for teaching beginner programmers in the context of a more general education. The
-Student Showcase is an opportunity for students to exhibit their projects and tell the story
-of how they were made, the problems they had to solve, and how Python helped (or hindered!)
-them along the way.
+If you're new to Python, this is a great opportunity to see what it can do, how
+it works in an educational environment and build up your own skills and confidence.
 
-🐍✍️➡️✨
+## Submitting a talk or other proposal for the 2019 Education Seminar
 
-# Contents
-* [Basic information](#basic-information)
-* [How to write your proposal](#how-to-write-your-proposal)
-* [Conduct and expectations](#conduct-and-expectations)
-* [Speaker benefits](#speaker-benefits)
-* [Financial support](#financial-support)
-* [Have a question? Unsure about anything?](#questions)
+While applications for the 2018 Education Seminar have closed, we're planning to
+submit a specialist track proposal again for 2019, so if there's something you'd
+like to present to a mixed audience of teachers and technologists, make a note of
+it, and consider submitting a proposal next year!
 
-## <a name="basic-information"></a> Basic information
+## Submitting a project presentation for the Student Showcase
 
-Are you an Australian student using Python for a school or personal project?
-Submit [a Student Showcase proposal](http://bit.ly/pyconau-2018-student-showcase) if you'd like
-to give a presentation about your project to a mixed audience of fellow students, educators, and
-interested and supportive industry professionals.
+While applications for the 2018 Student Showcase have closed, we're aiming to have
+it return in 2019, so there will hopefully be more opportunities to participate
+in the future!
 
-Note: even for personal projects, submissions will still need to be coordinated through your
-school (and the submission form reflects this).
+## Format
 
-**Student Showcase submissions for 2018 are open from Tuesday, May 1
-[Anywhere On Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth) to Monday, June 4 AoE.**
+The Python in Education Seminar runs each year at the start of PyCon Australia, in
+parallel with a number of other specialist events. In 2018, the Python in Education
+Seminar will take place on Friday the 24th of August.
 
-The PyCon Australia Student Showcase is being organised in collaboration with the [Australian
-Computing Academy](https://aca.edu.au/).
+For the morning and post-lunch sessions, the talk schedule will be aligned with
+the other PyCon specialist tracks that are running simultaneously to make it
+easy for attendees that choose to do so to attend parts of each of them.
 
-## <a name="how-to-write-your-proposal"></a> How to write your proposal
+For the first time in 2018, the post-afternoon-tea session at the Education
+Seminar will feature a dedicated Student Showcase, an opportunity for students
+in Years 7-12 to give short presentations regarding projects they have been
+working on in Python, including ways in which Python has helped (and perhaps
+hindered!) their efforts.
 
-The [Student Showcase submission form](http://bit.ly/pyconau-2018-student-showcase) includes
-several guiding questions to help organise your proposal.
+## Audience
 
-If you have any questions about formulating your proposal, start out by talking to the teacher
-coordinating submissions from your school.
+All are welcome to attend the Python in Education Seminar! For selected
+presenters, the kind of audience to expect includes:
 
-For teachers that have questions, please contact the [Australian Computing Academy](mailto:help@aca.edu.au).
+- Primary and secondary school teachers
+- Tertiary educators teaching beginner-level courses
+- Organisers and volunteers at coding clubs or camps
+- Creators of educational software and teaching materials
+- Parents keen to teach their children to code
+- Professional and hobbyist software developers interested in education
 
-## <a name="conduct-and-expectations"></a> Conduct and expectations
+Those curious as to what this seminar is about may also want to take a look at
+the recorded presentations from previous years:
 
-All speakers will be expected to have read and adhere to the conference [Code of Conduct](http://2018.pycon-au.org/conduct/).
-For students in particular: if it wouldn't be appropriate in class, it isn't going to be appropriate at the Education Seminar!
+- [Youtube playlist from 2017](https://www.youtube.com/playlist?list=PLWUSXy9eIkWf89-Eo7SgAj0U9OXNQGsnB) (Melbourne)
+- [Youtube playlist from 2016](https://www.youtube.com/playlist?list=PLs4CJRBY5F1Jh6fFqT1p5TZRx5q06CcaR) (Melbourne)
+- [Youtube playlist from 2015](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (Brisbane)
 
-## <a name="speaker-benefits"></a> Speaker benefits
+## Financial Assistance
 
-Accepted students will have the opportunity to present their work in front of interested and supportive industry professionals. 
+There is [financial assistance](/assistance/) available for speakers and attendees
+of the conference if finances are likely to be barrier to your participation.
 
-They will also be provided with two tickets to the PyCon Australia 2018 Specialist Track day on Friday August 24th, one for themselves, and one for a teacher, parent or guardian.
+For full-time teachers, this assistance may include the cost for your school to
+provide a substitute teacher so that you can attend the Python in Education Seminar.
 
-Arrangements will also be made to allow parents and guardians to attend the Student Showcase itself without needing to purchase a full conference ticket. Please contact [events@aca.edu.au](mailto:events@aca.edu.au)
+See the [financial assistance page](/assistance/) for more information on how to apply.
 
-## <a name="financial-support"></a> Financial support
+## Community Partners
 
-Don't let finances stop you from submitting a talk proposal. Speakers receive free conference tickets as detailed in "Speaker Benefits", and there is further financial assistance available based on need. See the [financial assistance page](/assistance/) for more details about the selection process and a link to the application form.
+The PyCon Australia Python in Education Seminar happens but once a year, while
+students, teachers, and community volunteers need support and resources
+throughout the year. As such, the organisers of the Python in Education
+Seminar are delighted to have the following organisations involved as
+community partners.
 
-## <a name="questions"></a> Have a question? Unsure about anything?
+### Australian Computing Academy
 
-If you have any other questions about the Student Showcase, you can reach us any time at **[help@aca.edu.au](mailto:help@aca.edu.au)**.
+Lead by the University of Sydney, the
+[Australian Computing Academy](https://aca.edu.au/about.html) provides training,
+resources, and support to Australian educators in implementing the Australian
+Digital Technologies Curriculum.
 
-Alternatively, if you're happy for the question and response to be public, just send a tweet and mention @pyconau and @auscompacademy!
+With funding from the Australian Government Department of Education and Training,
+ACA also offer the Australian Digital Technologies Challenges for Years 5 - 8.
+
+### Code Club Australia
+
+[Code Club](https://codeclubau.org/About-Us) is a network of clubs led by 
+teachers and volunteers to get kids coding. 
+Code Club offers over 100+ hours of digital technologies aligned projects and 
+activities to bring coding to classrooms, libraries and community centres across 
+the country. Currently, Code Club impacts more than 165,000 children a week across 
+a network of 2,200+ clubs and schools. All for free.
+
+Code Club also offers Free certified training for teachers wanting to get across 
+Digital Technologies for their school. Learn more at [codeclubau.org](https://codeclubau.org).
