@@ -1,17 +1,19 @@
 ---
 layout: talk
+permalink: /talks/tracy
 talkid: 993
 type: keynote
-title: Invited Speaker 3
+title: Tracy Osborn
+snake: greengold
+subtitle: Clueless
+speakers:
+    - name: Tracy Osborn
+      bio: "Tracy Osborn is a designer, developer, and entreprenerd living in Toronto, Canada. She’s the author of [Hello Web Books](https://hellowebbbooks.com/) as well as the creator of [WeddingLovely](http://weddinglovely.com/). She's also an avid outdoorswoman and would love to go on a hike with you.<br><br>Photo: Adam Gregory, Atom Images."
+      twitter: limedaring
+      url: https://limedaring.com/
+      thumbnailUrl: tracy-osborn.jpg
+
 ---
 
+Tracy Osborn is the author, designer, and self-publisher of three books and the solo founder of a venture-backed startup. Each of these achievements has something in common — being completely clueless about the work and problems involved in each. In this keynote, Tracy will tell stories about how she launched her projects and what she learned (after already being neck-deep.)
 
-Cupcake ipsum dolor sit amet. Candy sesame snaps tootsie roll jelly jelly-o apple pie caramels topping. Toffee lollipop wafer I love jelly beans biscuit cake I love. Chocolate cake pastry caramels macaroon powder jelly-o.
-
-Topping jelly-o ice cream. Tiramisu tootsie roll candy canes icing tiramisu gummies carrot cake biscuit marshmallow. Croissant marzipan pastry gingerbread candy canes. Candy carrot cake I love.
-
-Chocolate marshmallow I love powder wafer cookie. Cotton candy topping ice cream. Chocolate cake gummies gummies macaroon. Jelly-o jujubes liquorice I love croissant macaroon cupcake.
-
-I love marshmallow gingerbread tart. I love gingerbread sugar plum marshmallow donut. Toffee jelly muffin. Bear claw chocolate cake fruitcake I love macaroon halvah jelly icing danish.
-
-Biscuit topping tart pastry cheesecake powder tootsie roll cupcake. Jelly candy canes topping I love bonbon cotton candy. Bonbon gummi bears gummies marshmallow croissant tootsie roll I love halvah. Gummi bears gummi bears dragée jujubes apple pie.

@@ -2,10 +2,10 @@
   date: "2018-08-25"
   dateReadable: "Friday August 25 2018 - Specialist Track Day"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { startTime: "09:00",
         endTime: "9:10",
@@ -71,10 +71,10 @@
   date: "2018-08-25"
   dateReadable: "Saturday August 25 2018 - Main Conference Day One"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { 
         startTime: "08:30",
@@ -144,10 +144,10 @@
   date: "2018-08-26"
   dateReadable: "Sunday August 26 2018 - Main Conference Day Two"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { 
         startTime: "09:00",
@@ -213,12 +213,14 @@
   date: "2018-08-27"
   dateReadable: "Monday August 27 2018 - Development Sprints Day One"
   tracks: 
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
-        sessionIds: [999]
+        sessionIds: [404, 404, 999, 999]
     }
     - { startTime: "18:00", sessionIds: [0] }
 
@@ -226,11 +228,13 @@
   date: "2018-08-28"
   dateReadable: "Tuesday August 28 2018 - Development Sprints Day Two"
   tracks: 
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
-        sessionIds: [999]
+        sessionIds: [404, 404, 999, 999]
     }
     - { startTime: "18:00", sessionIds: [0] }

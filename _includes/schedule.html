@@ -26,9 +26,11 @@
                               <div class="col">
                                   <div class="session {{ session.type }}">
                                       <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
+                                      {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>{% else %}
                                       {% for speaker in session.speakers %}
                                       <div class="speaker">{{ speaker.name }}</div>
                                       {% endfor %}
+                                      {% endif %}
                                   </div>
                               </div>
                               {% elsif slot == session.talkid and session.service != null %}
