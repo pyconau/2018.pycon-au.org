@@ -9,18 +9,19 @@ sponsors: true
 
 We stand on the shoulders of giants, both previous organisers of PyCon AU, and
 other events, including but not limited to:
- * [North Bay Python](https://2017.northbaypython.org/) (CFP wording),
- * [DjangoCon US](https://2018.djangocon.us/) (proposal mentors copy and concept).
+ * [DjangoCon US](https://2018.djangocon.us/) (proposal mentors copy and concept)
+ * [North Bay Python](https://2017.northbaypython.org/) (CFP wording, this colophon)
 
 
 ### Website Design
 
-This website is based on free and open source software. 
+Website design and brand by [Tania Walker](https://www.taniawalker.com)
+
+This website is developed using free and open source software. 
 
  * [Jekyll](https://jekyllrb.com/)
- * [Bootstrap v4.1](https://getbootstrap.com/)
+ * [Bootstrap](https://getbootstrap.com/)
  * [Project Zeppelin](https://github.com/gdg-x/zeppelin) (Jekyll configuration inspiration)
- * [NorthBay Python](https://2017.northbaypython.org/) (for this colophon)
 
 ### Image Credits
 
