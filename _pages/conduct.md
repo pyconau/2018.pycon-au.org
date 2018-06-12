@@ -5,8 +5,9 @@ permalink: /conduct/
 snake: greengold
 sponsors: true
 ---
-
-All attendees of PyCon Australia 2018 agree to be bound by the Linux Australia code of conduct. 
+<hr>
+<span class="abstract">All attendees of PyCon Australia 2018 agree to be bound by the Linux Australia code of conduct. </span>
+<hr>
 
 Linux Australia aims to provide fun, welcoming and professional environments so
 that diverse groups of people - regardless of age, race, gender identity or

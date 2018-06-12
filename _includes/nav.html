@@ -8,7 +8,7 @@
     <ul class="navbar-nav mr-auto">
     {% for navigationLink in site.navigationLinks %}
     <li class="nav-item">
-        <a class="nav-link {% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+        <a class="nav-link {% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %}{{ navigationLink.permalink | prepend: site.baseurl }}{% else %}{{ navigationLink.link }}{% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{navigationLink.text}}</a>
     </li>
     {% endfor %}
     </ul>
