@@ -16,4 +16,4 @@ Author of [Hello Web Books](https://hellowebbooks.com/), Tracy is no stranger to
 > involved in each. In this keynote, Tracy will tell stories about how she
 > launched her projects and what she learned (after already being neck-deep.)
 
-Tickets for PyCon AU will go on sale soon, with a limited number of Early Bird tickets being available. 
+Tickets for PyCon AU will go on sale soon, with a limited number of Early Bird tickets being made available. 
