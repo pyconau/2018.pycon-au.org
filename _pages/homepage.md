@@ -3,7 +3,7 @@ layout: page
 title: PyCon AU 2018
 permalink: /
 snake: rainbow
-card: /static/img/cards/home.jpg
+card: /static/img/cards/home.png
 ---
 
 

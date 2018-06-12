@@ -3,7 +3,7 @@ layout: page
 title: Attend
 snake: rainbow
 permalink: /attend/
-card: /static/img/cards/attend.jpg
+#card: /static/img/cards/attend.jpg
 sponsors: true
 ---
 
