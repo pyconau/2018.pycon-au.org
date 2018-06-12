@@ -1,52 +1,94 @@
-
-
 - 
   date: "2018-08-25"
   dateReadable: "Friday August 25 2018 - Specialist Track Day"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { startTime: "09:00",
-        endTime: "10:00",
+        endTime: "9:10",
         sessionIds: [1001, 1002, 1003, 1004]
       }
+    - { startTime: "9:15",  
+        endTime: "10:00", 
+        sessionIds: [009, 009, 009, 009]
+      }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
-    - { startTime: "10:30",
-        endTime: "12:20",
-        sessionIds: [1001, 1002, 1003, 1004]
+    - { startTime: "10:30",  
+        endTime: "11:00", 
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "11:00", endTime: "11:10", sessionIds: [504]} # changeover
+    - { startTime: "11:10",  
+        endTime: "11:40", 
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "11:40", endTime: "11:50", sessionIds: [504]} # changeover
+    - { startTime: "11:50",  
+        endTime: "12:20", 
+        sessionIds: [009, 009, 009, 009]
       }
     - { startTime: "12:20", endTime: "13:30", sessionIds: [502]} #lunch 
     - { startTime: "13:30",
+        endTime: "14:00",
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "14:00", endTime: "14:10", sessionIds: [504]} # changeover
+    - { startTime: "14:10",
+        endTime: "14:40",
+        sessionIds: [009, 009, 009, 009]
+      }
+    - { startTime: "14:40", endTime: "14:50", sessionIds: [504]} # changeover
+    - { startTime: "14:50",
         endTime: "15:20",
-        sessionIds: [1001, 1002, 1003, 1004]
+        sessionIds: [009, 009, 009, 009]
       }
     - { startTime: "15:20", endTime: "16:00", sessionIds: [503]} # afternoon Tea 
     - { startTime: "16:00",
-        endTime: "18:00",
-        sessionIds: [1001, 1002, 1003, 1004]
+        endTime: "16:30",
+        sessionIds: [009, 009, 998, 009]
       }
+    - { startTime: "16:30", endTime: "16:40", sessionIds: [504,504,403,504]} # changeover
+    - { startTime: "16:40",
+        endTime: "17:10",
+        sessionIds: [009, 009, 403, 009]
+      }
+    - { startTime: "17:10", endTime: "17:20", sessionIds: [504,504,403,504]} # changeover
+    - { startTime: "17:20",
+        endTime: "17:50",
+        sessionIds: [009, 009, 403, 009]
+      }
+    - { startTime: "17:50",
+        endTime: "17:59",
+        sessionIds: [1001, 1002, 403, 1004]
+      }
+    - { startTime: "18:00", endTime: "18:01", sessionIds: [0]} # close of day
+
 
 - 
   date: "2018-08-25"
   dateReadable: "Saturday August 25 2018 - Main Conference Day One"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { 
         startTime: "08:30",
         endTime: "09:00",
-        sessionIds: [990]
+        sessionIds: [899, 404, 404, 404]
     }
     - { 
         startTime: "09:00",
+        endTime: "9:15",
+        sessionIds: [990, 404, 404, 404]
+    }
+    - { startTime: "9:15",
         endTime: "10:00",
-        sessionIds: [992] # Invited Speaker 1
+        sessionIds: [991, 404, 404, 404] # Invited Speaker 1
     }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
@@ -89,12 +131,12 @@
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [993] 
+        sessionIds: [992, 404, 404, 404] # Invited speaker 2
     }
     - {
         startTime: "16:40",
         endTime: "17:40",
-        sessionIds: [997] 
+        sessionIds: [997, 404, 404, 404] 
     }
 
 
@@ -102,15 +144,20 @@
   date: "2018-08-26"
   dateReadable: "Sunday August 26 2018 - Main Conference Day Two"
   tracks: 
-    - {title: "Cockle Bay", color: "#90be4e"}
-    - {title: "C3.2", color: "#03a9f4"}
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots:
     - { 
         startTime: "09:00",
+        endTime: "10:10",
+        sessionIds: [990, 404, 404, 404]
+    }
+    - { 
+        startTime: "09:10",
         endTime: "10:00",
-        sessionIds: [994] # Invited Speaker 3
+        sessionIds: [993, 404, 404, 404] # Invited Speaker 3
     }
     - { startTime: "10:00", endTime: "10:30", sessionIds: [501] } # morning tea
     - {
@@ -153,12 +200,12 @@
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [996] 
+        sessionIds: [994, 404, 404, 404] # Invited Speaker 4
     }
     - {
         startTime: "16:40",
         endTime: "17:40",
-        sessionIds: [997] 
+        sessionIds: [997, 404, 404, 404] 
     }
 
 
@@ -166,22 +213,28 @@
   date: "2018-08-27"
   dateReadable: "Monday August 27 2018 - Development Sprints Day One"
   tracks: 
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots: 
     - { startTime: "08:00",
-        endTime: "18:00",
-        sessionIds: [999]
+        endTime: "17:59",
+        sessionIds: [404, 404, 999, 999]
     }
+    - { startTime: "18:00", sessionIds: [0] }
 
 - 
   date: "2018-08-28"
   dateReadable: "Tuesday August 28 2018 - Development Sprints Day Two"
   tracks: 
-    - {title: "C3.4", color: "#e91e63"}
-    - {title: "C3.5", color: "#fed34c"}
+    - {title: "Cockle Bay"}
+    - {title: "C3.2"}
+    - {title: "C3.4"}
+    - {title: "C3.5"}
   timeslots: 
     - { startTime: "08:00",
-        endTime: "18:00",
-        sessionIds: [999]
+        endTime: "17:59",
+        sessionIds: [404, 404, 999, 999]
     }
+    - { startTime: "18:00", sessionIds: [0] }

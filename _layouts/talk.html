@@ -1,0 +1,50 @@
+---
+layout: page
+sponsors: true
+snake: rainbow
+---
+{% assign dayloop_index = 0 %}
+{% assign timeslot_index = 0 %}
+<div class="row"><div class="col">
+{% comment %} Search for times from schedule. Dummy data will show duplicate listings {% endcomment %}
+{% for day in site.data.schedule %}
+  {% assign dayloop_index = forloop.index %}
+  {% for timeslot in day.timeslots %}
+      {% assign timeslot_index = forloop.index %}
+      {% for session in timeslot.sessionIds %}
+        {% if session == page.talkid %}
+            <i><a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},  {{ timeslot.startTime }} {{ site.timezone }}</a></i><br>
+            {% break %}
+        {% endif %}
+      {% endfor %}
+  {% endfor %}
+{% endfor %}
+</span>
+
+{% if page.abstract %}
+<hr>
+
+<span class="abstract">{{ page.abstract }}</span>
+{% endif %}
+
+<hr>
+
+{{ content | markdownify }}
+
+
+</div>
+<div class="col-3">
+{% for speaker in page.speakers %}
+    {% if speaker.thumbnailUrl %}<img class="speaker-picture rounded mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
+    <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
+    {% else %}
+    <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
+    {% endif %}
+    {% if speaker.company %}<br>{{ speaker.company }}{% endif %}
+    {% if speaker.twitter %}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
+    {% if speaker.url %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
+    <hr>
+    <p>{{ speaker.bio | markdownify }}</p>
+{% endfor %}
+</div>
+</div>

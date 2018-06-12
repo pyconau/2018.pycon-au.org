@@ -6,7 +6,7 @@
   {% for sponsor in level.sponsors %}
       {% unless sponsor.placeholder %}
         <a href="{{sponsor.link}}">
-        <img src="/img/sponsors/{{sponsor.logo}}" {% if sponsor.width%} style="width:{{sponsor.width}}; margin: 10px;  height: auto; " {%endif%} class="sponsorgray"></a>
+        <img src="/static/img/sponsors/{{sponsor.logo}}" {% if sponsor.width %} style="width:{{sponsor.width}}; margin: 10px;  height: auto; " {%endif%} class="sponsorgray {{level.title | split: " " | first | downcase }}"></a>
       {% endunless %}
   {% endfor %}
   </div>

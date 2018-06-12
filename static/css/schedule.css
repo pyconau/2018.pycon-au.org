@@ -1,0 +1,65 @@
+.col { 
+    padding: 0 !important;
+
+}
+
+.service { 
+    text-align: center;
+    padding: 10px;
+} 
+
+.sprints { 
+
+    min-height: 170px; 
+} 
+
+.track-header { 
+    padding-left: 10px;
+}
+
+.session_link a{ 
+    color: #005f30 !important;
+}
+
+.lunch { 
+    padding-top: 70px;
+    font-size: 120%;
+}
+
+.empty { 
+    background-color: #eee;
+} 
+
+.time { 
+    padding-top: 10px;
+}
+
+.long { 
+    font-size: 1.25rem;
+    padding: 30px;
+    min-width: 120px;
+    background: #00a75666;
+}
+
+.session {
+    padding: 10px; 
+}
+
+.talk { 
+    min-height: 120px;
+}
+
+.keynote { 
+    padding-bottom: 70px;
+}
+
+.short { 
+    font-size: 12pt;
+    background: #f2bf2f59;
+} 
+
+.day-header { 
+    padding-top: 60px; 
+    padding-bottom: 20px; 
+}
+
