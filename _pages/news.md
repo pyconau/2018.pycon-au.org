@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-snake: greengold
+snake: rainbow
 permalink: /news/
 ---
 
