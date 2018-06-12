@@ -2,7 +2,7 @@
 layout: page
 title: PyCon AU 2018
 permalink: /
-snake: greengold
+snake: rainbow
 card: /static/img/cards/home.jpg
 ---
 
@@ -11,6 +11,9 @@ card: /static/img/cards/home.jpg
 <span class="abstract">
 PyCon AU, the national Python Language conference, is on again this August in Sydney, at the **International Convention Center, Sydney**, August 24 - 28 2018. 
 </span>
+<hr>
+
+<p align="center"><img height="350px" src="{{site.url}}/static/img/pyconau-large.png"></p>
 <hr>
 
 {% assign latestnews = site.posts.first %}

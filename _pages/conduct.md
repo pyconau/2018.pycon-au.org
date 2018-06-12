@@ -2,7 +2,7 @@
 layout: page
 title: Code of Conduct
 permalink: /conduct/
-snake: greengold
+snake: rainbow
 sponsors: true
 ---
 <hr>

@@ -2,7 +2,7 @@
 layout: page
 title: Sponsor
 permalink: /sponsor/
-snake: greengold
+snake: rainbow
 card: /static/img/cards/sponsor.jpg
 ---
 <hr>

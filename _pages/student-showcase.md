@@ -2,7 +2,7 @@
 layout: page
 title: Student Showcase
 permalink: /speak/showcase
-snake: greengold
+snake: rainbow
 sponsors: true
 ---
 

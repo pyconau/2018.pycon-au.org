@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CFP Guidelines
-snake: greengold
+snake: rainbow
 sponsors: true
 ---
 

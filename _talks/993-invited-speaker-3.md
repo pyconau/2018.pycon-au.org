@@ -4,7 +4,7 @@ permalink: /talks/tracy
 talkid: 993
 type: keynote
 title: Tracy Osborn
-snake: greengold
+snake: rainbow
 subtitle: Clueless
 speakers:
     - name: Tracy Osborn

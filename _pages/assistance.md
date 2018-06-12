@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Financial Assistance
-snake: greengold
+snake: rainbow
 permalink: /assistance/
 sponsors: true
 ---
