@@ -3,12 +3,11 @@ layout: page
 title: CFP Guidelines
 snake: rainbow
 sponsors: true
+permalink: /cfp-guidelines/
 ---
 
 <hr>
-
-**Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018**
-
+<span class="abstract">Our Call for Presentations (CFP) has now closed. We expect to have let everyone know the status of their submissions by June 17 2018</span>
 <hr>
 
 This page details our CFP review and selection process, as well as guidelines about how to write an anonymous proposal.
