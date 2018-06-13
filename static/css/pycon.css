@@ -10,10 +10,7 @@
     height: 100%;
 } 
 
-html, body { 
-    max-width: 100% !important; 
-    overflow-x: hidden !important; 
-}
+body { overflow-x: hidden; }
 
 h1, h2, h3, .subheading {
    font-family: 'PT Sans', sans-serif;
