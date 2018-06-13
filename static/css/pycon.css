@@ -1,5 +1,6 @@
 .header-serpent { 
     display: inline-block; 
+    z-index: -100; 
     position: absolute;
     padding-top: 40px;
     padding-left: 40px;
@@ -180,3 +181,5 @@ hr {
 .abstract { 
     font-size: 120%;
 } 
+
+.nav-norm { padding: 0 !important; } 
