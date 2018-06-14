@@ -185,7 +185,17 @@
         <br><br>
         If you want to find out more about the work that we do at Biarri and the
         technology that powers our optimisation solutions come and talk to us at PyCon
-        AU!
+        AU! 
+
+   - name: Python Software Foundation
+     logo: python_logo.png
+     link: https://python.org/psf
+     blurb: | 
+        The mission of the Python Software Foundation is to promote, protect,
+        and advance the Python programming language, and to support and facilitate the
+        growth of a diverse and international community of Python programmers. The
+        Python Software Foundation is proud to be an active supporter of PyCon
+        Australia and its education and community outreach programs.
 
 - 
   title: Auspice
