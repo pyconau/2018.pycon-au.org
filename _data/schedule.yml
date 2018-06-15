@@ -1,6 +1,7 @@
 - 
   date: "2018-08-25"
   dateReadable: "Friday August 25 2018 - Specialist Track Day"
+  dayShort: "Friday"
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
@@ -70,6 +71,7 @@
 - 
   date: "2018-08-25"
   dateReadable: "Saturday August 25 2018 - Main Conference Day One"
+  dayShort: "Saturday"
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
@@ -143,6 +145,7 @@
 - 
   date: "2018-08-26"
   dateReadable: "Sunday August 26 2018 - Main Conference Day Two"
+  dayShort: "Sunday"
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
@@ -212,6 +215,7 @@
 - 
   date: "2018-08-27"
   dateReadable: "Monday August 27 2018 - Development Sprints Day One"
+  dayShort: "Monday"
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
@@ -227,6 +231,7 @@
 - 
   date: "2018-08-28"
   dateReadable: "Tuesday August 28 2018 - Development Sprints Day Two"
+  dayShort: "Tuesday"
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
