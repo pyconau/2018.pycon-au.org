@@ -2,7 +2,8 @@
   sponsors:
     - name: WSP
       logo: wsp.png
-      link: http://www.wspdigital.com/ 
+      link: wspdigital.com
+      href: http://www.wspdigital.com/ 
       blurb: |  
         WSP Digital is the software engineering division of WSP, a publicly listed
         global consulting engineering company with over 40,000 employees in more than
@@ -25,7 +26,8 @@
         we produce and the talent and commitment of our team.
     - name: IRESS
       logo: iress.png
-      link: https://www.iress.com/au 
+      link: iress.com/au
+      href: https://www.iress.com/au 
       blurb: | 
         We began in 1993 as a small Australian tech start-up. Now we're
         a global team of over 1,800 people across five continents - and we're still
@@ -51,12 +53,6 @@
         core product XPLAN.
 
 
-        PyCon AU 2018 can only operate with the generousity of our sponsors.
-        If you are interested in helping our event, please see our <a
-        href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
-        <br><br>
-        Platinum is an exclusive sponsorship, limit two.
-
 - title: Gold Sponsors
   placeholder: true
   sponsors:
@@ -73,7 +69,8 @@
   sponsors:
    - name: James Cook University
      logo: JCU.jpg
-     link: https://online.jcu.edu.au/
+     link: online.jcu.edu.au
+     href: https://online.jcu.edu.au/
      blurb: | 
         James Cook University (JCU) recognises the power of data science and is a proud
         supporter of PyCon AU in 2018.<br>
@@ -87,7 +84,8 @@
         real world.
    - name: CyberHound
      logo: CyberHound.png
-     link: https://cyberhound.com
+     link: cyberhound.com
+     href: https://cyberhound.com
      blurb: |
         CyberHound is a leading provider of internet management and security
         solutions for K-12 schools.<br>
@@ -101,7 +99,8 @@
         provider of connectivity services across the Asia Pacific region.
    - name: Data61 
      logo: Data61CSIRO.png
-     link: https://www.data61.csiro.au/
+     link: data61.csiro.au
+     href: https://www.data61.csiro.au/
      blurb: |
         CSIRO's Data61 is Australia’s leading data innovation group. Data science,
         engineering, and design are at the core of what we do. Data61 is partnering
@@ -110,7 +109,8 @@
    - name: Espressif Systems
      logo: Espressif.png 
      width: 250px
-     link: https://www.espressif.com/
+     link: espressif.com
+     href: https://www.espressif.com/
      blurb: |
         Espressif Systems is a world-leading Internet-of-Things company. We built the
         widely popular ESP8266 and ESP32 chips. We are an innovative team of
@@ -124,7 +124,8 @@
         democratization of technology that will develop tomorrow's Internet of Things.
    - name: Mathspace
      logo: mathspace.png
-     link: https://mathspace.co/
+     link: mathspace.co
+     href: https://mathspace.co/
      blurb: |
         Hold on! You’re reading our corporate sponsors blurb? Thanks!
         <br><br>
@@ -146,7 +147,8 @@
 
    - name: Facebook
      logo: facebook.png
-     link: https://tinyurl.com/pyjobs-fb
+     link: tinyurl.com/pyjobs-fb
+     href: https://tinyurl.com/pyjobs-fb
      blurb: | 
         Our mission at Facebook is to give people the power to build community
         and bring the world closer together.  As extensive users of Python at Facebook,
@@ -155,7 +157,8 @@
 
    - name: Django Software Foundation
      logo: django.png
-     link: https://www.djangoproject.com/foundation/
+     link: djangoproject.com/foundation
+     href: https://www.djangoproject.com/foundation/
      blurb: |
         The Django Software Foundation is a US-based non-profit organisation
         with the mission to promote, support, and advance the Django Web framework -
@@ -176,7 +179,8 @@
 
    - name: Biarri
      logo: biarri.png
-     link: https://biarri.com/
+     link: biarri.com
+     href: https://biarri.com/
      blurb: |
         Biarri is a world leader at solving business problems through intuitive
         SaaS solutions powered mathematical engines. We work with awesome people on
@@ -213,7 +217,8 @@
   sponsors: 
     - name: Linux Australia
       logo: LinuxAustralia.png
-      link: "https://linux.org.au"
+      link: linux.org.au
+      href: https://linux.org.au
       blurb: | 
         Linux Australia is the peak body for Open Source communities in
         Australia. PyCon AU 2018 is run under the auspice of Linux Australia. 

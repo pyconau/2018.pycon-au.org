@@ -2,38 +2,31 @@
 layout: default
 sponsors: False
 ---
-
 <header class="intro-header">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-12">
+            <div class="col">
                 <span class="site-heading" style="display: inline-block; color: #00B159;">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <span class="subheading">{{ page.description }}</span>
                 </span>
                 {% if page.snake %}
-                <span class="header-serpent"><img src="/static/img/header-{{ page.snake }}.png"></span>
+                <span class="d-none d-lg-inline-block header-serpent"><img src="/static/img/header-{{ page.snake }}.png"></span>
                 {% endif %}
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
 <div class="container page-content main-content">
-    <div class="row">
-        <div class="col-lg-12  col-md-12 col-md-offset-1">
-            {{ content }}
-        </div>
-    </div>
+    {{ content }}
 </div>
 
 {% if page.sponsors %}
-<!-- Sponsor Footer -->
 <hr>
 <div class="container page-content sponsor-foot">
     <div class="row">
-        <div class="col-lg-12 col-md-12 col-md-offset-1">
+        <div class="col">
             {% include sponsor_footer.html %}
         </div>
     </div>

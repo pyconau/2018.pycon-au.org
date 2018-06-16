@@ -1,58 +1,61 @@
 <link rel="stylesheet" href="/static/css/schedule.css">
-<section id="schedule" class="">
-    <div class="">
-        {% for day in site.data.schedule %}
-        {% assign dayloop = forloop %}
-        <div class="col-lg-12 col-md-12">
-            <h4 class="day-header">{{ day.dateReadable }}</h4>
-            <div class="row">
-                <div class="col-1">&nbsp;</div>
-                {% for track in day.tracks %}
-                  <div class="col">
-                      <h5 class="track-header">{{ track.title }}</h5>
-                  </div>
-                {% endfor %}
-            </div>
-            {% for timeslot in day.timeslots %}
-            <div class="row" id="timeslot-{{dayloop.index}}-{{forloop.index}}">
-                <div class="col-1 time">
-                    <span>{{ timeslot.startTime }}</span>
-                </div>
-                {% for slot in timeslot.sessionIds %}
-                    {% if slot != 404 %}
-                        {% if slot != 403 %}
-                          {% for session in site.talks %}
-                              {% if slot == session.talkid and session.service == null %}
-                              <div class="col">
-                                  <div class="session {{ session.type }}">
-                                      <h5 class=""><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
-                                      {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>{% else %}
-                                      {% for speaker in session.speakers %}
-                                      <div class="speaker">{{ speaker.name }}</div>
-                                      {% endfor %}
-                                      {% endif %}
-                                  </div>
-                              </div>
-                              {% elsif slot == session.talkid and session.service != null %}
-                              <div class="col">
-                                  <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}">
-                                  {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>
-                                  {% else %}{{session.title}}{%endif%}
-                                  </div>
-                              </div>
-                              {% endif %}
-                          {% endfor %}
-                        {% else %}
-                          <div class="col continue"></div>
-                        {% endif %}
-                    {% else %}
-                    <div class="col empty"></div>
+{% for day in site.data.schedule %}
+{% assign dayloop = forloop %}
+  <div class="row" id="{{day.dayShort}}"></div>
+  <div class="row day-header">
+    <div class="col">
+      <h4>{{ day.dateReadable }}</h4>
+      <h5>{{ day.dayTitle}}</h5>
+    </div>
+  </div>
+  <div class="row">
+      <div class="col-1">&nbsp;</div>
+      {% for track in day.tracks %}
+      <div class="col d-none d-lg-block">
+          <h5 class="track-header">{{ track.title }}</h5>
+      </div>
+      {% endfor %}
+  </div>
+  {% for timeslot in day.timeslots %}
+  <div class="row" id="timeslot-{{dayloop.index}}-{{forloop.index}}">
+      <div class="col-12 col-lg-1 time">
+          <span>{{ timeslot.startTime }}</span>
+      </div>
+      {% for slot in timeslot.talkIds %}
+          {% assign room = site.data.schedule[dayloop.index0].tracks[forloop.index0].title %}
+          {% if slot != 404 %}
+              {% if slot != 403 %}
+                {% for session in site.talks %}
+                    {% assign colNum = forloop.index0 %}
+                    {% if slot == session.talkid and session.service == null %}
+                    <div class="col-12 col-lg">
+                        <div class="session {{ session.type }}">
+                            <h5><a target="_blank" href="{{session.url}}">{{ session.title }}</a></h5>
+                            {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>{% else %}
+                            {% for speaker in session.speakers %}
+                            <div class="speaker">{{ speaker.name }}</div>
+                            {% endfor %}
+                            {% endif %}
+                            <span class="d-lg-none">Room: {{ room }}</span>
+                            {% if session.endTime %}<span class="d-block">Ends at {{ session.endTime }}</span>{%endif%}
+                        </div>
+                    </div>
+                    {% elsif slot == session.talkid and session.service != null %}
+                    <div class="col-12 col-lg {% if session.hide-on-mobile %}d-none d-lg-block{% endif %} ">
+                        <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}">
+                        {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>
+                        {% else %}{{session.title}}{%endif%}
+                        </div>
+                    </div>
                     {% endif %}
                 {% endfor %}
-            </div>
-            {% endfor %}
-        </div>
-        {% endfor %}
-    </div>
-</section>
-<!-- End Schedule Section -->
+              {% else %}
+              <div class="col-12 col-lg continue"></div>
+              {% endif %}
+          {% else %}
+          <div class="col-12 col-lg empty"></div>
+          {% endif %}
+      {% endfor %}
+  </div>
+  {% endfor %}
+{% endfor %}

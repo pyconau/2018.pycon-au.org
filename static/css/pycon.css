@@ -1,5 +1,6 @@
 .header-serpent { 
     display: inline-block; 
+    z-index: -100; 
     position: absolute;
     padding-top: 40px;
     padding-left: 40px;
@@ -10,7 +11,10 @@
     height: 100%;
 } 
 
-body { overflow-x: hidden; }
+html, body { 
+    max-width: 100% !important; 
+    overflow-x: hidden !important; 
+}
 
 h1, h2, h3, .subheading {
    font-family: 'PT Sans', sans-serif;
@@ -177,3 +181,5 @@ hr {
 .abstract { 
     font-size: 120%;
 } 
+
+.nav-norm { padding: 0 !important; } 
