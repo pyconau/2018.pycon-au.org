@@ -3,6 +3,7 @@ layout: talk
 talkid: 998
 length: 400px
 title: Education Seminar Showcase
+endTime: "18:00"
 abstract: A series of short talks from students, presenting their projects. 
 ---
 

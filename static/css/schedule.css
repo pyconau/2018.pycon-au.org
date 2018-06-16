@@ -58,8 +58,8 @@
 } 
 
 .day-header { 
-    padding-top: 60px; 
-    padding-bottom: 20px; 
+    padding-top: 50px; 
+    padding-bottom: 30px; 
 }
 
 
@@ -73,10 +73,11 @@
 }
 
 @media (max-width: 990px) { 
-.time { padding-left: 30px; font-size: 1.3em; }
+.day-header { padding-bottom: 10px; }
+.time { padding-left: 20px; font-size: 1.4em; }
 .talk, .sprints { min-height: 0px }
 }
 
 @media (max-width: 578px) { 
-    .site-heading, .day-header { padding-left: 20px }
+    .site-heading, .day-header { padding-left: 20px } 
 }
