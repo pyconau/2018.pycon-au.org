@@ -11,9 +11,10 @@ snake: rainbow
   {% assign dayloop_index = forloop.index %}
   {% for timeslot in day.timeslots %}
       {% assign timeslot_index = forloop.index %}
-      {% for session in timeslot.sessionIds %}
-        {% if session == page.talkid %}
-            <i><a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},  {{ timeslot.startTime }} {{ site.timezone }}</a></i><br>
+      {% for talk in timeslot.talkIds %}
+        {% if talk == page.talkid %}
+            {% assign track = day.tracks[forloop.index0].track %}
+            <a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{ timeslot.startTime }} {{ site.timezone }}</a><br>
             {% break %}
         {% endif %}
       {% endfor %}
@@ -36,7 +37,7 @@ snake: rainbow
 <div class="col-12 col-lg-3">
 <hr class="d-lg-none">
 {% for speaker in page.speakers %}
-    {% if speaker.thumbnailUrl %}<img class="speaker-picture rounded mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
+    {% if speaker.thumbnailUrl %}<img class="rounded-circle speaker-picture border-{{page.track}}  mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
     <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
     {% else %}
     <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
