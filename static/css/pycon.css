@@ -170,9 +170,15 @@ hr {
 .speaker-picture { 
     max-height: 200px;
     display:block;
-    margin:auto;
     margin: 20px;
+    border: 6px solid white;
 }   
+
+.border-general   { border-color: #00B159; } 
+.border-iot       { border-color: #5B57A5; }
+.border-django    { border-color: #FFC518; }
+.border-security  { border-color: #F36F3A; }
+.border-education { border-color: #E01D43; }
 
 .speaker_name { 
     font-size: 120%;
@@ -183,3 +189,6 @@ hr {
 } 
 
 .nav-norm { padding: 0 !important; } 
+
+
+

@@ -35,6 +35,29 @@ def get_submission_by_id(talk_id):
 
 talk = get_submission_by_id(talk_id)
 
+def track_info(tags):
+    TRACKS = {"gen_accepted": "general",
+              "iot_accepted": "iot",
+              "sec_accepted": "security",
+              "DCAU_accepted": "django",
+              "EduSeminarAccepted": "education"}
+
+    for t in tags: 
+        if t in TRACKS.keys():
+            return TRACKS[t]
+
+    return None
+
+def record_consent(info):
+    print("\n" + info + "\n")
+    resp = input("Is this consent? (y/n): ")
+    if resp.lower() == "y":
+        print("\nMarking talk as 'Yes, record my talk'")
+        return True
+    else:
+        print("\nMarking talk as 'No, do not record my talk'")
+        return False
+
 
 def safecase(string):
     return re.sub(r"[^\w\s]", "", string).lower().replace(" ", "-")
@@ -65,8 +88,11 @@ entry = []
 entry.append("---")
 entry.append("layout: talk")
 entry.append("type: talk")
-entry.append("talk_id: %s" % talk_id)
+entry.append("talkid: %s" % talk_id)
 entry.append('title: "%s"' % talk["talk"]["title"])
+entry.append('track: "%s"' % track_info(talk["tags"]))
+entry.append('recording_consent: %s' % record_consent(talk["additional_info"]))
+entry.append(" ")
 entry.append("speakers: ")
 entry.append('  - name: "%s"' % talk["profile"]["name"])
 entry.append('    thumbnailUrl: "%s"' % image_name)
