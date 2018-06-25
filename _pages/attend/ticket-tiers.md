@@ -19,6 +19,8 @@ In addition to our [financial assistance](/assistance), we offer tiers of ticket
 
 {% include ticket-matrix.html %}
 
+<p align="center"><i>A limited amount of Early Bird discounts apply for Enthusiast and Professional level tickets</i></p>
+
 <hr>
 
 <a name="contributor"></a>
