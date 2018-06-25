@@ -42,7 +42,7 @@ Note that these are considered as factors, but they are not a check-list. You do
 
 ## Reimbursement process
 
-If you have any questions about financial assistance please contact us at [contact@pycon-au.org](mailto:contact@pycon-au.org).
+If you have any questions about financial assistance please contact us at [assistance@pycon-au.org](mailto:assistance@pycon-au.org).
 
 If your application for assistance is accepted, we will calculate a maximum amount to reimburse you based only on the assistance you have requested. You can then send us your receipts and you will be reimbursed after the conference.
 

@@ -2,9 +2,13 @@
 layout: talk
 talkid: 998
 length: 400px
-title: Education Seminar Showcase
+title: Education Seminar Seminar Showcase
 endTime: "18:00"
 abstract: A series of short talks from students, presenting their projects. 
+
+speakers: 
+ - name: High School Students
+   bio: This session will include talks from school students. Exact schedule to be advised closer to the event. 
 ---
 
 Python is both a simple and consistent language for beginners and a powerful real-world language used in industry. This combination is why it’s a popular language in education: it’s a great way to start for beginner programmers who are beyond graphical programming environments like Scratch and reaching the limitations of ‘toy’ languages.

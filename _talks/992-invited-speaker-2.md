@@ -2,7 +2,8 @@
 layout: talk
 talkid: 992
 type: keynote
-title: Invited Speaker 2
+title: Invited Speaker
+hide: True
 ---
 Cupcake ipsum dolor sit amet. Candy sesame snaps tootsie roll jelly jelly-o apple pie caramels topping. Toffee lollipop wafer I love jelly beans biscuit cake I love. Chocolate cake pastry caramels macaroon powder jelly-o.
 

@@ -4,7 +4,41 @@ title: About
 snake: rainbow
 permalink: /about/
 sponsors: true
+
+
+team: 
+    - name: Katie McLaughlin
+      thumbnailUrl: katie-mclaughlin.png
+      twitter: glasnt 
+      track: general
+      title: Site Chair
+    - name: Katie Bell
+      thumbnailUrl: katie-bell.png
+      twitter: notsolonecoder
+      track: security
+      title: Site Co-Chair
+    - name: Lilly Ryan
+      thumbnailUrl: lilly-ryan.png
+      twitter: attacus_au
+      track: django
+      title: Papers Chair
+    - name: Russell Keith-Magee
+      thumbnailUrl: russell-keithmagee.png
+      twitter: freakboy3742
+      track: education
+      title: Treasurer
+    - name: Jack Skinner
+      thumbnailUrl: jack-skinner.png
+      twitter: developerjack
+      track: iot
+      title: Operations
+
 ---
+
+<hr>
+<span class="abstract">Tickets for PyCon AU 2018 are <a href="/tickets/">on sale now!</a></span>
+<hr>
+
 
 ## Important Information
 
@@ -19,7 +53,7 @@ PyCon AU 2018 will be held in Sydney, Australia, at the [International Conventio
 The first day of PyCon AU is dedicated to specialist tracks. These tracks, also known as 'mini-confs', are curated
 by smaller specialist groups within Python community, and allow for more in-depth talks on the subject. 
 
-In 2018, these tracks will be: Django, Security and Privacy, Education, and Internet of Things. [Read more](/news/specialist-tracks) 
+In 2018, these tracks will be: [Django](/djangoconau), [Security and Privacy](/security-and-privacy), [Education](/education), and [Internet of Things](/internet-of-things).
 
 ## Conference Main Track
 
@@ -58,4 +92,20 @@ PyCon Australia is held in two year blocks at the same city.
 - 2018, 2019: Sydney, NSW
 
 Videos from previous years can be downloaded from the [Linux Australia mirror site](http://mirror.linux.org.au/pycon-au/) or the [PyConAU YouTube channel](https://www.youtube.com/user/PyConAU/playlists)
+
+
+## Lead Organising Team
+
+<div class="row">
+<div class="offset-lg-1"></div>
+{%- for speaker in page.team -%}
+  <div class="col-12 col-lg-2">
+    <img class="rounded-circle speaker-picture border-{{speaker.track}} mx-auto" style="max-height: 166px"  alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
+    <p align="center" style="margin-bottom: -10px"><span class="speaker_name" style="white-space: nowrap">{{ speaker.name }}</span>
+    <br>{{speaker.title}}
+    <br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>
+    </p>
+  </div>
+{%- endfor -%}
+</div>
 

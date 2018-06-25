@@ -193,7 +193,8 @@
 
    - name: Python Software Foundation
      logo: python_logo.png
-     link: https://python.org/psf
+     href: https://python.org/psf
+     link: python.org/psf
      blurb: | 
         The mission of the Python Software Foundation is to promote, protect,
         and advance the Python programming language, and to support and facilitate the
@@ -201,7 +202,8 @@
         Python Software Foundation is proud to be an active supporter of PyCon
         Australia and its education and community outreach programs.
    - name: Reece
-     link: https://www.reecetech.com.au/
+     link: reecetech.com.au
+     href: https://www.reecetech.com.au/
      twitter: reecetech
      logo: reecetech.png
      blurb: |

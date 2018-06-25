@@ -6,12 +6,12 @@ sponsors: False
     <div class="container">
         <div class="row">
             <div class="col">
-                <span class="site-heading" style="display: inline-block; color: #00B159;">
+                <span class="site-heading header-green" style="display: inline-block;">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <span class="subheading">{{ page.description }}</span>
                 </span>
                 {% if page.snake %}
-                <span class="d-none d-lg-inline-block header-serpent"><img src="/static/img/header-{{ page.snake }}.png"></span>
+                <span class="d-none d-lg-inline-block header-serpent"><img alt="Ooh, it's s snake" src="/static/img/header-{{ page.snake }}.png"></span>
                 {% endif %}
             </div>
         </div>

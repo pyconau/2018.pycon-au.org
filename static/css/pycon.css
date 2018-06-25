@@ -37,7 +37,7 @@ body {
 }
 
 .main-content a, .footer a {
-  color: #00B159 !important;
+  color: #008542 !important;
   font-weight: bold !important;
 }
 
@@ -85,14 +85,6 @@ body {
 
 .main-content { 
   padding-top: 20px;
-}
-
-.site-heading { 
-  color: #fff;
-}
-.main-info { 
-  color: #fff;
-  margin-top: 100px;
 }
 
 .info-help { 
@@ -176,9 +168,14 @@ hr {
 
 .border-general   { border-color: #00B159; } 
 .border-iot       { border-color: #5B57A5; }
-.border-django    { border-color: #FFC518; }
-.border-security  { border-color: #F36F3A; }
+.border-security  { border-color: #FFC518; }
+.border-django    { border-color: #F36F3A; }
 .border-education { border-color: #E01D43; }
+
+/* Brand Green  == 00B159
+   Access Green == 00994D  */
+
+.header-green { color: #00994D }
 
 .speaker_name { 
     font-size: 120%;
@@ -190,5 +187,11 @@ hr {
 
 .nav-norm { padding: 0 !important; } 
 
+.colspan2 { text-align: center; }
+.price-table td, .price-table th { text-align: center }
+.colright { text-align: left !important; }
+code { color: #00994D !important }
 
+.table-responsive-lg tr { padding: 10px } 
 
+.backtotop { float: right; margin-top: -40px;}
