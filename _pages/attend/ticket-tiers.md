@@ -56,4 +56,8 @@ sticking around after the weekend? Come back to the venue and join other
 conference attendees, full of fresh ideas, and develop on your favourite pet
 project, or discover something new to participate in.
 
-These tickets are **additional** to the main weekend tickets
+These tickets are **additional** to the main weekend tickets, and space is limited. 
+
+#### Extra Shirts
+
+If your tier doesn't come with a shirt, or you want an extra, these are available separately.
