@@ -36,4 +36,4 @@ Talks in this track:
 
 <hr>
 
-<p align="center">The Internet of Things Specialist Track cannot be run without the generous support of <a href="https://www.espressif.com/">espressif</a><br><br><a href="https://www.espressif.com/"><img src="/static/img/sponsors/espressif.png" style="width: 300px"/></a></p>
+<p align="center">The Internet of Things Specialist Track cannot be run without the generous support of <a href="https://www.espressif.com/">espressif</a><br><br><a href="https://www.espressif.com/"><img src="/static/img/sponsors/Espressif.png" style="width: 300px"/></a></p>
