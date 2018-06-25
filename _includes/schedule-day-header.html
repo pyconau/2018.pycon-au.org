@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="/static/css/schedule.css">
+<h5 class="schedule-nav">Skip to: {% for navday in site.conferenceDays %}{%- if forloop.index0 == dayindex -%}{{navday}}{%-else-%}<a href="/schedule/{{navday | downcase}}">{{navday}}</a> {%-endif %}{% if forloop.last == false%}, {% endif%}{%endfor-%}</h5>

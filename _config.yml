@@ -8,11 +8,24 @@ encoding: "bom|utf-8"
 navigationLinks:
  - {permalink: '/about/', text: "About"}
  - {permalink: '/news/', text: "News"}
- - {permalink: '/speak/', text: "Speak"}
- - {permalink: '/assistance/', text: "Assistance"}
+ - {permalink: '/schedule/', text: "Schedule"}
  - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/attend/tickets/', text: "Tickets"}
  - {permalink: '/sponsor/', text: "Sponsor"}
  - {permalink: '/conduct/', text: "Conduct"}
+
+conferenceDays:
+ - Friday
+ - Saturday
+ - Sunday
+ - Monday
+ - Tuesday
+
+attendLinks:
+ - {permalink: '/attend/', text: "Attend"}
+ - {permalink: '/attend/ticket-tiers', text: "Ticket Tiers"}
+ - {permalink: '/attend/shirts', text: "Shirts"}
+ - {permalink: '/attend/accomodation', text: "Accomodation"}
 
 include: 
  - _pages

@@ -1,0 +1,32 @@
+<form>
+<div class="form-group">
+    <label>First Name: </label><input class="form-control" id="first" placeholder="first"/>
+</div>
+<div class="form-group">
+<label>Last Name: </label><input class="form-control" id="second" placeholder="second"/>
+</div>
+<div class="form-group">
+<label>Company: </label><input class="form-control" id="company" placeholder="company / affiliation"/>
+</div></form>
+
+<script>
+
+window.addEventListener('input', function (e) { 
+   field = e.target.id;
+   value = e.target.value;
+
+   index = 0
+   if (field == "first") { index = 2 }
+   if (field == "second") { index = 3 }
+   if (field == "company") { index = 4 }
+
+    svgDoc = document.getElementById("badgetemplate")
+    svgDoc.getElementsByTagName("tspan")[index].innerHTML = value
+
+} )
+
+</script>
+
+<div id="badgetemplate" style="border: 1px solid black; width: 560px;">
+{% include badge.svg %}
+</div>

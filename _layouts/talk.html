@@ -3,29 +3,29 @@ layout: page
 sponsors: true
 snake: rainbow
 ---
-{% assign dayloop_index = 0 %}
+{%- assign dayloop_index = 0 -%}
 {% assign timeslot_index = 0 %}
 <div class="row"><div class="col">
 {% comment %} Search for times from schedule. Dummy data will show duplicate listings {% endcomment %}
-{% for day in site.data.schedule %}
+{%- for day in site.data.schedule -%}
   {% assign dayloop_index = forloop.index %}
-  {% for timeslot in day.timeslots %}
+  {%- for timeslot in day.timeslots -%}
       {% assign timeslot_index = forloop.index %}
-      {% for talk in timeslot.talkIds %}
+      {%- for talk in timeslot.talkIds -%}
         {% if talk == page.talkid %}
             {% assign track = day.tracks[forloop.index0].track %}
             <a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{ timeslot.startTime }} {{ site.timezone }}</a><br>
             {% break %}
         {% endif %}
-      {% endfor %}
-  {% endfor %}
-{% endfor %}
+      {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
 </span>
 
 {% if page.abstract %}
 <hr>
 
-<span class="abstract">{{ page.abstract }}</span>
+<span class="abstract">{{ page.abstract | markdownify}}</span>
 {% endif %}
 
 <hr>
@@ -36,17 +36,20 @@ snake: rainbow
 </div>
 <div class="col-12 col-lg-3">
 <hr class="d-lg-none">
-{% for speaker in page.speakers %}
+{% if page.type == "track" %}<h3 align="center" style="color: #00B159;">Track Organisers</h4>{%endif%}
+{%- for speaker in page.speakers -%}
     {% if speaker.thumbnailUrl %}<img class="rounded-circle speaker-picture border-{{page.track}}  mx-auto" alt="{{speaker.name}}" src="{{ site.baseurl | append: '/static/img/people/' | append: speaker.thumbnailUrl }}">
-    <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
+    <p align="center" style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span>
     {% else %}
-    <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span></p>
+    <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span>
     {% endif %}
-    {% if speaker.company %}<br>{{ speaker.company }}{% endif %}
-    {% if speaker.twitter %}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
-    {% if speaker.url %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
+    {%- if speaker.tag -%}<br><b>{{ speaker.tag }}</b>{%endif%}
+    {%- if speaker.company or speaker.company != nil -%}<br>{{ speaker.company }}{%- endif -%}
+    {%- if speaker.twitter or speaker.twitter != nil -%}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
+    {% if speaker.url or speaker.url != nil %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
+    </p>
     <hr>
     <p>{{ speaker.bio | markdownify }}</p>
-{% endfor %}
+{%- endfor -%}
 </div>
 </div>

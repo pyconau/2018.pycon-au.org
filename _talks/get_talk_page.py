@@ -6,6 +6,7 @@ import re
 import pdb
 import shutil
 import hashlib
+import yaml
 
 if len(sys.argv) < 2:
     sys.exit("Usage: talk_id")
@@ -49,6 +50,10 @@ def track_info(tags):
     return None
 
 def record_consent(info):
+    if len(sys.argv) > 2:
+        if sys.argv[2] == "-f":
+            return True
+
     print("\n" + info + "\n")
     resp = input("Is this consent? (y/n): ")
     if resp.lower() == "y":
@@ -68,7 +73,7 @@ talk_path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', '_ta
 
 g_hash = hashlib.md5(bytes(talk["profile"]["email"], "utf-8")).hexdigest()
 
-gravatar = "https://s.gravatar.com/avatar/%s?s=200" % g_hash
+gravatar = f"https://s.gravatar.com/avatar/{g_hash}?s=200&default=https%3A%2F%2Fpyconau-test.glasnt.com%2Fstatic%2Fimg%2Fpeople%2Fcurlyboi.png"
 
 print(gravatar)
 
@@ -81,31 +86,36 @@ if r.status_code == 200:
         r.raw.decode_content = True
         shutil.copyfileobj(r.raw, f)
 
-print(image_path)
+e = {}
 
-entry = []
+e["layout"] = "talk"
+e["type"] = "talk"
+e["talkid"] = int(talk_id)
+e["title"] = talk["talk"]["title"]
+e["track"] = track_info(talk["tags"])
+e["recordingconsent"] = record_consent(talk["additional_info"])
 
-entry.append("---")
-entry.append("layout: talk")
-entry.append("type: talk")
-entry.append("talkid: %s" % talk_id)
-entry.append('title: "%s"' % talk["talk"]["title"])
-entry.append('track: "%s"' % track_info(talk["tags"]))
-entry.append('recording_consent: %s' % record_consent(talk["additional_info"]))
-entry.append(" ")
-entry.append("speakers: ")
-entry.append('  - name: "%s"' % talk["profile"]["name"])
-entry.append('    thumbnailUrl: "%s"' % image_name)
-for x in ["company", "twitter", "url", "bio"]:
-    if talk["profile"][x]:
-        entry.append('    %s: "%s"' % (x, talk["profile"][x]))
-entry.append(" ")
-entry.append('abstract: "%s"' % talk["talk"]["abstract"])
-entry.append("---")
-entry.append("  ")
-entry.append(talk["talk"]["description"])
+s = [{}]
+for x in ["name", "company", "twitter", "url", "bio"]:
+    s[0][x] = talk["profile"][x]
+s[0]["thumbnailUrl"] = image_name
+s = {"speakers": s}
+
+a = {}
+a["abstract"] = talk["talk"]["abstract"]
+
+d = talk["talk"]["description"]
 
 with open(talk_path, "w") as f:
-    f.write("\n".join(entry))
+    f.write("---\n")
+    yaml.dump(e, f, default_flow_style=False)
+    f.write("\n")
+    yaml.dump(s, f, default_flow_style=False)
+    f.write("\n")
+    yaml.dump(a, f, default_flow_style=False)
+    f.write("---\n")
+    f.write(d)
+    f.write("\n")
+
 
 print(talk_path)

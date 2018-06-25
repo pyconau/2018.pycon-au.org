@@ -4,69 +4,74 @@
   dayTitle: "Specialist Track Day"
   dayShort: "Friday"
   tracks: 
-    - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#F36F3A"}
-    - {title: "C3.2", "track": "DjangoCon AU", "color": "#FFC518"}
+    - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518"}
+    - {title: "C3.2", "track": "DjangoCon AU", "color": "#F36F3A"}
     - {title: "C3.4", "track": "Education", "color": "#E01D43"}
     - {title: "C3.5", "track": "Internet of Things", "color": "#5B57A5"}
   timeslots:
     - { startTime: "09:00",
-        endTime: "9:10",
+        endTime: "09:10",
         talkIds: [1001, 1002, 1003, 1004]
       }
-    - { startTime: "9:15",  
+    - {startTime: "09:05", endTime: "09:35", talkIds: [403, 403, 403, 45067]}
+    - { startTime: "09:15",  
         endTime: "10:00", 
-        talkIds: [009, 009, 009, 009]
+        talkIds: [41799, 41002, 41003, 403]
+      }
+    - { startTime: "09:35",
+        endTime: "10:05",
+        talkIds: [403, 403, 403, 45177]
       }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
     - { startTime: "10:30",  
         endTime: "11:00", 
-        talkIds: [009, 009, 009, 009]
+        talkIds: [44892, 45289, 45316, 45358]
       }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - { startTime: "11:10",  
         endTime: "11:40", 
-        talkIds: [009, 009, 009, 009]
+        talkIds: [42329, 44482, 45039, 45338]
       }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} # changeover
     - { startTime: "11:50",  
         endTime: "12:20", 
-        talkIds: [009, 009, 009, 009]
+        talkIds: [41704, 44212, 44876, 41830]
       }
     - { startTime: "12:20", endTime: "13:30", talkIds: [502]} #lunch 
     - { startTime: "13:30",
         endTime: "14:00",
-        talkIds: [009, 009, 009, 009]
+        talkIds: [41686, 45383, 42567, 44704]
       }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} # changeover
     - { startTime: "14:10",
         endTime: "14:40",
-        talkIds: [009, 009, 009, 009]
+        talkIds: [41950, 45227, 45115, 45376]
       }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} # changeover
     - { startTime: "14:50",
         endTime: "15:20",
-        talkIds: [009, 009, 009, 009]
+        talkIds: [45055, 42913, 45328, 45170]
       }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} # afternoon Tea 
     - { startTime: "16:00",
         endTime: "16:30",
-        talkIds: [009, 009, 998, 009]
+        talkIds: [44258, 41797, 998, 44085]
       }
     - { startTime: "16:30", endTime: "16:40", talkIds: [504,505,403,505]} # changeover
     - { startTime: "16:40",
         endTime: "17:10",
-        talkIds: [009, 009, 403, 009]
+        talkIds: [44208, 43052, 403, 45006]
       }
     - { startTime: "17:10", endTime: "17:20", talkIds: [504,505,403,505]} # changeover
     - { startTime: "17:20",
         endTime: "17:50",
-        talkIds: [009, 009, 403, 009]
+        talkIds: [43716, 45196, 403, 44599]
       }
     - { startTime: "17:50",
         endTime: "17:59",
-        talkIds: [1001, 1002, 403, 1004]
+        talkIds: [0] #[1001, 1002, 403, 1004]
       }
-    - { startTime: "18:00", endTime: "18:01", talkIds: [0]} # close of day
+#    - { startTime: "18:00", endTime: "18:01", talkIds: [0]} # close of day
 
 
 - 
@@ -98,38 +103,38 @@
     - {
         startTime: "10:30",
         endTime:   "11:00",
-        talkIds: [001, 002, 003, 004]
+        talkIds: [45291, 45065, 42582, 45012]
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - {
     	startTime: "11:10",
     	endTime:   "11:40",
-        talkIds: [002, 003, 004, 404]
+        talkIds: [45261, 45073, 45005, 45178]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [45116, 45224, 45066, 45310]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [502]} 
 
     - {
     	startTime: "13:30",
     	endTime:   "14:00",
-        talkIds: [002, 003, 004, 404]
+        talkIds: [45214, 45176, 45211, 43832]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [44889, 45199, 43169, 45062]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [43044, 45179, 45302, 45063]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
     - {
@@ -169,38 +174,38 @@
     - {
         startTime: "10:30",
         endTime:   "11:00",
-        talkIds: [001, 002, 003, 004]
+        talkIds: [41796, 45386, 45378, 45018]
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - {
     	startTime: "11:10",
     	endTime:   "11:40",
-        talkIds: [002, 003, 004, 404]
+        talkIds: [45376, 43077, 44811, 45247]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
         startTime: "11:50",
         endTime:   "12:20",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [41951, 45075, 45332, 44310]
     }
     - { startTime: "12:20", endTime: "13:30", talkIds: [502]} 
 
     - {
     	startTime: "13:30",
     	endTime:   "14:00",
-        talkIds: [002, 003, 004, 404]
+        talkIds: [41898, 45228, 45184, 45392]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
     - {
         startTime: "14:10",
         endTime:   "14:40",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [45069, 44349, 45252, 45064]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
         startTime: "14:50",
         endTime:   "15:20",
-        talkIds: [404, 002, 003, 004]
+        talkIds: [44562, 43518, 44356, 45226]
     }
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
     - {
