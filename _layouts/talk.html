@@ -14,7 +14,8 @@ snake: rainbow
       {%- for talk in timeslot.talkIds -%}
         {% if talk == page.talkid %}
             {% assign track = day.tracks[forloop.index0].track %}
-            <a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{ timeslot.startTime }} {{ site.timezone }}</a><br>
+            {% assign room = day.tracks[forloop.index0].title %}
+            <a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{room}}, {{ timeslot.startTime }} {{ site.timezone }}</a><br>
             {% break %}
         {% endif %}
       {%- endfor -%}
