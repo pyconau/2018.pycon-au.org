@@ -35,11 +35,6 @@ team:
 
 ---
 
-<hr>
-<span class="abstract">Tickets for PyCon AU 2018 are <a href="/tickets/">on sale now!</a></span>
-<hr>
-
-
 ## Important Information
 
 PyCon AU 2018 will be held in Sydney, Australia, at the [International Convention Center, Sydney](https://www.iccsydney.com.au)
