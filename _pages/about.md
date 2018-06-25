@@ -54,9 +54,7 @@ In 2018, these tracks will be: [Django](/djangoconau), [Security and Privacy](/s
 
 The weekend of PyCon AU, traditionally the Saturday and Sunday, is the main conference event. We invite speakers from all backgrounds and levels of knowledge to share their experience and knowledge with our audience. 
 
-The talks do not have to be about Python, but should be interesting for a Python-loving audience. 
-
-Full details on the talk selection process will be available in our Call for Proposals. 
+Our full schedule of talks for 2018 has been released for [Saturday](/schedule/saturday) and [Sunday](/schedule/sunday)
 
 ## Development Sprints
 
@@ -66,7 +64,9 @@ Since you've travelled all the way to Sydney for a Python event, why not stay an
 
 Development Sprints provide an unstructured location for projects and contributors to work in real time on their projects, or for people to hack about with various things with people with experts in their fields. 
 
-The sprints are normally uncatered, but the conference will provide copious amounts of table space, power, and internet connectivity. 
+The sprints are uncatered, but the conference will provide copious amounts of table space, power, and internet connectivity. 
+
+Tickets to the sprints can be purchased [on top of the normal event tickets](/attend/ticket-tiers)
 
 ## About PyCon Australia
 
