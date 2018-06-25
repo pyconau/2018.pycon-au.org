@@ -6,6 +6,7 @@ type: keynote
 title: Tracy Osborn
 snake: rainbow
 subtitle: Clueless
+card: tracy.png
 speakers:
     - name: Tracy Osborn
       bio: "Tracy Osborn is a designer, developer, and entreprenerd living in Toronto, Canada. She’s the author of [Hello Web Books](https://hellowebbbooks.com/) as well as the creator of [WeddingLovely](http://weddinglovely.com/). She's also an avid outdoorswoman and would love to go on a hike with you.<br><br>Photo: Adam Gregory, Atom Images."
