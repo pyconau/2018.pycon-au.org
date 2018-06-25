@@ -47,8 +47,7 @@ IoT: {{iotcount}}
             {%endfor%}
         {%endfor%}
     {%endfor%}
-    {% if found == "Yes" %}
-        {% assign untalk = untalk | plus: 1 %}{%endif%}
+    {% if found == "No" %}{% assign untalk = untalk | plus: 1 %} {{session.title}}{%endif%}
 {%endfor%}
 
 Talks left unassigned: {{untalk}}
