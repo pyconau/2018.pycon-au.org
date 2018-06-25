@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="/static/css/pycon.css">
 
 <!-- Cards -->
-<meta property="og:title" content="{{ page.title }}">
+<meta property="og:title" content="PyCon AU 2018 | {{ page.title }}">
 <meta property="og:url" content="{{ page.url | prepend: site.url }}">
 <meta property="og:description" content="{{ page.description }}">
 <meta name="twitter:title" content="{{ page.title }}" />
@@ -19,8 +19,8 @@
 
 {% if page.card %}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{site.url}}{{ page.card }}" />
-<meta property="og:image" content="{{site.url}}{{page.card}}" />
+<meta name="twitter:image" content="{{site.url}}/static/img/cards/{{ page.card }}" />
+<meta property="og:image" content="{{site.url}}/static/img/cards/{{page.card}}" />
 {% else %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="{{site.url}}/static/img/pyconau.png" />
