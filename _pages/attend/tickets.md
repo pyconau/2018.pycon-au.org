@@ -13,4 +13,5 @@ sponsors: true
 <hr>
 
 <tito-widget event="pycon-au/2018"></tito-widget>
-<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+<link rel="stylesheet" type="text/css" href='/static/css/tito.css' />
+
