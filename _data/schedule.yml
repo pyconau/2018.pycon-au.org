@@ -122,7 +122,7 @@
     - {
     	startTime: "13:30",
     	endTime:   "14:00",
-        talkIds: [45214, 45176, 45211, 43832]
+        talkIds: [45214, 404, 45211, 43832]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
     - {
