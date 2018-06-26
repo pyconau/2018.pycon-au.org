@@ -36,7 +36,7 @@ body {
   color: #24a732 !important;
 }
 
-.main-content a, .footer a {
+.main-content a, .footer a, .newspost a {
   color: #008542 !important;
   font-weight: bold !important;
 }
