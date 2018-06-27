@@ -5,6 +5,7 @@ length: 400px
 title: Education Seminar Seminar Showcase
 endTime: "18:00"
 abstract: A series of short talks from students, presenting their projects. 
+permalink: /education-showcase
 
 speakers: 
  - name: High School Students
