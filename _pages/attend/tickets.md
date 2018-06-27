@@ -22,13 +22,12 @@ sponsors: true
 
 ### Cancellation Policy
 
-* Cancellation requests before July 29 2018 will incur a 10% cancellation fee, with the balance being refunded. 
-* Cancellation requests made between July 29 and August 8 2018 will incur a 15% cancellation fee, with the balance being refunded
+* Cancellation requests before August 8 2018 will incur a 10% cancellation fee, with the balance being refunded. 
 * Cancellation requests made after August 8 2018 will not be able to be refunded. 
 
 ### Substitutions
 
-Tickets can be reassigned to new attendees via our ticketing system until August 22 2018. If you do choose to made changes after August 8 2018, we cannot guarentee your t-shirt size will be availabile. 
+Tickets can be reassigned to new attendees via our ticketing system until August 22 2018. If you do choose to made changes after August 8 2018, we cannot guarantee your t-shirt size will be availabile. 
 
 ### Privacy Notice
 
@@ -59,7 +58,7 @@ Beware that for security and operational reasons PyCon AU 2018 may both monitor 
 Event organisers may provide recordings of talks (audio and/or video) given at the event. This service is provided on a best-effort basis only. Any recordings will be released as and when they are ready, which may be some time after the conclusion of the event, and the recordings may be of varying quality.
 
 ### Discrimination and Anti-Social Behaviour
-PyCon AU and Linux Australia are proud to support diverse groups of people in IT, particularly women, and will not tolerate in any fashion any intimidation, harassment, and/or any abusive, discriminatory or derogatory behaviour by any attendees of the event and/or related events.
+PyCon AU and Linux Australia are proud to support diverse groups of people in IT and will not tolerate in any fashion any intimidation, harassment, and/or any abusive, discriminatory or derogatory behaviour by any attendees of the event and/or related events.
 
 Examples of these behaviours and measures the event organisers or Linux Australia may take are set out in the Code of Conduct. By registering for and attending PyCon AU 2018, you agree to this [Code of Conduct](/conduct)
 
@@ -72,10 +71,10 @@ Students who register for a student ticket (if available) to attend the event ma
 ### Alcohol
 No venue used for PyCon AU 2018 will be serving alcohol. 
 
-Liquor licensing laws in Australia requires persons to be aged 18 years and older before they can lawfully drink alcohol. Those who look under 25 years old may be required to show identification such as a Passport (non-Australian driver licences are generally not accepted) to licensed premises proving they are 18 years old or older.
+Liquor licensing laws in Australia requires persons to be aged 18 years and older before they can lawfully drink alcohol. A majority of establishments who serve or sell alcohol will ask to be shown identification such as a Passport (non-Australian driver licences are generally not accepted) to proving they are 18 years old or older.
 
 ### Visas
 
 Anyone who lives outside Australia will need a passport and may require a visa to gain entry into Australia. Please contact your local Australian Embassy department to determine your travel needs. You should take into account the Cancellation Policy above and do this well in advance of the event.
 
-Where a letter of invitation is required, one will be issued by event organisers for accepted Speakers and Invited Speakers only. 
+Where a letter of invitation is required, one will only be issued by event organisers for accepted Speakers and Invited Speakers.
