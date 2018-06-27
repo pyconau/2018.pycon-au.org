@@ -16,9 +16,9 @@ window.addEventListener('input', function (e) {
    value = e.target.value;
 
    index = 0
-   if (field == "first") { index = 2 }
-   if (field == "second") { index = 3 }
-   if (field == "company") { index = 4 }
+   if (field == "first") { index = 1 }
+   if (field == "second") { index = 2 }
+   if (field == "company") { index = 3}
 
     svgDoc = document.getElementById("badgetemplate")
     svgDoc.getElementsByTagName("tspan")[index].innerHTML = value
