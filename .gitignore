@@ -5,3 +5,6 @@ _site
 Gemfile.lock
 _site
 .bundle
+
+# don't override the CNAME
+CNAME 
