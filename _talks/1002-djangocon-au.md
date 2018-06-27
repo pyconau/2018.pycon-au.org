@@ -8,6 +8,7 @@ track: django
 title: DjangoCon AU
 
 permalink: /djangoconau/
+card: django.png
 
 speakers: 
     - name: Adam Brenecki

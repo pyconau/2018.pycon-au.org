@@ -7,6 +7,7 @@ talkid: 1001
 track: security
 title: Security and Privacy Track
 permalink: /security-and-privacy-track/
+card: security.png
 
 speakers: 
     - name: Eliza Sorensen

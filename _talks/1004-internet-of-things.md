@@ -8,6 +8,8 @@ abstract: placeholder
 title: Internet of Things
 track: iot
 
+card: iot.png
+
 permalink: /internet-of-things-track/
 
 

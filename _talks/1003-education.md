@@ -7,6 +7,7 @@ type: track
 track: education
 title: Education Track
 permalink: /education-track/
+card: education.png
 
 speakers: 
   - name: Nicky Ringland
