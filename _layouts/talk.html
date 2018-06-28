@@ -45,9 +45,9 @@ snake: rainbow
     <p style="margin-bottom: -10px"><span class="speaker_name">{{ speaker.name }}</span>
     {% endif %}
     {%- if speaker.tag -%}<br><b>{{ speaker.tag }}</b>{%endif%}
-    {%- if speaker.company or speaker.company != nil -%}<br>{{ speaker.company }}{%- endif -%}
-    {%- if speaker.twitter or speaker.twitter != nil -%}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
-    {% if speaker.url or speaker.url != nil %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
+    {%- if speaker.company != blank -%}<br>{{ speaker.company }}{%- endif -%}
+    {%- if speaker.twitter != blank -%}<br><a href="https://twitter.com/{{ speaker.twitter}}">@{{speaker.twitter}}</a>{% endif %}
+    {% if speaker.url != blank %}<br><a href="{{ speaker.url}}">{{speaker.url}}</a>{% endif %}
     </p>
     <hr>
     <p>{{ speaker.bio | markdownify }}</p>
