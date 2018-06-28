@@ -42,7 +42,7 @@
                             {% endfor %}
                             {% endif %}
                             {% endif %}
-                            <span class="d-lg-none">Room: {{ track.title }}</span>
+                            <span class="d-lg-none">{% if track.track %}Track: {{track.track}}<br>{%endif%}Room: {{ track.title }}</span>
                             {% if session.endTime %}<span class="d-block">Ends at {{ session.endTime }}</span>{%endif%}
                         </div>
                     </div>
