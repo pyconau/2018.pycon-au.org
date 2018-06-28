@@ -21,7 +21,7 @@ jekyll serve -w
 
 ## Cards and Header Images
 
-Cards and Header images need to be absolute URLs. Prefix all with `/img`
+`thumbnailUrl` and `cards` are relative file names. Files exist in `static/img/people` and `static/img/cards`, respectively
 
 
 ## Issues
