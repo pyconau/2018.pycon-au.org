@@ -3,19 +3,18 @@ layout: page
 sponsors: true
 snake: rainbow
 ---
-{%- assign dayloop_index = 0 -%}
 {% assign timeslot_index = 0 %}
 <div class="row"><div class="col">
 {% comment %} Search for times from schedule. Dummy data will show duplicate listings {% endcomment %}
 {%- for day in site.data.schedule -%}
-  {% assign dayloop_index = forloop.index %}
+  {% assign dayName = day.dayShort | downcase %}
   {%- for timeslot in day.timeslots -%}
       {% assign timeslot_index = forloop.index %}
       {%- for talk in timeslot.talkIds -%}
         {% if talk == page.talkid %}
             {% assign track = day.tracks[forloop.index0].track %}
             {% assign room = day.tracks[forloop.index0].title %}
-            <a href="/schedule#timeslot-{{dayloop_index}}-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{room}}, {{ timeslot.startTime }} {{ site.timezone }}</a><br>
+            <a href="/schedule/{{dayName}}#timeslot-{{timeslot_index}}">{{ day.dateReadable }},{%if track %} {{track}} Track,{%endif%} {{room}}, {{ timeslot.startTime }} {{ site.timezone }}</a><br>
             {% break %}
         {% endif %}
       {%- endfor -%}

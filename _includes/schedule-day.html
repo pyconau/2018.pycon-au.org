@@ -18,7 +18,7 @@
       {% endfor %}
   </div>
   {% for timeslot in day.timeslots %}
-  <div class="row" id="timeslot-{{dayloop.index}}-{{forloop.index}}">
+  <div class="row" id="timeslot-{{forloop.index}}">
       <div class="col-12 col-lg-1 time">
           <span>{{ timeslot.startTime }}</span>
       </div>
