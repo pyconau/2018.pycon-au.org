@@ -5,7 +5,6 @@ snake: rainbow
 permalink: /about/
 sponsors: true
 
-
 team: 
     - name: Katie McLaughlin
       thumbnailUrl: katie-mclaughlin.png
@@ -41,7 +40,8 @@ PyCon AU 2018 will be held in Sydney, Australia, at the [International Conventio
 
 - August 24: Specialist Tracks
 - August 25-26: Conference Main Track 
-- August 27-28: Development Sprints
+- August 27-28: [Development Sprints](/sprints)
+
 
 ## Specialist Tracks
 
@@ -58,7 +58,7 @@ Our full schedule of talks for 2018 has been released for [Saturday](/schedule/s
 
 ## Development Sprints
 
-Following three days of talks, we hold space in our venue for two days of Development Sprints (sometimes shortened just to 'Sprints')
+Following three days of talks, we hold space in our venue for two days of [Development Sprints](/sprints) (sometimes shortened just to 'Sprints')
 
 Since you've travelled all the way to Sydney for a Python event, why not stay an extra day or two and stretch your legs in the new things you've learnt, or dive into some interesting projects you've heard about over the weekend?
 
