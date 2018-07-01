@@ -73,7 +73,7 @@ talk_path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', '_ta
 
 g_hash = hashlib.md5(bytes(talk["profile"]["email"], "utf-8")).hexdigest()
 
-gravatar = f"https://s.gravatar.com/avatar/{g_hash}?s=200&default=https%3A%2F%2Fpyconau-test.glasnt.com%2Fstatic%2Fimg%2Fpeople%2Fcurlyboi.png"
+gravatar = f"https://s.gravatar.com/avatar/{g_hash}?s=200&default=https%3A%2F%2Fglasnt.com%2Fblog%2Fassets%2Fmedia%2Fcurlyboi.png"
 
 print(gravatar)
 
