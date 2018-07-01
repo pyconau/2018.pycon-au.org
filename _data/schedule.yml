@@ -6,8 +6,8 @@
   tracks: 
     - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518"}
     - {title: "C3.2", "track": "DjangoCon AU", "color": "#F36F3A"}
-    - {title: "C3.4", "track": "Education", "color": "#E01D43"}
-    - {title: "C3.5", "track": "Internet of Things", "color": "#5B57A5"}
+    - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43"}
+    - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5"}
   timeslots:
     - { startTime: "09:00",
         endTime: "09:10",
@@ -98,8 +98,8 @@
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
-    - {title: "C3.4"}
-    - {title: "C3.5"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
   timeslots:
     - { 
         startTime: "08:30",
@@ -184,8 +184,8 @@
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
-    - {title: "C3.4"}
-    - {title: "C3.5"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
   timeslots:
     - { 
         startTime: "09:00",
@@ -265,13 +265,13 @@
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
-    - {title: "C3.4"}
-    - {title: "C3.5"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
         duration: 599,
-        talkIds: [404, 404, 999, 999]
+        talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
 
@@ -283,12 +283,12 @@
   tracks: 
     - {title: "Cockle Bay"}
     - {title: "C3.2"}
-    - {title: "C3.4"}
-    - {title: "C3.5"}
+    - {title: "C3.4 & C3.5"}
+    - {title: "C3.6"}
   timeslots: 
     - { startTime: "08:00",
         endTime: "17:59",
         duration: 599,
-        talkIds: [404, 404, 999, 999]
+        talkIds: [404, 404, 999, 404]
     }
     - { startTime: "18:00", talkIds: [0] }
