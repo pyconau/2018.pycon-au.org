@@ -7,18 +7,19 @@ track: iot
 type: talk
 
 speakers:
-- bio: "I am a speaker with an ability to work on technological projects within the\
-    \ time limit.I have pitched my idea in August-Fest, Asia's largest start-up conference.\r\
-    \nI have been introduced to the open source in FOSSASIA summit-Singapore where\
-    \ I have presented one of my project.I have met open source contributors and enthusiasts\
-    \ from all over the world and got inspired.Then, I have been also selected for\
-    \ Google Summer of Code and presented my project in DebConf-CapeTown. I have been\
-    \ also selected as a speaker in OSCON- London, DevFest- GDG, Silicon valley, mini\
-    \ debconf- Japan, OSCAL, FOSDEM, Open Source Summit-Japan and Linux Plumber's\
-    \ conference.\r\n\r\nI have been awarded as \"women-in tech\" by the director\
-    \ of NITW due to the outstanding performance in technology.\r\n\r\nI'm currently\
-    \ working as an embedded engineer and volunteering as a mentor and organization\
-    \ administrator for Google Summer of Code with Debian."
+- bio: 
+    Jaminy is an embedded engineer and an open source enthusiast  with some talks
+    in  international conferences such as  as OSCON- London, DevFest- GDG, Silicon
+    valley, WikiToLearn India conference, mini debconf- Japan, FOSDEM, OSCAL , and
+    open source summit-Japan .She pitched her idea in August-Fest, Asia's largest
+    start-up conference.She has been introduced to the open source in FOSSASIA
+    summit 2016-Singapore where she presented one of her project. She was also
+    selected for Google Summer of Code and presented the project in
+    DebConf-CapeTown.  She is currently volunteering as organization administrator
+    and mentor for Google Summer of Code with Debian.  She has been awarded as
+    "woman-in tech" and "female innovator " due to the outstanding performance in
+    technology.
+
   company: Debian
   name: Jaminy Prabaharan
   thumbnailUrl: jaminy-prabaharan.png
