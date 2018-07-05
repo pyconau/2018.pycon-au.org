@@ -52,6 +52,25 @@ IoT: {{iotcount}}
 
 Talks left unassigned: {{untalk}}
 
+*Duplicate talks*
+
+
+{% assign duptalk-count = 0%}
+{%- for session in site.talks -%}
+    {%- assign duptalk = 0 -%}
+    {%- for d in site.data.schedule -%}
+        {% for t in d.timeslots %}
+            {% for s in t.talkIds %}
+                {% if s == session.talkid %}{% assign duptalk = duptalk | plus: 1 %}{%endif%}
+            {%endfor%}
+        {%endfor%}
+    {%-endfor-%}
+    {%- if duptalk > 1 %}{% assign duptalk-count = duptalk-count | plus: 1 %} {{session.title}}, {%- endif-%}
+{%-endfor%}
+
+Talks running multiple times: {{duptalk-count}}
+
+
 
 *Tracks*
 

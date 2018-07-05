@@ -1,12 +1,14 @@
 ---
 layout: talk
 type: talk
-talkid: 997
+talkid: 997a
 title: Lightning Talks
+permalink: /lightning-talks
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 
       url: http://lightningtimer.io/
+      thumbnailUrl: lightning-talk.png
       bio: The Lightning Talk Tzar is the Master of Ceremonies for a session of Lightning talks. Their skills include introducing the current speaker, pre-announcing the next speaker (getting them to start their setup), starting timers, and leading the crowd in a rousing applause should the timer reach '0:00'. 
     
  

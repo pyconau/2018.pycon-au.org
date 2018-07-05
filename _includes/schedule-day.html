@@ -32,7 +32,8 @@
                     <div class="col-12 col-lg">
                         <div class="session {{ session.type }}">
                             {% if session.hide %}
-                                <h5>{{session.title}}</h5><div class="speaker">Yet to be announced</div>
+                                <h5>{{session.title}}</h5>
+                                {% if session.type == "keynote" %}<div class="speaker">Yet to be announced</div>{%endif%}
                             {% else %}
                             <h5><a target="_blank" href="{{session.url}}" {% if session.type == "track" %} style="color: {{track.color}} !important"{%endif%}>{{ session.title }}</a></h5>
                             {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>
