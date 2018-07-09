@@ -54,16 +54,13 @@
 
 
 - title: Gold Sponsors
-  placeholder: true
   sponsors:
-    - name: Your Company Here
-      logo: gold_placeholder_logo.png
-      placeholder: true
+    - name: Google
+      logo: google.png
+      link: google.com
+      href: https://google.com
       blurb: |
-        PyCon AU 2018 can only operate with the generousity of our sponsors.
-        If you are interested in helping our event, please see our <a
-        href="https://2018.pycon-au.org/news/call-for-sponsorship/">Prospectus</a>
-        <br><br>Gold sponsorship is limited to six sponsors only
+        Google’s mission is to organize the world’s information and make it universally accessible and useful.
        
 - title: Sponsors
   sponsors:
