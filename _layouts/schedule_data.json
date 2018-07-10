@@ -12,7 +12,7 @@
     {% for talk_id in time_slot.talkIds %}
       {% assign track = site.data.schedule[dayloop.index0].tracks[forloop.index0] %}
       {% for session in site.talks %}{% if talk_id == session.talkid and session.service == null %}{% assign talk = session %}{% endif %}{% endfor %}
-      {% if talk == null or talk_id == 404 or talk_id == 403 %}{% continue %}{% endif %}
+      {% if talk == null or talk_id == 404 or talk_id == 403 or talk.type == "sprints" %}{% continue %}{% endif %}
       {% if first_time == false %},{% endif %}{% assign first_time = false %}
       {
         "room": "{{ track.title }}",
@@ -21,7 +21,7 @@
         "end": "{{ day['date'] }}T{{ time_slot.endTime }}:00",
         "duration": {{ time_slot.duration }},
         "track": "{{ track.track }}",
-        "conf_key": {{ talk_id }},
+        "conf_key": "{{ talk_id }}",
         "type": "{{ talk.type }}",
         "name": "{{ talk.title | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "abstract": "{{ talk.abstract | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
