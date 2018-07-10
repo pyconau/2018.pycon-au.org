@@ -2,6 +2,7 @@
 layout: post
 title: Volunteer at PyCon AU 2018
 permalink: /news/volunteer
+card: volunteer.png
 ---
 
 PyCon AU is a grass-roots, community-driven event. It needs bright, enthusiastic people - like you - to make it a success!
@@ -20,10 +21,13 @@ We're looking for
 
 ### What's in it for me?
 
-A Volunteer Ticket gets you:
+If you can help out for a majority of the conference, we'll give you a volunteer ticket. This gets you: 
 
 * Free t-shirt!
 * Lunch, morning and afternoon tea for the conference
+
+All volunteers get: 
+
 * Warm and fuzzie feelings
 * A hearty round of applause at the conference close as we invite you on stage to thank you for your efforts
 * Written reference covering your experience and duties - useful for job interviews!
