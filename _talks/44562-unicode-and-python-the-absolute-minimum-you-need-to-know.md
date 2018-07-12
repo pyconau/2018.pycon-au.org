@@ -13,7 +13,7 @@ speakers:
     \ In past lives, he worked for startups in the US and ate lots of chocolate in\
     \ France. He loves learning languages and dislikes air conditioning."
   company: Catalpa
-  name: Raphael Merx
+  name: Raphaël Merx
   thumbnailUrl: raphael-merx.png
   twitter: raphaelmerx
   url: ''
