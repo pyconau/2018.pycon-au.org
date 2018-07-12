@@ -2,7 +2,7 @@
 layout: talk
 talkid: 991
 type: keynote
-title: Invited Speaker 1
+title: Invited Speaker
 hide: True
 ---
 
