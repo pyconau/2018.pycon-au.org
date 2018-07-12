@@ -25,7 +25,7 @@
         "type": "{{ talk.type }}",
         "name": "{{ talk.title | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
         "abstract": "{{ talk.abstract | replace: "\\", "\\\\" | replace: newline, "\\n" | replace: '"', '\\"' }}",
-        "released": "{% if talk.recordingconsent %}{{ talk.recordingconsent }}{% else %}false{% endif %}",
+        "released": {% if talk.recordingconsent == true %}true{% else %}false{% endif %},
         "authors": [
           {% for speaker in talk.speakers %}"{{ speaker.name }}"{% if forloop.last == false %},
           {% endif %}{% endfor %}
