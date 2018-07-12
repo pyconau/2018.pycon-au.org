@@ -3,6 +3,7 @@ layout: talk
 type: talk
 talkid: 997a
 title: Lightning Talks
+recordingconsent: true
 permalink: /lightning-talks
 speakers: 
     - name: Lightning Talk Tzar
