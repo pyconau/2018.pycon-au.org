@@ -4,6 +4,7 @@ type: talk
 talkid: 997b
 title: Lightning Talks
 permalink: /lightning-talks
+recordingconsent: true
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 
