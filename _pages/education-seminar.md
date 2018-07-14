@@ -2,7 +2,6 @@
 layout: page
 title: Python in Education Seminar
 permalink: /about/education-seminar
-snake: rainbow
 sponsors: true
 ---
 
