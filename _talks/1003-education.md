@@ -25,7 +25,7 @@ Talks in this track:
 
 {%- for talk in site.talks -%}
     {% if talk.type == "talk" and talk.track == page.track %}
-* [{{ talk.title }}]({{talk.url}}) {% for speaker in talk.speakers %}{{ speaker.name }}{%- endfor -%}{%- endif -%}
+* [{{ talk.title }}]({{talk.url}}) {% for speaker in talk.speakers %}{% if forloop.index0 > 0 %} and {%endif%}{{ speaker.name }}{%- endfor -%}{%- endif -%}
 {% endfor %}
 
 <hr>

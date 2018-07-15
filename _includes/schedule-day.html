@@ -38,9 +38,11 @@
                             <h5><a target="_blank" href="{{session.url}}" {% if session.type == "track" %} style="color: {{track.color}} !important"{%endif%}>{{ session.title }}</a></h5>
                             {% if session.type == 'keynote' %}<div class="speaker">Invited Speaker</div>
                             {% elsif session.type == "talk"%}
-                                {% for speaker in session.speakers %}
-                                <div class="speaker">{{ speaker.name }}</div>
-                            {% endfor %}
+                                <div class="speaker">
+                                {% for speaker in session.speakers -%}
+                                {%- if forloop.index0 > 0 %} and {% endif %}{{ speaker.name }}
+                                {%- endfor %}
+                                </div>
                             {% endif %}
                             {% endif %}
                             <span class="d-lg-none">{% if track.track %}Track: {{track.track}}<br>{%endif%}Room: {{ track.title }}</span>

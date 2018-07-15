@@ -22,10 +22,25 @@ speakers:
     \ course at UNSW this year. In his spare time he enjoys playing the guitar poorly,\
     \ rock climbing and maintained his unbeaten record in Monopoly."
   company: BVN
-  name: Ben Doherty and Ishaan Varshney
-  thumbnailUrl: ben-doherty-and-ishaan-varshney.png
+  name: Ben Doherty
+  thumbnailUrl: ben-doherty.png
   twitter: ''
   url: ''
+- bio: "As a child, Ishaan developed an unhealthy obsession with rolling down steep\
+    \ roads on his tricycle. Since then, he\u2019s been looking to get adrenaline\
+    \ rushes in the world of Python as his tricycle does not fit him anymore. Having\
+    \ worked in predictive markets, financial systems, renewable energy and the construction\
+    \ industries he\u2019s interested in solving problems people have described as\
+    \ being 'strange' and 'cute'.  Ishaan has a bachelors in economics and computer\
+    \ science  and a masters in artificial intelligence from the University of New\
+    \ South Wales.  He also lectured the Design Computing course at the University\
+    \ of New South Wales this year. "
+  company: BVN
+  name: Ishaan Varshney
+  thumbnailUrl: ishaan-varshney.png
+  twitter: ishaan_varshney
+  url: https://ishaan.xyz
+
 
 abstract: "\u201CI\u2019m a designer, why should I learn python?\u201D We\u2019ve\
   \ been teaching a course to non-nerds for a couple of years and so we\u2019re going\
