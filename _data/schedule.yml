@@ -211,7 +211,7 @@
     	startTime: "11:10",
     	endTime:   "11:40",
         duration: 30,
-        talkIds: [41793, 43077, 44811, 45226]
+        talkIds: [41793, 43077, 45282, 45226]
     }
     - { startTime: "11:40", endTime: "11:50", talkIds: [504]} 
     - {
@@ -226,7 +226,7 @@
     	startTime: "13:30",
     	endTime:   "14:00",
         duration: 30,
-        talkIds: [41898, 45228, 45184, 45392]
+        talkIds: [44811, 45228, 45184, 45392]
     }
     - { startTime: "14:00", endTime: "14:10", talkIds: [504]} 
     - {
