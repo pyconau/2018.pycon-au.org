@@ -12,10 +12,10 @@
 <!-- Cards -->
 <meta property="og:title" content="PyCon AU 2018 | {{ page.title }}">
 <meta property="og:url" content="{{ page.url | prepend: site.url }}">
-<meta property="og:description" content="{{ page.description }}">
+<meta property="og:description" content="{{ page.abstract or page.description }}">
 <meta name="twitter:title" content="{{ page.title }}" />
 <meta name="twitter:site" content="@pyconau">
-<meta name="twitter:description" content="{{ page.subtitle }}" />
+<meta name="twitter:description" content="{{ page.abstract or page.description }}" />
 
 {% if page.card %}
 <meta name="twitter:card" content="summary_large_image">
