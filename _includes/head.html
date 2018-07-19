@@ -10,19 +10,22 @@
 <link rel="stylesheet" href="/static/css/pycon.css">
 
 <!-- Cards -->
-<meta property="og:title" content="PyCon AU 2018 | {{ page.title }}">
-<meta property="og:url" content="{{ page.url | prepend: site.url }}">
-<meta property="og:description" content="{{ page.abstract or page.description }}">
-<meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:site" content="@pyconau">
-<meta name="twitter:description" content="{{ page.abstract or page.description }}" />
+{% assign description = page.abstract | escape | newline_to_br or page.description %}
+<meta property="og:title"  content="PyCon AU 2018 | {{ page.title }}">
+<meta property="og:url"    content="{{ page.url | prepend: site.url }}">
+<meta property="og:description" content="{{ description }}">
+<meta name="twitter:title" content="PyCon AU 2018 | {{ page.title }}" />
+<meta name="twitter:site"  content="@pyconau">
+<meta name="twitter:description" content="{{ description }}" />
 
-{% if page.card %}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{site.url}}/static/img/cards/{{ page.card }}" />
-<meta property="og:image" content="{{site.url}}/static/img/cards/{{page.card}}" />
+{%- if page.card %}
+{% assign card = "/static/img/cards/{{page.card}}" | prepend: site.url -%}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ card }}" />
+<meta property="og:image"  content="{{ card }}" />
 {% else %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{{site.url}}/static/img/pyconau.png" />
-<meta property="og:image" content="{{site.url}}/static/img/pyconau.png" />
+{% assign image = "/static/img/pyconau.png" | prepend: site.url %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ image }}" />
+<meta property="og:image"  content="{{ image }}" />
 {% endif %}
