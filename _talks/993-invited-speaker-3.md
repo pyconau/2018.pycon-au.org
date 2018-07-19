@@ -4,7 +4,7 @@ permalink: /talks/tracy
 talkid: 993
 type: keynote
 title: Tracy Osborn
-snake: rainbow
+track: general
 card: tracy.png
 speakers:
     - name: Tracy Osborn
