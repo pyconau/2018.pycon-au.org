@@ -17,7 +17,7 @@ PyCon AU, the national Python Language conference, is on again this August in Sy
 <hr>
 
 {% assign latestnews = site.posts.first %}
-Latest news: [{{latestnews.title}}]({{latestnews.url}}). See [all news](/news).
+Latest news: [{{latestnews.title | remove: "<br>" }}]({{latestnews.url}}). See [all news](/news).
 
 <hr>
 
