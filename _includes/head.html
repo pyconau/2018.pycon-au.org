@@ -19,7 +19,7 @@
 <meta name="twitter:description" content="{{ description }}" />
 
 {%- if page.card %}
-{% assign card = "/static/img/cards/{{page.card}}" | prepend: site.url -%}
+{% assign card = page.card | prepend: "/static/img/cards/" | prepend: site.url -%}
 <meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ card }}" />
 <meta property="og:image"  content="{{ card }}" />
