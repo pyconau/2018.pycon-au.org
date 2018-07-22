@@ -1,16 +1,26 @@
 ---
 layout: talk
+permalink: /talks/tom
 talkid: 992
 type: keynote
-title: Invited Speaker
-hide: True
+title: Tom Eastman
+track: general
+card: tom.png
+speakers:
+    - name: Tom Eastman
+      bio: |
+        Tom is a senior software systems engineer at Koordinates, a geospatial
+        data processing and publishing platform. Previously he has worked as a
+        developer, systems administrator, and as a security consultant/educator.
+        <br><br> Tom writes words that control computers to tell other computers to
+        build FAKE computers that run on DIFFERENT computers.
+      twitter: tveastman
+      tag: Invited Speaker
+      url: https://eastman.net.nz
+      thumbnailUrl: tom-eastman.jpg
+abstract: 'Tom will be speaking on Saturday afternoon, about how we learn to get better at our craft.'
+description: 'Tom will be speaking on Saturday afternoon, about how we learn to get better at our craft.'
 ---
-Cupcake ipsum dolor sit amet. Candy sesame snaps tootsie roll jelly jelly-o apple pie caramels topping. Toffee lollipop wafer I love jelly beans biscuit cake I love. Chocolate cake pastry caramels macaroon powder jelly-o.
 
-Topping jelly-o ice cream. Tiramisu tootsie roll candy canes icing tiramisu gummies carrot cake biscuit marshmallow. Croissant marzipan pastry gingerbread candy canes. Candy carrot cake I love.
+Tom is a senior software systems engineer at Koordinates, Python programmer, systems geek, and overthinker. He will be presenting a talk on how we learn to get better at our craft, and also how we -- all too easily -- do the opposite.
 
-Chocolate marshmallow I love powder wafer cookie. Cotton candy topping ice cream. Chocolate cake gummies gummies macaroon. Jelly-o jujubes liquorice I love croissant macaroon cupcake.
-
-I love marshmallow gingerbread tart. I love gingerbread sugar plum marshmallow donut. Toffee jelly muffin. Bear claw chocolate cake fruitcake I love macaroon halvah jelly icing danish.
-
-Biscuit topping tart pastry cheesecake powder tootsie roll cupcake. Jelly candy canes topping I love bonbon cotton candy. Bonbon gummi bears gummies marshmallow croissant tootsie roll I love halvah. Gummi bears gummi bears dragee jujubes apple pie.
