@@ -1,6 +1,6 @@
 ---
 layout: talk
-recordingconsent: false
+recordingconsent: true
 talkid: 45184
 title: You Don't Need That!
 track: general

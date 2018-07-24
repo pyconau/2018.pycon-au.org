@@ -1,6 +1,6 @@
 ---
 layout: talk
-recordingconsent: false
+recordingconsent: true
 talkid: 45177
 title: Lighting Macro Photographs with CircuitPython
 track: iot

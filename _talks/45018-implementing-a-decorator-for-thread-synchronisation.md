@@ -1,6 +1,6 @@
 ---
 layout: talk
-recordingconsent: false
+recordingconsent: true
 talkid: 45018
 title: Implementing a decorator for thread synchronisation
 track: general
