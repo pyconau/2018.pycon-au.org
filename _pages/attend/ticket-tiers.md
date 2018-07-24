@@ -26,17 +26,21 @@ In addition to our [financial assistance](/assistance), we offer tiers of ticket
 <a name="contributor"></a>
 #### Contributor ✨
 
-The Contributor ticket is designed for those who wish to attend PyCon AU 2018 as a Professional delegate, as well as supporting the conference by contributing financially.
+The Contributor ticket is designed for those who wish to attend PyCon AU 2018 as a Professional delegate, as well as supporting the conference by contributing financially. Contributors also get their logo on digital advertising for the conference. For more information, please [see our Sponsorship Prospectus](https://2018.pycon-au.org/prospectus.pdf).
 
 #### Professional
 
 The Professional ticket is our all-access pass to the conference. This rate applies to most people who have their companies pay the conference fees, or for individuals who can otherwise afford to support the conference at this level.
+ 
+We ask that your company chooses this ticket for you, if they are paying. 
 
 #### Enthusiast
 
 The Enthusiast rate is heavily discounted for Python enthusiasts who are paying out of their own pockets and would otherwise find it difficult to attend.
 
 This tier comes in two versions: Sat/Sun, or Fri/Sat/Sun. You can choose between just the Saturday and Sunday, or make a long-weekend of PyCon AU and come for the Friday as well as the Saturday and Sunday.
+
+We ask that you purchase this ticket if you are paying your own way. 
 
 #### Student
 
@@ -61,3 +65,4 @@ These tickets are **additional** to the main weekend tickets, and space is limit
 #### Extra Shirts
 
 If your tier doesn't come with a shirt, or you want an extra, these are available separately.
+
