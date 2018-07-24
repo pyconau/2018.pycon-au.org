@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Badge Preview
+title: Badges
 snake: rainbow
-permalink: /attend/badge/
+permalink: /attend/badges
 sponsors: true
 ---
 {% include nav-attend.html %}

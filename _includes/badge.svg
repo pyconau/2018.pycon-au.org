@@ -391,7 +391,7 @@
      x="1.8798111e-06"
      y="297.90891" /><text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Catamaran;-inkscape-font-specification:'Catamaran, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff1400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Catamaran;-inkscape-font-specification:'Catamaran, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff1400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="133.64616"
      y="337.53455"
      id="text4330"
@@ -399,5 +399,5 @@
        sodipodi:role="line"
        id="tspan4332"
        x="133.64616"
-       y="337.53455">TEMPLATE ONLY</tspan></text>
+       y="337.53455"></tspan></text>
 </svg>
