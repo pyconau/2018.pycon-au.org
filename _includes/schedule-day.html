@@ -30,7 +30,7 @@
                     {% assign colNum = forloop.index0 %}
                     {% if slot == session.talkid and session.service == null %}
                     <div class="col-12 col-lg">
-                        <div class="session {{ session.type }}">
+                        <div class="session {{ session.type }}" style="{{session.css}}">
                             {% if session.hide %}
                                 <h5>{{session.title}}</h5>
                                 {% if session.type == "keynote" %}<div class="speaker">Yet to be announced</div>{%endif%}
@@ -51,7 +51,7 @@
                     </div>
                     {% elsif slot == session.talkid and session.service != null %}
                     <div class="col-12 col-lg {% if session.hide-on-mobile %}d-none d-lg-block{% endif %} ">
-                        <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}">
+                        <div class="service {{session.type}} {% if session.short %}short{% else %}long{% endif %}" style="{{session.css}}">
                         {% if session.link %} <a href="{{session.link}}" class="session_link">{{ session.title }}</a>
                         {% else %}{{session.title}}{%endif%}
                         </div>

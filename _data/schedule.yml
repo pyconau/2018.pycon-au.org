@@ -9,7 +9,8 @@
     - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43"}
     - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5"}
   timeslots:
-    - { startTime: "09:00",
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
+    - { startTime: "",
         endTime: "09:10",
         duration: 10,
         talkIds: [1001, 1002, 1003, 1004]
@@ -101,11 +102,12 @@
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots:
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "08:30",
         endTime: "09:00",
         duration: 30,
-        talkIds: [899, 404, 404, 404]
+        talkIds: [899, 889, 889, 889]
     }
     - { 
         startTime: "09:00",
@@ -187,6 +189,7 @@
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots:
+    - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "09:00",
         endTime: "10:10",
@@ -245,15 +248,15 @@
     - { startTime: "15:20", endTime: "16:00", talkIds: [503]} 
     - {
         startTime: "16:00",
-        endTime: "16:40",
+        endTime: "17:00",
         duration: 40,
-        talkIds: [994, 404, 404, 404] # Invited Speaker 4
+        talkIds: [997b, 404, 404, 404] # Invited Speaker 4
     }
     - {
-        startTime: "16:40",
-        endTime: "17:40",
+        startTime: "17:00",
+        endTime: "17:30",
         duration: 60,
-        talkIds: [997b, 404, 404, 404] 
+        talkIds: [1000, 404, 404, 404] 
     }
 
 
