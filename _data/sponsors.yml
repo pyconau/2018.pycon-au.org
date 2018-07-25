@@ -210,6 +210,29 @@
         160+ strong reecetech team creates most of its solutions in-house. We develop
         our own POS, websites and apps to deliver exceptional customer experiences.
 
+
+   - name: assurance
+     link: assurance.com.au
+     href: http://www.assurance.com.au
+     twitter: assurance
+     logo: assurance.png
+     blurb: |
+        Assurance is a specialist consultancy providing information security
+        and mobility services for critical infrastructure, financial services, and
+        government organisations.
+        <br><br>
+        Founded in 2005 in Melbourne, Assurance delivers specialist, vendor-neutral
+        threat and risk management services with the backing of a tight-knit team of
+        experienced penetration testers and security researchers.
+        <br><br>
+        As a security consultancy, Assurance takes Python to some interesting places,
+        using it to analyse system security and probe insecure configurations, in
+        addition to a wide variety of day-to-day business tools.
+        <br><br>
+        You can find out more about Assurance's history, staff, and services at
+        <a href="http://www.assurance.com.au">www.assurance.com.au</a>.
+
+
 - 
   title: Contributor ✨
   sponsors:
