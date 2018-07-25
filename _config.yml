@@ -26,7 +26,7 @@ attendLinks:
  - {permalink: '/attend/ticket-tiers', text: "Ticket Tiers"}
  - {permalink: '/attend/shirts', text: "Shirts"}
  - {permalink: '/attend/accomodation', text: "Accomodation"}
- - {permalink: '/attend/badges', text: "Badges"}
+ - {permalink: '/attend/badges/', text: "Badges"}
 
 include: 
  - _pages
