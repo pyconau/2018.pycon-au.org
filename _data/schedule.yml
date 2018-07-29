@@ -5,7 +5,7 @@
   dayShort: "Friday"
   tracks: 
     - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518"}
-    - {title: "C3.2", "track": "DjangoCon AU", "color": "#F36F3A"}
+    - {title: "C3.3", "track": "DjangoCon AU", "color": "#F36F3A"}
     - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43"}
     - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5"}
   timeslots:
@@ -98,7 +98,7 @@
   dayShort: "Saturday"
   tracks: 
     - {title: "Cockle Bay"}
-    - {title: "C3.2"}
+    - {title: "C3.3"}
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots:
@@ -185,7 +185,7 @@
   dayShort: "Sunday"
   tracks: 
     - {title: "Cockle Bay"}
-    - {title: "C3.2"}
+    - {title: "C3.3"}
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots:
@@ -267,7 +267,7 @@
   dayShort: "Monday"
   tracks: 
     - {title: "Cockle Bay"}
-    - {title: "C3.2"}
+    - {title: "C3.3"}
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots: 
@@ -285,7 +285,7 @@
   dayShort: "Tuesday"
   tracks: 
     - {title: "Cockle Bay"}
-    - {title: "C3.2"}
+    - {title: "C3.3"}
     - {title: "C3.4 & C3.5"}
     - {title: "C3.6"}
   timeslots: 
