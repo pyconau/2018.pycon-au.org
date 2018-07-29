@@ -233,6 +233,21 @@
         <a href="http://www.assurance.com.au">www.assurance.com.au</a>.
 
 
+   - name: deception.ai
+     link: deception.ai
+     href: https://deception.ai/
+     logo: deceptionai.png 
+     twitter: deception_ai
+     blurb: | 
+        At deception.ai, we use machine learning in a novel way to detect sophisticated
+        cyber security intruders. We are currently working on python-based solutions
+        that generate highly realistic documents, radio traffic for military forces and
+        user activity. These can be used as stand-alone solutions or enhancements to
+        extend existing systems. deception.ai is part of the Australian cyber security
+        company, Penten, winner of the Telstra ACT Business of the Year. We are
+        currently hiring experienced software engineers.  
+
+
 - 
   title: Contributor ✨
   sponsors:
