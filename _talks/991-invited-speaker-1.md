@@ -25,6 +25,7 @@ description: 'Annie will be speaking on Saturday morning, about her experiences 
 ---
 
 An unprecedented 68.5 million people around the world have been forced from their homes.  
+
 In a world where nearly 1 person is forcibly displaced every 2 seconds as a result of conflict or persecution, programs that support the plight of refugees around the world have never been more important.
 
 Techfugees is a global movement created by leaders from the startup technology community as our contribution towards helping these refugees.

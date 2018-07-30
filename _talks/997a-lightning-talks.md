@@ -19,5 +19,7 @@ abstract: Lightning talks are 5 minute talks. You have 5 minutes. 5 shall be the
 
 More information about the logistics around submitting lightning talks will be made available closer to the conference. 
 
-We will be taking submissions for lightning talks by any talk attendee on any topic. We will not accept sales talks or vendor pitches. 
+We will be taking submissions for lightning talks by any conference attendee on any topic. 
+
+We will not accept sales talks or vendor pitches. 
 
