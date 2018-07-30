@@ -2,6 +2,7 @@
 layout: talk
 talkid: 41003
 type: talk
+track: education
 title: Data is the new shiny thing
 endTime: "10:00"
 
