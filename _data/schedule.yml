@@ -75,7 +75,7 @@
     - { startTime: "16:40",
         endTime: "17:10",
         duration: 30,
-        talkIds: [44208, 43052, 403, 45006]
+        talkIds: [45303, 43052, 403, 45006]
       }
     - { startTime: "17:10", endTime: "17:20", talkIds: [504,505,403,505]} # changeover
     - { startTime: "17:20",
