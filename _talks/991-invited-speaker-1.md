@@ -1,17 +1,40 @@
 ---
 layout: talk
+permalink: /talks/annie
 talkid: 991
 type: keynote
-title: Invited Speaker
-hide: True
+title: Annie Parker
+track: general
+card: annie.png
+speakers:
+    - name: Annie Parker
+      bio: |
+        Annie is a startup ecosystem and community leader. Passionate about diversity and inclusion, and helping wherever she can, Annie is an active angel investor and mentor and loves helping founders achieve their full potential.
+      twitter: annie_parker
+      tag: Invited Speaker
+      url: https://startups.microsoft.com/
+      thumbnailUrl: annie-parker.png
+abstract:  | 
+    Annie is a co-founder of Techfugees Australia - a global movement
+    connecting the technology ecosystem together with newly arrived refugees here
+    in Australia to help them integrate into their new communities.  In this talk,
+    Annie will be sharing her experience of how Techfugees works and some of the
+    success stories they’ve had along the way
+
+description: 'Annie will be speaking on Saturday morning, about her experiences of Techfugees.'
 ---
 
-Cupcake ipsum dolor sit. Amet lemon drops cheesecake. I love gummies cotton candy marzipan lollipop cookie jelly-o. Marzipan cake pastry croissant pudding danish toffee.
+An unprecedented 68.5 million people around the world have been forced from their homes.  
+In a world where nearly 1 person is forcibly displaced every 2 seconds as a result of conflict or persecution, programs that support the plight of refugees around the world have never been more important.
 
-Biscuit fruitcake brownie lemon drops. I love jujubes tiramisu I love cotton candy. Tart bonbon croissant tart. Tootsie roll I love marzipan halvah.
+Techfugees is a global movement created by leaders from the startup technology community as our contribution towards helping these refugees.
 
-Liquorice liquorice chocolate cake croissant. I love tiramisu topping icing fruitcake dragée gummi bears apple pie. Donut brownie macaroon I love I love candy canes sweet roll. Cotton candy marshmallow lollipop soufflé tiramisu croissant marshmallow I love lemon drops.
+Since founding the Techfugees Australia chapter in late 2015, Annie and the team have run a series of meetups, hackathons and technical workshops for newly arrived migrants and refugees to help integrate them into their new lives here in Australia.  
 
-Tart gummi bears jelly beans soufflé. I love liquorice tootsie roll sugar plum carrot cake tiramisu. Muffin cake sweet. I love macaroon I love.
+The approach the Techfugees Australia team have taken to co-design tech solutions is unique, the collaborative approach they have built together with the refugee community and local NGO’s has been something that has been replicated all over the world.  
 
-Chupa chups cake dessert I love fruitcake I love. Chocolate bar cheesecake dessert brownie dessert. Jelly beans I love chocolate chupa chups dessert gummi bears jujubes danish tart.
+Annie will be sharing with us some of her top tips on how we can all support this community going forward, and of course sharing some of the amazing success stories they’ve had along the way too.
+
+By the end of this session, Annie hopes to have reminded you just how much good we can all do with our technical skills, and perhaps have inspired you to want to get involved too.
+
+

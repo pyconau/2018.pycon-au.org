@@ -7,7 +7,7 @@ sponsors: False
         <div class="row">
             <div class="col">
                 <span class="site-heading header-green" style="display: inline-block;">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <h1>{% if page.title %}{% if page.type == "invited" %}{{ page.title | split: "-" | join: "<br>" }}{%else%}{{page.title}}{%endif%}{% else %}{{ site.title }}{% endif %}</h1>
                 </span>
                 {% if page.snake %}
                 <span class="d-none d-lg-inline-block header-serpent"><img alt="Ooh, it's a snake" src="/static/img/header-{{ page.snake }}.png"></span>
