@@ -5,6 +5,7 @@ type: talk
 track: education
 title: Data is the new shiny thing
 endTime: "10:00"
+recordingconsent: false # emailed.
 
 abstract: |
   Data Science is the tag of choice for grant applications, project proposals,

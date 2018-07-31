@@ -1,6 +1,6 @@
 ---
 layout: talk
-recordingconsent: "slides-only"
+recordingconsent: true
 talkid: 45316
 title: Python all the subjects!
 track: education
