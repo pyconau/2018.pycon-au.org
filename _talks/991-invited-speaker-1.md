@@ -6,6 +6,7 @@ type: keynote
 title: Annie Parker
 track: general
 card: annie.png
+recordingconsent: true
 speakers:
     - name: Annie Parker
       bio: |

@@ -6,6 +6,7 @@ type: keynote
 title: Tom Eastman
 track: general
 card: tom.png
+recordingconsent: true
 speakers:
     - name: Tom Eastman
       bio: |
