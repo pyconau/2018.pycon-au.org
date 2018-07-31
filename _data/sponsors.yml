@@ -61,6 +61,15 @@
       href: https://google.com
       blurb: |
         Google’s mission is to organize the world’s information and make it universally accessible and useful.
+
+
+    - name: Elastic
+      logo: elastic.png
+      link: elastic.co
+      twitter: elastic
+      href: https://www.elastic.co/
+      blurb: "Elastic builds Open Source search and analytics tools to help empower users with datasets of any size. We :elasticheart: our users and the communities they take part in, and we are super proud and excited to support PyCon AU!"
+
        
 - title: Sponsors
   sponsors:
