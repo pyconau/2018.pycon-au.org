@@ -256,6 +256,26 @@
         company, Penten, winner of the Telstra ACT Business of the Year. We are
         currently hiring experienced software engineers.  
 
+   - name: yubico
+     link: yubico.com 
+     href: https://www.yubico.com 
+     logo: yubico.png
+     twitter: yubico
+     blurb: | 
+      Yubico sets new global standards for simple and secure access to computers,
+      mobile devices, servers, and internet accounts. The company’s core invention,
+      the YubiKey, delivers strong hardware protection, with a simple touch, across
+      any number of IT systems and online services. The YubiHSM, Yubico’s
+      ultra-portable hardware security module, protects sensitive data stored in
+      servers.  Yubico is a leading contributor to both the FIDO2 and FIDO Universal
+      2nd Factor open authentication standards, and the company’s technology is
+      deployed and loved by 9 of the top 10 internet brands and by millions of users
+      in 160 countries.  Founded in 2007, Yubico is privately held, with offices in
+      Sweden, UK, Germany, USA, Australia, and Singapore. For more information: 
+      <a href="https://www.yubico.com">www.yubico.com</a>
+
+ 
+
 
 - 
   title: Contributor ✨
@@ -264,6 +284,10 @@
       logo: tritium.png
       link: tritium.com.au
       href: https://www.tritium.com.au/
+    - name: Enstaved
+      logo: enstaved.png
+      link: www.enstaved.com
+      href: https://www.enstaved.com/
     - name: Contributor Plug
       logo: contributor.png
       link: Become a Contributor ✨

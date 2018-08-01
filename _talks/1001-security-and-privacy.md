@@ -29,4 +29,4 @@ Talks in this track:
 {% endif %}{% endfor %}
 
 <hr>
-<p align="center">The Security and Privacy Track is seeking a Track Sponsor to help make their event happen.<br>Is that you? <a href="/news/call-for-sponsorship/">Get in touch!</a></p>
+<p align="center">The Security and Privacy Track cannot be run without the generous support of <a href="https://www.yubico.com/">yubico</a><br><br><a href="https://www.yubico.com/"><img src="/static/img/sponsors/yubico.png" style="width: 300px"> </a></p>
