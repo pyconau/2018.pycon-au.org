@@ -274,8 +274,21 @@
       Sweden, UK, Germany, USA, Australia, and Singapore. For more information: 
       <a href="https://www.yubico.com">www.yubico.com</a>
 
- 
-
+   - name: Stripe
+     link: stripe.com/jobs
+     href: https://stripe.com/jobs#location=melbourne
+     twitter: stripeaustralia
+     logo: stripe.png
+     blurb: | 
+      Stripe is a technology company that builds economic infrastructure for
+      the internet. Businesses of every size -- from new startups to public companies
+      like Salesforce and Facebook -- use the company's software to accept online
+      payments and run technically sophisticated financial operations in more than
+      100 countries. Stripe helps new companies get started and grow their revenues,
+      and established businesses accelerate into new markets and launch new
+      business models. Over the long term, Stripe aims to increase the GDP of the
+      internet.<br><br> Also, if you're looking for new engineering opportunities
+      we'd love to chat with you!
 
 - 
   title: Contributor ✨
