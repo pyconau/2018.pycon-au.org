@@ -32,7 +32,7 @@ There will be signage and ushers on the ground level directing you to the escala
 
 <img src="/static/img/venuemap.png"  class="img-fluid"  style="padding: 6em" alt="Venue Map"/>
 
-Childcare will be in room C4.2, on Level 3, which is accessible via the lifts near the Quiet Room (C3.1). 
+Childcare will be in room C4.2, on Level 4, which is accessible via the lifts near the Quiet Room (C3.1). 
 
 The Quiet Room in C3.1 is a designated quiet space. Please use this room for quiet activity. We ask you do not have loud conversations, or take phone calls, in this space. 
 
