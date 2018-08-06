@@ -338,6 +338,10 @@
       logo: enstaved.png
       link: www.enstaved.com
       href: https://www.enstaved.com/
+    - name: Cochlear
+      logo: cochlear.jpg
+      link: careers.cochlear.com
+      href: http://careers.cochlear.com/cw/en/listing/
     - name: Contributor Plug
       logo: contributor.png
       link: Become a Contributor ✨
