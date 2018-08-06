@@ -70,6 +70,30 @@
       href: https://www.elastic.co/
       blurb: "Elastic builds Open Source search and analytics tools to help empower users with datasets of any size. We :elasticheart: our users and the communities they take part in, and we are super proud and excited to support PyCon AU!"
 
+
+    - name: AWS
+      logo: aws.png
+      twitter: AmazonAustralia
+      link: bit.ly/AMZN_PyConAU
+      href: http://bit.ly/AMZN_PyConAU
+      blurb: | 
+        Amazon Web Services is the earth’s most customer centric company. In Sydney, we
+        have sizable software and networking engineering teams, owning global services
+        and software problems. We use Python to build, support, and scale AWS services
+        and the network where we aim to inspire developers to build and innovate. We
+        are focused on scaling ahead of customer demand to continue delighting our
+        customers. Amazon was recently voted one of the best places to work.
+        <br><br>
+        Come find us in the breaks at PyCon AU and ask us for some more details around
+        the problems we’re trying to solve. We look forward to meeting you during
+        PyCon AU!
+        <br><br>
+        If you’re a developer or engineer with Python skills and want to have
+        global impact, check out our open Sydney based positions - <a
+        href="http://bit.ly/AMZN_PyConAU">http://bit.ly/AMZN_PyConAU</a>.<br><br>We're pleased
+        to offer AWS credits to PyCon AU - <a
+        href="http://bit.ly/AMZNDevCredits">http://bit.ly/AMZNDevCredits</a>
+
        
 - title: Sponsors
   sponsors:
