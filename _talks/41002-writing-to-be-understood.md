@@ -5,7 +5,7 @@ type: talk
 track: django
 title: Writing To Be Understood
 endTime: "10:00"
-recordingconsent: false # Adam to ask.
+recordingconsent: true
 
 abstract: | 
   As developers, we write a lot more than just code. We write commit messages; we
