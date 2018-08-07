@@ -325,7 +325,22 @@
       grow their business. To achieve this, we have hand-selected over 250 of the
       brightest people, gathered deep market insights and developed a full spectrum
       of commercialization capability to help us build the future.
-          
+ 
+
+   - name: Divio
+     twitter: divio
+     link: divio.com
+     href: https://www.divio.com/?utm_source=website&utm_medium=sponsor&utm_campaign=pycon-au&utm_content=divioisbuiltfordjango
+     logo: divio.png
+     blurb: | 
+      Divio is a platform for running your Django projects.
+      <br><br>
+      We get you going faster with Django optimised hosting, developer tools and
+      pre-configured projects including django CMS and Wagtail.
+      <br><br>
+      What can we do for you? <a href="https://www.divio.com/?utm_source=website&utm_medium=sponsor&utm_campaign=pycon-au&utm_content=divioisbuiltfordjango">Find out more.</a>
+ 
+
 
 - 
   title: Contributor ✨
