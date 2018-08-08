@@ -13,6 +13,7 @@ To sign up for child care, please:
  * go to the [Tickets Page](/attend/tickets) and purchase the appropriate amount of childcare tickets (one per child, per day), *and then also*
  * fill out [this Child Care Details form](https://docs.google.com/forms/d/1pSLyqz0CULP7iDSwV-seynE8ACTfDUycoDVpq1Bev4A) to give us details about the children attending child care.
 
+Child care places are limited and will be allocated on a first-come-first-served basis.
 
 We will be closing registrations for child care at the same time as our general ticket sales: 11:59pm Sunday August 19, AEST (Sydney Time). 
 
