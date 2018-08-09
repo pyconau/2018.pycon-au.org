@@ -4,14 +4,14 @@
   dayTitle: "Specialist Track Day"
   dayShort: "Friday"
   tracks: 
-    - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518"}
-    - {title: "C3.3", "track": "DjangoCon AU", "color": "#F36F3A"}
-    - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43"}
-    - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5"}
+    - {title: "Cockle Bay", "track": "Security and Privacy", "color": "#FFC518", slug: "Cockle-Bay"}
+    - {title: "C3.3", "track": "DjangoCon AU", "color": "#F36F3A", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", "track": "Education", "color": "#E01D43", slug: "C3.4-C3.5"}
+    - {title: "C3.6", "track": "Internet of Things", "color": "#5B57A5", slug: "C3.6"}
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
-    - { startTime: "",
-        endTime: "09:10",
+    - { startTime: "09:00",
+        endTime: "09:15",
         duration: 10,
         talkIds: [1001, 1002, 1003, 1004]
       }
@@ -97,10 +97,10 @@
   dayTitle: "Main Conference Day One"
   dayShort: "Saturday"
   tracks: 
-    - {title: "Cockle Bay"}
-    - {title: "C3.3"}
-    - {title: "C3.4 & C3.5"}
-    - {title: "C3.6"}
+    - {title: "Cockle Bay", slug: "Cockle-Bay"}
+    - {title: "C3.3", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
+    - {title: "C3.6", slug: "C3.6"}
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
@@ -115,7 +115,7 @@
         duration: 15,
         talkIds: [990a, 404, 404, 404]
     }
-    - { startTime: "9:15",
+    - { startTime: "09:15",
         endTime: "10:00",
         duration: 45,
         talkIds: [991, 404, 404, 404] # Invited Speaker 1
@@ -184,23 +184,23 @@
   dayTitle: "Main Conference Day Two"
   dayShort: "Sunday"
   tracks: 
-    - {title: "Cockle Bay"}
-    - {title: "C3.3"}
-    - {title: "C3.4 & C3.5"}
-    - {title: "C3.6"}
+    - {title: "Cockle Bay", slug: "Cockle-Bay"}
+    - {title: "C3.3", slug: "C3.3"}
+    - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
+    - {title: "C3.6", slug: "C3.6"}
   timeslots:
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "09:00",
-        endTime: "10:10",
-        duration: 70,
+        endTime: "09:10",
+        duration: 10,
         talkIds: [990b, 404, 404, 404]
     }
     - { 
         startTime: "09:10",
         endTime: "10:00",
-        duration: 70,
-        talkIds: [993, 404, 404, 404] # Invited Speaker 3
+        duration: 50,
+        talkIds: [993, 404, 404, 404]
     }
     - { startTime: "10:00", endTime: "10:30", talkIds: [501] } # morning tea
     - {
