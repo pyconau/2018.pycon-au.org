@@ -9,7 +9,9 @@ sponsors: true
 ---
 <script src='https://js.tito.io/v1' async></script>
 
-<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2018">in a new window.</a><br><br>Purchase your ticket before <b>August 4 2018</b> to secure your PyCon AU 2018 shirt! (if included in your ticket)<br><br> <a href="/attend/ticket-tiers">More information about ticket inclusions</a>. Please note our <a href="#terms-and-conditions">Terms and Conditions</a>. </span>
+<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2018">in a new window.</a><br><br>Please note that new orders that include shirts <b>can no longer be guarenteed</b>
+<br>Please note ticket sales will close <b>Sunday August 19 2018, 11:59pm AEST (Sydney Time)</b>, or when sold out. 
+<br><a href="/attend/ticket-tiers">More information about ticket inclusions</a>. Please note our <a href="#terms-and-conditions">Terms and Conditions</a>. </span>
 <hr>
 
 <tito-widget event="pycon-au/2018"></tito-widget>
