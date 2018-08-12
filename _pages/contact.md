@@ -9,7 +9,6 @@ sponsors: true
 Is there something you would like to know that isn't on this site? We have multiple contact methods, with email being preferred.
 
 * Email: [contact@pycon-au.org](mailto:contact@pycon-au.org)
-* Phone: 1300 564 998 or +61 2 9056 0889
 * Twitter: [@pyconau](https://twitter.com/pyconau), hashtag `#pyconau`
 * Facebook: [PyConAustralia](https://www.facebook.com/PyConAustralia/) 
 * Mailing list: [pyconau announce mailing list](http://lists.linux.org.au/mailman/listinfo/pycon-au-announce).
