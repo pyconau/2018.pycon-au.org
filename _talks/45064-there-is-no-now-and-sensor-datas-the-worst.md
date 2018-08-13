@@ -24,6 +24,7 @@ abstract: In this interactive presentation the audiences phones will be used as 
 ---
 Data collection within the Internet of Things is often misunderstood, especially when coming to it for the first time. These issues can be especially hard to visualise. This interactive presentation aims to highlight these issues first hand.
 
-Audience members will be asked to go to a webpage on their phone that reads accelerometer data and transmits it to the presentation. This data will then be used to highlight the issues of signal noise and what happens when all the data is not received at once and not perfectly in time.
+Audience members will be asked to go to a webpage on their phone that reads accelerometer data and transmits it to the presentation. This data will then be used to highlight the issues of collecting a processing data from distributed sensors - what happens when all the data is not received at once and not perfectly in time? what happens if there is an outage? How do you turn all this noise into something tha t can be managed?
 
-Techniques for dealing with these problems will then be demonstrated to find some beauty amongst the data as we process it into a signal that can be used.
+Techniques for dealing with these problems will then be demonstrated to find some beauty amongst the data as we process it into a signal that can be used and deal with failures.
+
