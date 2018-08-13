@@ -7,10 +7,9 @@ track: django
 type: talk
 
 speakers:
-- bio: "Rivo Laks is an experienced software developer and systems architect.\r\n\r\
-    \nDjango developer since 2011. Interested in React, Docker and many other technologies\
-    \ surround web development.\r\n\r\nCurrently Lead Engineer of Thorgate - an Estonian\
-    \ product development agency, working with lots of Django."
+- bio: "Rivo Laks is an experienced software developer and systems architect.\r\n\r\n
+      Django developer since 2011. Interested in React, Docker and many other technologies surrounding web development.\r\n\r\n
+      Ex-Thorgate, currently on sabbatical and looking for new opportunities."
   company: Thorgate
   name: Rivo Laks
   thumbnailUrl: rivo-laks.png
