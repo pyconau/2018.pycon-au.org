@@ -2,7 +2,7 @@
 layout: talk
 recordingconsent: true
 talkid: 45386
-title: Guide to your own artificial intelligence application in easy 3 steps
+title: Guide to your own artificial intelligence application in 3 easy steps
 track: general
 type: talk
 
