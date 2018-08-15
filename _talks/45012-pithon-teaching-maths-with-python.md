@@ -19,19 +19,18 @@ speakers:
   url: ''
 
 abstract: Mathematics and programming often go hand in hand, but aren't always equally
-  loved by students. I believe that not only can Python be a fantastic tool for teaching
+  loved by students. I believe that Python can be a fantastic tool for teaching
   mathematical concepts, but also that mathematical inquiry can be a starting point
   for developing a wider interest in programming.
 ---
-Maths and programming are both areas of study which are often considered difficult, or met with some level of stigma within schools. Hopefully by using each to compliment the other, it doesn't always have to be this way!
+Maths and programming are both areas of study which are often considered difficult, or met with some level of stigma within schools. Hopefully by using each to complement the other, it doesn't always have to be this way!
 
-Throughout this talk, I'll walk through demonstrations of how programming can be used to teach some common mathematical concepts, and why Python is such a great tool for the job! Some examples to explore are:
-
+Let's dive in and take a look at how programming can be used to learn about some common mathematical concepts, and why Python is such a great tool for the job! Some examples we'll explore are:
 - Set theory
-- Linear algebra
 - Combinatorics
-- Probability and statistics
-- Simulation and modelling
-- Data visualisation
+- Linear algebra
+- Simulation and data visualisation
 
-I'll also share some of my thoughts on the way in which we go about presenting these topics to students, how to encourage inquisition and experimentation, but also how to set expectations and manage difficulty levels.
+I'll also share some of my thoughts on how we go about presenting these topics to students, how to encourage inquisition and experimentation, and also how to set expectations and manage difficulty levels.
+
+This talk is suitable for all levels of experience in both maths and programming, no prior knowledge assumed or required!
