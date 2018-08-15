@@ -13,7 +13,10 @@
       <div class="col-1">&nbsp;</div>
       {% for track in day.tracks %}
       <div class="col d-none d-lg-block">
-          <h5 class="track-header">{{ track.title }}</h5>
+          <h5 class="track-header">
+            {% if track.slug %}<a href="{{ page.permalink}}/{{ track.slug }}">{{ track.title }}</a>
+            {% else %}{{ track.title }}{% endif %}
+          </h5>
       </div>
       {% endfor %}
   </div>
