@@ -11,13 +11,15 @@ speakers:
     \ organizer. He has years of experience running volunteer-led conferences, starting\
     \ with PyCon Australia, then as director of linux.conf.au 2017. Currently he leads\
     \ North Bay Python, a single-track community Python conference run out of a live\
-    \ music venue in Petaluma, California, where he now lives. \r\n\r\nFor his day\
-    \ job, Christopher is a Software Engineer at Shutterstock, Inc, working on a distributed\
-    \ team of image search and discovery specialists. Christopher is an advocate within\
-    \ the Australian and International Python communities, is on the steering committee\
-    \ for PyCon Australia, serves on the Python Software Foundation's Grants Working\
-    \ Group, is a past board member of Linux Australia, and has been a fellow of the\
-    \ Python Software Foundation since 2013."
+    \ music venue in Petaluma, California, where he now lives. \r\n\r\n
+      For his day job, Christopher is a Senior Software Engineer at Shutterstock,
+      Inc, building tools that provide organizations with access to knowledge that’s
+      dispersed and underutilized. Christopher is an advocate within the Australian
+      and International Python communities, is on the steering committee for PyCon
+      Australia, serves on the Python Software Foundation’s Grants Working Group, is
+      a past board member of Linux Australia, and has been a fellow of the Python
+      Software Foundation since 2013."
+
   company: North Bay Python / Shutterstock, Inc
   name: Christopher Neugebauer
   thumbnailUrl: christopher-neugebauer.png
