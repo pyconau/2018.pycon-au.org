@@ -26,6 +26,13 @@ From Central Station take:
  
 [Go to Google Maps - Directions to ICC](https://www.google.com.au/maps/dir//ICC+Sydney,+14+Darling+Dr,+Sydney+NSW+2000/)
 
+### Catering
+
+On the Friday, Saturday and Sunday, morning tea, lunch, and afternoon tea will be provided for attendees. Those who have indicated dietary requirements will be catered for by the venue with special meals. 
+
+Only morning and afternoon tea will be catered for the Development Sprints. Lunch can be acquired at many local restaurants, or the food court at Harbourside shopping centre. 
+
+
 ### Venue Map
 
 There will be signage and ushers on the ground level directing you to the escalators to Level 3. We will be holding the opening and closing day events in the Cockle Bay room, and tracks in the rooms around this area. 
