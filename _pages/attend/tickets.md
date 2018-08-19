@@ -12,8 +12,8 @@ sponsors: true
 <hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2018">in a new window.</a>
 <br>
 <br>
-Tickets for PyCon AU are now sold out. There are still spaces for existing attendees for our <a href="/sprints">Development Sprints</a>
-<br><a href="/attend/ticket-tiers">More information about ticket inclusions</a>. Please note our <a href="#terms-and-conditions">Terms and Conditions</a>. </span>
+Tickets for PyCon AU are now sold out.
+<br><br><a href="/attend/ticket-tiers">More information about ticket inclusions</a>. Please note our <a href="#terms-and-conditions">Terms and Conditions</a>. </span>
 <hr>
 
 <tito-widget event="pycon-au/2018"></tito-widget>
