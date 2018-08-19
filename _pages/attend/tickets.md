@@ -9,8 +9,10 @@ sponsors: true
 ---
 <script src='https://js.tito.io/v1' async></script>
 
-<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2018">in a new window.</a><br><br>Please note that new orders that include shirts <b>can no longer be guarenteed</b>
-<br>Please note ticket sales will close <b>Sunday August 19 2018, 11:59pm AEST (Sydney Time)</b>, or when sold out. 
+<hr><span class="abstract">Tickets can be purchased below in the widget, or <a href="https://ti.to/pycon-au/2018">in a new window.</a>
+<br>
+<br>
+Tickets for PyCon AU are now sold out. There are still spaces for existing attendees for our <a href="/sprints">Development Sprints</a>
 <br><a href="/attend/ticket-tiers">More information about ticket inclusions</a>. Please note our <a href="#terms-and-conditions">Terms and Conditions</a>. </span>
 <hr>
 
