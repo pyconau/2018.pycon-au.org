@@ -4,6 +4,10 @@ talkid: 45001
 title: The Panel
 track: security
 type: talk
+endTime: "18:00"
+
+speakers:
+    - name: Various Speakers
 
 abstract: Your questions answered by select speakers from the day!
 ---
