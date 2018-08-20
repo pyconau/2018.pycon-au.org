@@ -2,7 +2,7 @@
 layout: talk
 recordingconsent: true
 talkid: 45196
-title: Glass Half Empty
+title: "Django Against the Dark Arts"
 track: django
 type: talk
 endTime: "18:05"
@@ -21,14 +21,8 @@ speakers:
   twitter: "attacus_au"
   url: https://attacus.net
 
-abstract: 'Django is a robust framework by design, and embodies many good security
-  practices. But why and how do Django sites get hacked anyway? What can we do about
-  it? And why are astronauts involved?
-
-
-  Come and learn how pessimism can be optimistic, complexity can be simple, and fear
-  can be a friend.'
+abstract: Django is a robust framework by design, and embodies many good security practices. But why and how do Django sites get hacked anyway? What can we do about it? And why are wizards involved?
 ---
-Django is a robust framework by design, and embodies many good security practices. But why and how do Django sites get hacked anyway? What can we do about it? And why are astronauts involved?
+Come and learn how to defend your Django app by taking a deep dive into the defences implemented by Professor Dumbledore against Lord Voldemort and his cronies. We'll examine threat modelling, defence in depth, disaster recovery, mitigating common vulnerabilities, and how to avoid your best efforts being bypassed by an eleven-year-old with a keyboard or a copy of "Hogwarts, A History".
 
-Come and learn how pessimism can be optimistic, complexity can be simple, and fear can be a friend.
+Warning: this talk will contain spoilers for the Harry Potter books.
