@@ -3,22 +3,23 @@
 {% assign first_time = true %}
 {
   "schedule": [
-{% for day in site.data.schedule %}
-{% assign dayloop = forloop %}
-{% for time_slot in day.timeslots %}
-    {% assign the_end = forloop.last %}
-
-    {% assign talk = null %}
-    {% for talk_id in time_slot.talkIds %}
-      {% assign track = site.data.schedule[dayloop.index0].tracks[forloop.index0] %}
-      {% for session in site.talks %}{% if talk_id == session.talkid and session.service == null %}{% assign talk = session %}{% endif %}{% endfor %}
-      {% if talk == null or talk_id == 404 or talk_id == 403 or talk.type == "sprints" %}{% continue %}{% endif %}
-      {% if first_time == false %},{% endif %}{% assign first_time = false %}
+{%- for day in site.data.schedule -%}
+{%- assign dayloop = forloop -%}
+{%- for time_slot in day.timeslots -%}
+    {%- assign the_end = forloop.last -%}
+    {%- assign talk = null -%}
+    {%- for talk_id in time_slot.talkIds -%}
+      {%- assign track = site.data.schedule[dayloop.index0].tracks[forloop.index0] -%}
+      {%- for session in site.talks %}{% if talk_id == session.talkid and session.service == null %}{% assign talk = session %}{% endif -%}{% endfor -%}
+      {%- if talk == null or talk_id == 404 or talk_id == 403 or talk.type == "sprints" %}{% continue %}{% endif %}
+      {%- if first_time == false %},{% endif %}{% assign first_time = false -%}
+      {%- assign endTime = time_slot.endTime %}
+      {%- if talk.endTime %}{% assign endTime = talk.endTime %}{%endif%}
       {
         "room": "{{ track.title }}",
         "rooms": ["{{ track.title }}"],
         "start": "{{ day['date'] }}T{{ time_slot.startTime }}:00",
-        "end": "{{ day['date'] }}T{{ time_slot.endTime }}:00",
+        "end": "{{ day['date'] }}T{{ endTime }}:00",
         "duration": {{ time_slot.duration }},
         "track": "{{ track.track }}",
         "conf_key": "{{ talk_id }}",
@@ -36,9 +37,6 @@
           {% for speaker in talk.speakers %}"{{ speaker.twitter }}"{% if forloop.last == false %},
           {% endif %}{% endfor %}
         ]
-      }
-    {% endfor %}{% endfor %}{% endfor %}
+      }{%- endfor -%}{% endfor %}{% endfor -%}
   ]
 }
-
-
