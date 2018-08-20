@@ -361,11 +361,10 @@
       logo: orchid_systems.jpg
       link: www.orchid.systems
       href: https://www.orchid.systems
-    - name: Contributor Plug
-      logo: contributor.png
-      link: Become a Contributor ✨
-      href: https://2018.pycon-au.org/attend/ticket-tiers#contributor
-
+    - name: Odoo Community Association
+      logo: oca.png
+      link: odoo-community.org
+      href: https://odoo-community.org/
 
 - 
   title: Auspice
