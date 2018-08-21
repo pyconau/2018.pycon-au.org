@@ -7,20 +7,19 @@ track: general
 type: talk
 
 speakers:
-- bio: "## Bio\r\nLuka Steric is a Software Engineer at Facebook. He joined the London\
-    \ office in 2016 after receiving his Master\u2019s Degree in Computer Science\
-    \ from the University of Zagreb (Croatia). During his time in university his focus\
-    \ was mainly on bioinformatics, especially next-gen DNA sequence assemblers. Before\
-    \ joining Facebook he interned at the Genome Institute of Singapore and at the\
-    \ International Monetary Fund in Washington DC. He is now part of the Dumont team\
-    \ and works on automated x-repo testing, scenario verification and product monitoring.\
-    \ He is also an Open Source contributor to various Python projects like Typeshed\
-    \ and Black.\r\n\r\n## Why am I a good person to talk about Python typing?\r\n\
-    \r\n* led the 2to3 migration for my team at FB and started our typing initiative,\
-    \ we were the first team in the London office to adopt typing\r\n* contributed\
-    \ to the [Typeshed](https://github.com/python/typeshed) and to [Black](https://github.com/ambv/black)\r\
-    \n* worked on [MonkeyType](https://github.com/Instagram/MonkeyType) for fbcode,\
-    \ the Facebook backend\r\n\r\n"
+- bio: | 
+    Luka Steric is a Software Engineer at Facebook. He joined the London
+    office in 2016 after receiving his Master’s Degree in Computer Science
+    from the University of Zagreb (Croatia). During his time in university
+    his focus was mainly on bioinformatics, especially next-gen DNA
+    sequence assemblers. Before joining Facebook he interned at the Genome
+    Institute of Singapore and at the International Monetary Fund in
+    Washington DC. He is now part of the Dumont team and works on
+    automated x-repo testing, scenario verification and product
+    monitoring. He is also an Open Source contributor to various Python
+    projects like Typeshed and Black.
+
+
   company: Facebook
   name: Luka Sterbic
   thumbnailUrl: luka-sterbic.png
