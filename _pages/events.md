@@ -18,13 +18,13 @@ There are several types of events that we have provided space for you to organis
 
 Open Spaces (also known as Birds of a Feather (BoF) sessions) are a way for conference attendees to self-organise around shared topics and interests. These sessions often run for half an hour to an hour, and can cover topics as broad as LGBTQI meet-and-greets, microPython enthusiasm, Python in games, or sewing pockets into clothing. You are only limited by your imagination!
 
-Open Spaces are usually held in the hallways of the conference venue, or occasionally in a lecture room if there are no active talks at that time (e.g. during lunch breaks).
+Open Spaces are usually held in the hallways of the conference venue, or occasionally in a lecture room if there are no active talks at that time (e.g. during lunch breaks). 
 
 ### How do I run an Open Space?
 
 You can organise an Open Space in the #openspaces channel in the attendee Slack. You can also tweet about your Open Space using the #pyconau hashtag.
 
-Choose a place in the conference venue where 10-20 people could comfortably gather and hold a discussion without disturbing others. The ICC, our venue, has large hallways that should be able to host several clusters of Open Spaces at one time.
+Choose a place in the conference venue where 10-20 people could comfortably gather and hold a discussion without disturbing others. ICC has large hallways that should be able to host several clusters of Open Spaces at one time. We have exclusive use of Level 3 of the ICC, and there are some common areas on the ground floor with seating areas. Any other room in the venue is contracted out to other events, so please do not wander the building looking for space.
 
 Sometimes nearby cafés are also a good place for Open Spaces. Just make sure they are close enough that people can get back to the venue in time for the next talk.
 
