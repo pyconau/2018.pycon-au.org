@@ -3,7 +3,7 @@ layout: talk
 type: event
 talkid: 600
 title: PyLadies Breakfast
-abstract: The PyLadies breakfast is an opportunity for all women (including cis/trans/non-binary), pythonistas to meet. Men as +1s are also welcome to attend.
+abstract: The PyLadies breakfast is an opportunity for all women (including cis/trans/non-binary) pythonistas to meet. Men as +1s are also welcome to attend.
 short: true
 service: true
 link: /talks/600-pyladies-breakfast/
