@@ -2,7 +2,7 @@
 layout: talk
 recordingconsent: true
 talkid: 45247
-title: Creepy, frivolous and beautiful art made with machines
+title: Creepy, frivolous and beautiful art made with machines (CW)
 track: general
 type: talk
 
@@ -32,4 +32,7 @@ abstract: An exploration of digital art looking at the uses of machine learning 
   networks and what can we create? From the frivolous to the beautiful, what does
   art created by computers look like and where can it take us?
 ---
+**Content warning (CW)**: this talk contains potentially upsetting or disorientating pattern configurations, and censored artful nudity.
+
+
 Most people are aware of the impact machine learning will have on jobs, on the future of research and autonomous machines, but few seem to be aware of the future role machine learning could play in the creative arts, in visual art and music. What will art be like when artists and musicians routinely work collaboratively with machines to create new and interesting artworks? What can we learn from art created using neural networks and what can we create? From the frivolous to the beautiful what does art created by computers look like and where can it take us? This talk will explore magenta in tensorflow and neural style in caffe, google deep dream, and convolutional neural networks, generative adversarial networks and more. I will look into some of the beautiful applications of machine learning in art and some of the ridiculous ones as well.
