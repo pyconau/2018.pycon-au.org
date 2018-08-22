@@ -12,7 +12,6 @@ speakers:
     a few years ago, Tim has worked on a variety of Django projects for both the private
     and public sector. Tim has worked as a mentor at DjangoGirls, and loves to help
     people discover Python and Django.
-  company: ACMA
   name: Tim Bell
   thumbnailUrl: tim-bell.png
   twitter: timb07

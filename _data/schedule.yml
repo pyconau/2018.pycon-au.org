@@ -129,8 +129,8 @@
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - {
-    	startTime: "11:10",
-    	endTime:   "11:40",
+        startTime: "11:10",
+        endTime:   "11:40",
         duration: 30,
         talkIds: [45261, 45073, 45005, 45178]
     }
@@ -144,8 +144,8 @@
     - { startTime: "12:20", endTime: "13:30", talkIds: [502]} 
 
     - {
-    	startTime: "13:30",
-    	endTime:   "14:00",
+        startTime: "13:30",
+        endTime:   "14:00",
         duration: 30,
         talkIds: [404, 45205, 45211, 45247]
     }
@@ -211,8 +211,8 @@
     }
     - { startTime: "11:00", endTime: "11:10", talkIds: [504]} # changeover
     - {
-    	startTime: "11:10",
-    	endTime:   "11:40",
+        startTime: "11:10",
+        endTime:   "11:40",
         duration: 30,
         talkIds: [41793, 43077, 45282, 45226]
     }
@@ -226,8 +226,8 @@
     - { startTime: "12:20", endTime: "13:30", talkIds: [502]} 
 
     - {
-    	startTime: "13:30",
-    	endTime:   "14:00",
+        startTime: "13:30",
+        endTime:   "14:00",
         duration: 30,
         talkIds: [44811, 45228, 45184, 45392]
     }
