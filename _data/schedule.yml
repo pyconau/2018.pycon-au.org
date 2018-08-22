@@ -102,6 +102,7 @@
     - {title: "C3.4 & C3.5", slug: "C3.4-C3.5"}
     - {title: "C3.6", slug: "C3.6"}
   timeslots:
+    - { startTime: "07:00", endTime: "08:00", duration: 60, talkIds: [600]} 
     - { startTime: "08:00", endTime: "09:00", duration: 60, talkIds: [888]} 
     - { 
         startTime: "08:30",
