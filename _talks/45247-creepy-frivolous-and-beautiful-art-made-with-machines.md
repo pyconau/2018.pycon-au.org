@@ -25,7 +25,7 @@ speakers:
   name: J. Rosenbaum
   thumbnailUrl: j-rosenbaum.png
   twitter: Minxdragon
-  url: http://ww.jennierosenbaum.com
+  url: http://www.jennierosenbaum.com
 
 abstract: An exploration of digital art looking at the uses of machine learning and
   how it impacts the future of art. What can we learn from art created using neural
