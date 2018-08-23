@@ -25,6 +25,39 @@ comfortable and included.
 
 We value your participation and appreciate your help in realising this goal.
 
+## Safety team contacts
+
+If at any time during the conference you feel unsafe or want to report questionable behaviour, please contact a member of the safety team.
+
+#### Send SMS or Call: 0411 707 796
+
+Find any volunteer or organiser (green lanyard or green bandana) who will direct you to one of the following people, who you can also message or email directly.
+
+#### Katie Bell
+**Twitter**: [@notsolonecoder](https://twitter.com/notsolonecoder)<br>
+**Email:** katie@katharos.id.au<br>
+**PyConAU Slack:** Katie Bell
+
+#### Russell Keith-Magee
+**Email:** russell@keith-magee.com<br>
+**PyConAU Slack:** freakboy3742
+
+#### Amber Brown ("HawkOwl")
+**Twitter:** [@hawkieowl](https://twitter.com/hawkieowl)<br>
+**Email:** hawkowl@atleastfornow.net<br>
+**PyConAU Slack:** Amber Brown (HawkOwl)
+
+#### Rachel Bunder
+**Twitter:** [@ADuckIsMyFiend](https://twitter.com/ADuckIsMyFiend)<br>
+**Email:** rachelbunder@gmail.com<br>
+**PyConAU Slack:** Rachel
+
+#### Peter Ward
+**Twitter:** [@flowblok](https://twitter.com/flowblok)<br>
+**Email:** pyconau@flowblok.id.au<br>
+**PyConAU Slack:** flowblok
+
+
 ## Be respectful
 
 Respect yourself, and respect others. Be courteous to those around you. If
