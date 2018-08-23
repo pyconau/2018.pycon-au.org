@@ -45,7 +45,7 @@ Find any volunteer or organiser (green lanyard or green bandana) who will direct
 #### Amber Brown ("HawkOwl")
 **Twitter:** [@hawkieowl](https://twitter.com/hawkieowl)<br>
 **Email:** hawkowl@atleastfornow.net<br>
-**PyConAU Slack:** Amber Brown ("HawkOwl")
+**PyConAU Slack:** Amber Brown (HawkOwl)
 
 #### Rachel Bunder
 **Twitter:** [@ADuckIsMyFiend](https://twitter.com/ADuckIsMyFiend)<br>
