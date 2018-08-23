@@ -177,6 +177,11 @@
         duration: 60,
         talkIds: [997a, 404, 404, 404] 
     }
+    - {
+        startTime: "17:40",
+        endTime: "18:20",
+        talkIds: [601] 
+    }
 
 
 - 
