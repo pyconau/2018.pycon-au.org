@@ -34,8 +34,8 @@ If at any time during the conference you feel unsafe or want to report questiona
 Find any volunteer or organiser (green lanyard or green bandana) who will direct you to one of the following people, who you can also message or email directly.
 
 #### Katie Bell
-**Email:** katie@katharos.id.au<br>
 **Twitter**: [@notsolonecoder](https://twitter.com/notsolonecoder)<br>
+**Email:** katie@katharos.id.au<br>
 **PyConAU Slack:** Katie Bell
 
 #### Russell Keith-Magee
@@ -43,12 +43,19 @@ Find any volunteer or organiser (green lanyard or green bandana) who will direct
 **PyConAU Slack:** freakboy3742
 
 #### Amber Brown ("HawkOwl")
+**Twitter:** [@hawkieowl](https://twitter.com/hawkieowl)<br>
 **Email:** hawkowl@atleastfornow.net<br>
-**Twitter:** [@hawkieowl](https://twitter.com/hawkieowl)
+**PyConAU Slack:** Amber Brown (HawkOwl)
 
 #### Rachel Bunder
 **Twitter:** [@ADuckIsMyFiend](https://twitter.com/ADuckIsMyFiend)<br>
+**Email:** rachelbunder@gmail.com<br>
 **PyConAU Slack:** Rachel
+
+#### Peter Ward
+**Twitter:** [@flowblok](https://twitter.com/flowblok)<br>
+**Email:** pyconau@flowblok.id.au<br>
+**PyConAU Slack:** flowblok
 
 
 ## Be respectful
