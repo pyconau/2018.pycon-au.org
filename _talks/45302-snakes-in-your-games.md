@@ -9,7 +9,7 @@ type: talk
 speakers:
 - bio: 'Ducky is an enthusiastic and often smiley person. An interest in everything
     and a passion for augmented reality, games, and having a positive impact fuels
-    their bounciness. Originally from Tasmania, NZ, Ducky accidentally moved to the
+    their bounciness. Originally from Tasmania, Ducky accidentally moved to the
     other side of the world in 2017. This hasn''t changed much, except added an additional
     language to learn, and extra joy for visiting Australia, especially to see the
     pyconau community. '
