@@ -36,7 +36,7 @@ team:
 
 ## Important Information
 
-PyCon AU 2018 will be held in Sydney, Australia, at the [International Convention Center, Sydney](https://www.iccsydney.com.au)
+PyCon AU 2018 will be held in Sydney, Australia, at the [International Convention Centre, Sydney](https://www.iccsydney.com.au)
 
 - August 24: Specialist Tracks
 - August 25-26: Conference Main Track 

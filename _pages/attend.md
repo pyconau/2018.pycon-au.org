@@ -12,7 +12,7 @@ sponsors: true
 ### Location
 
 All of PyCon AU will be held at the [International Convention
-Center](https://www.iccsydney.com.au/about-icc-sydney), in Sydney's Darling
+Centre](https://www.iccsydney.com.au/about-icc-sydney), in Sydney's Darling
 Harbour. We'll be using the Cockle Bay room for our full-conference
 presentations, and other rooms on Level 3 for our tracks. 
 
@@ -21,7 +21,7 @@ The venue will have digital signage directing attendees to the conference.
 #### Getting to ICC
 
 From Central Station take:
- * a light-rail tram to Convention Center. Upon arrival from Central, the ICC will be on your right.
+ * a light-rail tram to Convention Centre. Upon arrival from Central, the ICC will be on your right.
  * a train to Town Hall, then walk ~15 minutes downhill (west on Druitt St), contining towards Cockle Bay/Darling Harbour. A lift/staircase will take you down to the harbour, and we are across the bay
  
 [Go to Google Maps - Directions to ICC](https://www.google.com.au/maps/dir//ICC+Sydney,+14+Darling+Dr,+Sydney+NSW+2000/)

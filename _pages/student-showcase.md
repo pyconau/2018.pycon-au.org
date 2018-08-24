@@ -10,7 +10,7 @@ sponsors: true
 
 The 2018 PyCon Australia Python in Education Seminar will be held on Friday
 August 24th in Sydney, Australia, at the
-[International Convention Center, Sydney](https://www.iccsydney.com.au).
+[International Convention Centre, Sydney](https://www.iccsydney.com.au).
 
 * The main conference CFP (including proposals for the Education Seminar)
   has now closed. We look forward to sharing our list of selected presentations
