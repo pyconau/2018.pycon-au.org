@@ -365,6 +365,10 @@
       logo: oca.png
       link: odoo-community.org
       href: https://odoo-community.org/
+    - name: Breakaway Consulting
+      logo: breakaway.png
+      link: Breakaway Consulting
+      href: https://2018.pycon-au.org
 
 - 
   title: Auspice
