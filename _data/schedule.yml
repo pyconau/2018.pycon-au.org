@@ -155,7 +155,7 @@
         startTime: "14:10",
         endTime:   "14:40",
         duration: 30,
-        talkIds: [44889, 45199, 43169, 45062]
+        talkIds: [44889, 45199, 404, 45062]
     }
     - { startTime: "14:40", endTime: "14:50", talkIds: [504]} 
     - {
