@@ -6,7 +6,7 @@ permalink: /schedule/
 card: schedule.png
 ---
 
-<meta http-equiv="refresh" content="0;URL='/schedule/saturday'" />
+<meta http-equiv="refresh" content="0;URL='/schedule/sunday'" />
 
-<a href="/schedule/saturday">Go to Saturday</a>
+<a href="/schedule/sunday">Go to Sunday</a>
 
