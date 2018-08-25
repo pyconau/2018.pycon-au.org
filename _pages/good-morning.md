@@ -12,6 +12,22 @@ Missed the opening announcements? We've collected the important information here
 </span>
 <hr>
 
+
+
+# Sunday
+
+## Shirts
+
+You can buy a shirt from today. Stocks are based on what sizes/cuts are still available. 
+
+Please check with registration to see if your size/cut is available, then go to [our Tickets page](http://tito.io/pycon-au/2018) to buy a shirt online. Then, show rego your completed purchase to get your shirt. 
+
+## Lightning Talk - Submission Tips
+
+Front of card: Name, title of talk
+Back of card: information for helping with selection of your talk, a brief abstract, TLDR, dotpoints, just something helpful. PLUS a contactable email address.
+
+
 # Saturday
 
 Here are some quick notes from Saturday Morning's opening.
