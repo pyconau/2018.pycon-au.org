@@ -29,6 +29,27 @@ snake: rainbow
 
 <hr>
 
+
+{% comment %} List associated resources: recording and author slides/resources. {% endcomment %}
+{% if page.resources %}
+  <span>Resources:</span>
+
+  <ul>
+    {% if page.video != blank %}
+    <li>
+    <a href="{{ page.video }}">Video</a>
+    </li>
+    {% endif %}
+
+    {% for resource in page.resources %}
+    <li>
+      <a href="{{ resource.url }}">{{ resource.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
 {{ content | markdownify }}
 
 
