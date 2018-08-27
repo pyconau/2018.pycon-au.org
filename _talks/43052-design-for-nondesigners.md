@@ -20,6 +20,11 @@ speakers:
 abstract: Want to up your design skills? This presentation will give you the building
   blocks you need to make better designs for your websites and presentations. Aimed
   at design beginners and developers.
+
+video: https://www.youtube.com/watch?v=21byk2WWz3k
+resources:
+  - title: Slides
+    url: https://speakerdeck.com/limedaring/design-for-non-designers-djangocon-au
 ---
 Even if you consider yourself not a designer, you'll still be placed in situations where you have to do some design. A personal website, a landing page for your open-source project, slides for a presentation at work... 
 
