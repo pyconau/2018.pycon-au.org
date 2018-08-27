@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/go7JklZRtrs
+slides_url: https://speakerdeck.com/curiouslearner/becoming-a-mutltilingual-superhero-in-django
 layout: talk
 recordingconsent: true
 talkid: 44212
