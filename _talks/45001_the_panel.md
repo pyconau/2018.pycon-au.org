@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/sH6lJGQdSt8
 layout: talk
 talkid: 45001
 title: The Panel

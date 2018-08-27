@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/QNAgPjbn0Ws
 layout: talk
 talkid: 998
 length: 400px

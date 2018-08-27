@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/q9W4F6elTiw
 layout: talk
 talkid: 41002
 type: talk
