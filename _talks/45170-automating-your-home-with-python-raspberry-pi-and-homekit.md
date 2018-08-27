@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/SiLtPgeTZLA
+slides_url: https://github.com/seanson/2018-pyconau-homekit-python
 layout: talk
 recordingconsent: true
 talkid: 45170
