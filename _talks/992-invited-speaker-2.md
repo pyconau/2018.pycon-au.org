@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/9E3qhqWFJ2c
 layout: talk
 permalink: /talks/tom
 talkid: 992

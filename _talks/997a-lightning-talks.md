@@ -1,10 +1,10 @@
 ---
+video_url: https://youtu.be/BmWLhVMWC9I
 layout: talk
 type: talk
 talkid: 997a
-title: Lightning Talks
+title: Saturday Lightning Talks
 recordingconsent: true
-permalink: /lightning-talks
 speakers: 
     - name: Lightning Talk Tzar
       company: Lightning Timer Inc. 

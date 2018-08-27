@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/go7JklZRtrs
 layout: talk
 recordingconsent: true
 talkid: 44212

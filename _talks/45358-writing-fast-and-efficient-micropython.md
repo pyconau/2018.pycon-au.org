@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/hHec4qL00x0
 layout: talk
 recordingconsent: true
 talkid: 45358

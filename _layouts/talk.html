@@ -19,19 +19,28 @@ snake: rainbow
       {%- endfor -%}
   {%- endfor -%}
 {%- endfor -%}
+{% if page.video_url != blank %}
+      <br>
+      {% assign youtube_id = page.video_url | replace:"https://youtu.be/",""%}
+      {% include youtube-embed.html id=youtube_id %}
+{%endif%}
 </span>
 
 {% if page.abstract %}
 <hr>
 
-<span class="abstract">{{ page.abstract | markdownify}}</span>
+<span class="abstract">{{ page.abstract | markdownify}}
+</span>
 {% endif %}
 
 <hr>
-
+{% if page.slides_url %}<p><a href="{{page.slides_url}}" target="_blank">Slides ({% assign domain = page.slides_url | split: "/" %}{{ domain[2]}})</a></p>{% endif%}
 {{ content | markdownify }}
 
 
+{% if page.video_url != blank %}
+    <br><a href="{{page.video_url}}">Watch '{{page.title}}' on PyCon AU's YouTube account</a>
+{% endif %}
 </div>
 <div class="col-12 col-lg-3">
 <hr class="d-lg-none">

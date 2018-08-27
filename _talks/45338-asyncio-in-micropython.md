@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/tIgu7q38bUw
 layout: talk
 recordingconsent: true
 talkid: 45338
@@ -14,6 +15,7 @@ speakers:
   twitter: matt_trentini
   url: ''
 
+video_url: https://youtu.be/tIgu7q38bUw
 abstract: 'Asyncio is cool in Python. It''s super cool in MicroPython!
 
 

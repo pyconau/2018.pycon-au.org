@@ -1,4 +1,6 @@
 ---
+video_url: https://youtu.be/21byk2WWz3k
+slides_url: https://speakerdeck.com/limedaring/design-for-non-designers-djangocon-au
 layout: talk
 recordingconsent: true
 talkid: 43052

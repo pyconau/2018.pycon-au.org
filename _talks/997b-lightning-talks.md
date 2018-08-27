@@ -1,8 +1,9 @@
 ---
+video_url: https://youtu.be/rNkbmu4e3MA
 layout: talk
 type: talk
 talkid: 997b
-title: Lightning Talks
+title: Sunday Lightning Talks
 permalink: /lightning-talks
 recordingconsent: true
 speakers: 

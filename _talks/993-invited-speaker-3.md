@@ -1,4 +1,5 @@
 ---
+video_url: https://youtu.be/fOzJ-OIZRZw
 layout: talk
 permalink: /talks/tracy
 talkid: 993
