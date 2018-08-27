@@ -34,7 +34,7 @@ snake: rainbow
 {% endif %}
 
 <hr>
-
+{% if page.slides_url %}<p><a href="{{page.slides_url}}" target="_blank">Slides ({% assign domain = page.slides_url | split: "/" %}{{ domain[2]}})</a></p>{% endif%}
 {{ content | markdownify }}
 
 
