@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/U_KhEi2vRT8
+slides_url: https://github.com/Zac-HD/slides/blob/master/pyconau-2018-hypothesis.pdf
 layout: talk
 recordingconsent: true
 talkid: 44889
@@ -21,7 +22,7 @@ speakers:
     \ - preferably far out of phone range!"
   company: 3A Institute, Australian National University
   name: Zac Hatfield-Dodds
-  thumbnailUrl: zac-hatfielddodds.png
+  thumbnailUrl: zac-hatfielddodds.jpg
   twitter: ''
   url: ''
 
