@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/YsJPZnI2Liw
+slides_url: https://www.slideshare.net/ajoseph811/a-travellers-guide-to-mapping-technologies-in-django
 layout: talk
 recordingconsent: true
 talkid: 44482
