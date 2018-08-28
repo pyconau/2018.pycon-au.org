@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/MEba95kL0eo
+slides_url: https://speakerdeck.com/rivolaks/creating-solid-apis-djangocon-au-2018
 layout: talk
 recordingconsent: true
 talkid: 45289
