@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/Ldz6io2_pOE
+slides_url: http://www.jennierosenbaum.com/wordpress/wp-content/uploads/2018/08/pyconau-2018.pdf
 layout: talk
 recordingconsent: true
 talkid: 45247
