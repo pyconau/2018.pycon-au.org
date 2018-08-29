@@ -16,6 +16,10 @@ speakers:
       tag: Invited Speaker
       url: https://startups.microsoft.com/
       thumbnailUrl: annie-parker.png
+    - name: Shaqaeq Rezai
+      thumbnailUrl: shaqaeq.jpg
+      twitter: r_Shaqaeq
+      tag: Guest Speaker
 abstract:  | 
     Annie is a co-founder of Techfugees Australia - a global movement
     connecting the technology ecosystem together with newly arrived refugees here
