@@ -1,5 +1,6 @@
 ---
 video_url: https://youtu.be/JNZH95aXNXo
+slides_url: https://docs.google.com/presentation/d/1xScnw2Ij4elMvbK7CMxs7ffkZRZH4N2mYPszAKKB3ag/edit?usp=sharing
 layout: talk
 recordingconsent: true
 talkid: 45252
@@ -25,3 +26,6 @@ With the recent introduction of the GDPR requirement to be able to access your o
 
 I'll show you how to access your own data on sites like this, as well as how I learnt to use the rich data analytics and visualisation tools offered in Python. You should leave with an awareness of how websites' structures affect usage, how to learn to analyse and show usage patterns in Python, and some fun cool anecdotes about tweets, reactions and 40-person private message groups.
 
+Links:
+- [GitHub social-media-data code repository](https://github.com/caitelatte/social-media-data)
+- [Twitter thread about the talk and submitting the proposal!](https://twitter.com/caitelatte/status/1033592792549810177)
