@@ -31,6 +31,8 @@ If at any time during the conference you feel unsafe or want to report questiona
 
 #### Send SMS or Call: 0411 707 796
 
+Note: **number no longer monitored**, since the conference is now over.
+
 Find any volunteer or organiser (green lanyard or green bandana) who will direct you to one of the following people, who you can also message or email directly.
 
 #### Katie Bell
