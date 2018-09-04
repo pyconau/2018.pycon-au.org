@@ -9,7 +9,8 @@ card: home.png
 
 <hr>
 <span class="abstract">
-PyCon AU, the national Python Language conference, is on again this August in Sydney, at the **International Convention Centre, Sydney**, August 24 - 28 2018. 
+PyCon AU is the national Python programming language conference.<br>
+PyCon AU 2018 was held in Sydney, at the **International Convention Centre, Sydney**, August 24 - 28 2018. [Videos now on YouTube](https://www.youtube.com/playlist?list=PLs4CJRBY5F1KrUr7z_2mur2QdAKXyh-k3)
 </span>
 <hr>
 
@@ -19,9 +20,3 @@ PyCon AU, the national Python Language conference, is on again this August in Sy
 {% assign latestnews = site.posts.first %}
 Latest news: [{{latestnews.title | remove: "<br>" }}]({{latestnews.url}}). See [all news](/news).
 
-<hr>
-
-Want to help us make PyCon AU happen? [Sign up as a sponsor](/news/call-for-sponsorship/). Gold Level sponsorships still available.
-
-
-{% comment %} TODO Most Recent News Article Here {% endcomment %}
