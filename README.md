@@ -1,4 +1,4 @@
-## PyCon AU 2018 website
+## Python AU 2018 website
 
 https://2018.pycon-au.org
 
@@ -27,3 +27,7 @@ jekyll serve -w
 ## Issues
 
 If you wish to update the conference website, please submit a [pull request](https://help.github.com/articles/about-pull-requests/)
+
+## PROBlem
+
+if you face any problem you can make changes or give pull request
