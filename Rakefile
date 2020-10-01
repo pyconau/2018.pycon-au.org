@@ -1,6 +1,6 @@
 require 'time'
 
-desc 'create a new news post'
+desc 'create an unique news post'
 task :post, [:title]  do |t, args|
     
     title = args[:title]
