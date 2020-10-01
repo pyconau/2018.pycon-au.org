@@ -1,11 +1,12 @@
 Schedule:
-    - Sticky navbar for day jumping.
+
+    - Sticky Navbar for day jumping.
     - Rework for rowspan.
     - Collapsible sections.
 
-Talk
-    - add a room to link.
+Talk:
+    - add a room to a link.
 
-News
+News:
     - post about schedule
     - post also about tickets.
