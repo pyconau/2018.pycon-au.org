@@ -11,11 +11,11 @@ permalink: /djangoconau/
 card: django.png
 
 speakers: 
-    - name: Adam Brenecki
+    - name: Daisy Leigh Brenecki
       company: CMV Group
-      twitter: adambrenecki
-      url: https://adam.brenecki.id.au
-      thumbnailUrl: adam-brenecki.png
+      twitter: asteracode
+      url: https://daisy.wtf
+      thumbnailUrl: daisy-brenecki.png
     - name: Markus Holtermann
       thumbnailUrl: markus-holtermann.png
       twitter: m_holtermann
